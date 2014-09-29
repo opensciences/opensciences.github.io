@@ -5,12 +5,12 @@ layout: main
 
 <center>
 <table>
-<tr><td valign=middle>
+<tr><td>
 
 
 [[img/jigsaw0.jpg]]
 
-</td><td valign=middle>
+</td><td>
 
 [[img/jigsaw0.jpg]]
 
