@@ -12,7 +12,7 @@ layout: main
 
 </td><td>
 
-<img  src="http://openscience.us/img/files0.jpg" width=300>
+<img  src="http://openscience.us/img/files0.jpg">
 
 </td></tr></table>
 </center>
