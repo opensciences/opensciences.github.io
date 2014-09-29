@@ -3,8 +3,18 @@ title: Home
 layout: main
 ---
 
-# Hello!
+<center>
+<table>
+<tr><td valign=middle>
 
-hi here and _not there_.
+
+[[img/jigsaw0.jpg]]
+
+</td><td valign=middle>
+
+[[img/jigsaw0.jpg]]
+
+</td></tr></table>
+</center>
 
 
