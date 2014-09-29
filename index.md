@@ -8,11 +8,11 @@ layout: main
 <tr><td>
 
 
-[[img/jigsaw0.jpg]]
+<img src="http://openscience.us/img/jigsaw0.jpg">
 
 </td><td>
 
-[[img/jigsaw0.jpg]]
+<img src="http://openscience.us/img/files0.jpg">
 
 </td></tr></table>
 </center>
