@@ -12,9 +12,27 @@ layout: main
 
 </td><td>
 
+
+</td><td>
+
+
 <img  src="http://openscience.us/img/files0.jpg">
 
-</td></tr></table>
+</td></tr>
+
+
+<tr><td>
+
+<h1 class=blue>The Journal of Software Engineering</h1>
+<p>An open science initiative.</p>
+
+</td><td>
+
+<h1 class=orange>The PROMISE repository</h1>
+<p>An open archive of research artifacts.</p>
+
+</td></tr>
+</table>
 </center>
 
 
