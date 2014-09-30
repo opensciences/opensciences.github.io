@@ -36,7 +36,7 @@
   {% for post in site.posts %}
     <p>
       <em>{{post.date}}</em>: <a href="{{ post.url }}">{{ post.title }}</a>:  
-      {{post.excerpt}}
+      <ul><li>{{post.excerpt}}</li></ul>
     </p>
   {% endfor %}
 
