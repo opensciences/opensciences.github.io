@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: journal1
 title: Using the Web Icons
 category: Design
 

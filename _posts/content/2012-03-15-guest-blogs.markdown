@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: journal1
 title: Guest Posts
 author: John Smith
 
