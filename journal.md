@@ -4,4 +4,4 @@ title: The Journal
 ---
 
 
-## Latest Posts
+## What's New...
