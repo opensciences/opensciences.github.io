@@ -14,6 +14,10 @@
 <body>
   &nbsp;
 
+  <center>
+
+
+    {% include journalnav.html %}
 
   </center>
 
