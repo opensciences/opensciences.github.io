@@ -36,7 +36,7 @@
   {% for post in site.posts %}
     <p>
       <em>
-         {{ post.date | date: "%b%-d'%y" }}
+         {{ post.date | date: "%b%-d '%y" }}
       </em>: <a href="{{ post.url }}">{{ post.title }}</a>:  
       <ul><li>{{post.excerpt}}<br>
       {{page.categories}}</li></ul>
