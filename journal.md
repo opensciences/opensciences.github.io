@@ -1,5 +1,5 @@
 ---
-layout: journal1
+layout: journals
 title: The Journal
 ---
 
