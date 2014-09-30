@@ -35,8 +35,11 @@
 
   {% for post in site.posts %}
     <p>
-      <em>{{post.month}}{{post.day}}, {{post.year}}</em>: <a href="{{ post.url }}">{{ post.title }}</a>:  
-      <ul><li>{{post.excerpt}}</li></ul>
+      <em>
+         {{ page.date | date: "%-d %B %Y" }}
+      </em>: <a href="{{ post.url }}">{{ post.title }}</a>:  
+      <ul><li>{{post.excerpt}}<br>
+      {{page.categories}}</li></ul>
     </p>
   {% endfor %}
 
