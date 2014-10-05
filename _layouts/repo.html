@@ -41,6 +41,10 @@
 
 
 	{% for post in site.posts do %}
+	   {{post.title}}
+        {% endfor %}
+
+
          {% if post.category[0] == "content" %}
 
          <div class="box">
