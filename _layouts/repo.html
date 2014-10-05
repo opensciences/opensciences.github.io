@@ -40,14 +40,19 @@
       <div class="grid_10 home_box" id="content_box">
 
 
-	{% for item in site.categories.content.posts do %}
+	{% for page in site.pages do %}
+
+        {% for pc in page.categories %}
+        {% if pc == content %}
 
          <div class="box">
-         <h2>{{item.title}}</h2>
+         <h2>{{page.title}}</h2>
            <div class="block">
-              {{item.content}}
+              {{page.content}}
            </div>
          </div>
+        {% endif %}
+        {% endfor %}
         {% endfor %}
       
        
