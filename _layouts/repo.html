@@ -40,8 +40,7 @@
       <div class="grid_10 home_box" id="content_box">
 
 
-	{% for post in site.pages do %}
-
+	{% for post in site.posts do %}
          {% if post.category[0] == "content" %}
 
          <div class="box">
@@ -50,8 +49,8 @@
               {{post.content}}
            </div>
          </div>
-         {% endif %}
 
+         {% endif %}
         {% endfor %}
       
        
