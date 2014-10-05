@@ -1,5 +1,5 @@
 ---
-title: tera-Promise, History
+title:  History
 layout: repo
 ---
 
