@@ -3,6 +3,8 @@ title: tera-Promise
 layout: repo
 ---
 
+<div class=box>
+
 ## Welcome to the tera-Promise Repository
  
 This is an open science repository for artifacts of SE research that stores:
@@ -12,6 +14,8 @@ This is an open science repository for artifacts of SE research that stores:
 + Scripts used in SE data science analytics;
 + Checklists and templates for SE research;
 + etc.
+
+</div> <div class=box>
 
 ## History
 
@@ -33,3 +37,4 @@ This is version four of the Promise repository:
   the same time, a support discussion forum was created at
   _openscience.us/content_.
 
+</div>
