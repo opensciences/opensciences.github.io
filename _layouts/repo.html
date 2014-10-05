@@ -42,8 +42,7 @@
 
 	{% for page in site.pages do %}
 
-        {% for pc in page.categories %}
-        {% if pc == content %}
+         {% if page.category == content %}
 
          <div class="box">
          <h2>{{page.title}}</h2>
@@ -52,7 +51,7 @@
            </div>
          </div>
         {% endif %}
-        {% endfor %}
+
         {% endfor %}
       
        
