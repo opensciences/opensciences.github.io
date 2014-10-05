@@ -5,14 +5,9 @@ layout: repoposts
 
 
 
-## Welcome to the tera-Promise Repository
- 
-This is an open science repository for artifacts of SE research that stores:
+# Blog
 
-+ Data from SE projects;
-+ Models that are commonly used in search-based SE;
-+ Scripts used in SE data science analytics;
-+ Checklists and templates for SE research;
-+ etc.
+Welcome to our blog on latest
+updates to the tera-Promise repository.
 
 
