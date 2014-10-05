@@ -40,6 +40,15 @@
       <div class="grid_10 home_box" id="content_box">
 
 
+	{% for item in site.categories.content.posts do %}
+
+         <div class="box">
+         <h2>{{item.title}}</h2>
+           <div class="block">
+              {{item.content}}
+           </div>
+         </div>
+        {% endfor %}
       
        
        <div class=block><div class=box>
