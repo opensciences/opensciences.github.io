@@ -40,15 +40,8 @@
       <div class="grid_10 home_box" id="content_box">
 
 
-	{% for post in site.posts do %}
-	   {% if post.category == "content" %}
-             <div class="box">
-               <h2>{{post.title}}</h2>
-                  <div class="block">
-                    {{post.content}}
-                  </div>
-              </div>
-           {% endif %}
+	{% for post in site.posts.content do %}
+	   {{post.title}}
         {% endfor %}
 
 
