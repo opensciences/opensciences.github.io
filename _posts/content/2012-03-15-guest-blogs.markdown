@@ -2,6 +2,7 @@
 layout: journal1
 title: Guest Posts
 author: John Smith
+category: content
 
 excerpt: How to quickly create guest blogs with a different author. 
 
