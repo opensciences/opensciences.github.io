@@ -41,7 +41,9 @@
 
 
 	{% for post in site.posts do %}
-	   {{post.title}}
+	   {% if post.category[0] == "content" %}
+             {{post.title}}
+           {% endif %}
         {% endfor %}
 
 
