@@ -10,4 +10,5 @@ The journal offers electronic and paper publication of high-quality scholarly ar
 
 DISE has a commitment to rigorous yet rapid reviewing. Final versions are published electronically (ISSN XXX-7XXX928) immediately upon receipt. Paper volumes are now published and sold by XXXX Publishing
 
-## What's New...
+## News
+
