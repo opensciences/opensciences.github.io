@@ -3,7 +3,7 @@ title: Board
 layout: journal1
 ---
 
-<img src="{{site.url}}/img/gd.png" width=150 align=right>
+<img src="{{site.url}}/img/gd.png" width=250 align=right>
 
 ## Editors-in-chief
 
