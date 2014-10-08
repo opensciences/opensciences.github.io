@@ -1,8 +1,12 @@
-Papers
-======
+---
+title: papers
+layout: journals1
+----
 
-Volume 1
---------
+## Papers
+
+
+### Volume 1 
 
 + Shao, Linshuang	David Parnas: [Designing Software for Ease of Extension and Contraction](aa.pdf);   
   Vol 1, No 5.
