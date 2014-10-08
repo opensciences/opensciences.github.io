@@ -3,7 +3,7 @@ layout: journals
 title: The Journal
 ---
 
-<img align=right src="{{site.url}}/img/open_access.jpg">
+<img width=150 align=right src="{{site.url}}/img/open_access.jpg">
 The Journal of Developments in Software Engineering (DISE) provides an international  forum for the evaluation and maturation of software engineering ideas. 
 
 The journal offers electronic and paper publication of high-quality scholarly articles in all areas of software engineering. All published papers are freely available online.
