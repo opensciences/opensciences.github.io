@@ -1,7 +1,7 @@
 ---
 title: papers
 layout: journals1
-----
+---
 
 ## Papers
 
