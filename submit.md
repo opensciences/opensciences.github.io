@@ -6,6 +6,8 @@ layout: journal1
 Review Process
 ---------------------
 
+* Articles will be submitted in a PDF format, according to some yet-to-be-defined style.
+
 * Articles are reviewed on monthly cycles, starting on the first of each month. Deadlines are the first of each month.
 
 * If an article is accepted without changes, the article will be published immediately in that month's issue.
@@ -17,6 +19,12 @@ Review Process
 * Articles are reviewed in a single-blind fashion.
 
 * The editorial board is divided in half, such that half of the editors handle submissions on odd months, and half on even months.
+
+* Published articles will be hosted on arxive.org, and linked to through the journal's page.
+
+* Accepted articles will be published under a Creative Commons Attribution 4.0 license.
+
+* Preferences given to articles whose authors make their study artifacts openly available.
 
 Special Issues
 --------------------
@@ -30,26 +38,21 @@ Special Issues
 * Workshops and conferences are simply treated as special issues. Here is an example of how a hypothetical paper that is presented at a conference that is published as a special issue would be cited:
 
     @article{citeulike:11236861,
-    author = {Rodriguez, Bender},
-    doi = {10.1007/s10844-006-9928-6},
-    issn = {0925-9992},
-    journal = {Proceedings of the Conference on Advanced Bending Technologies in the Journal of Software Science},
-    volume = {9},
-    number = {3},
-    pages = {7--24},
-    title = {Bite Me},
-    url = {http://arxiv.org/abs/1419.0569},
-    year = {2014}
-}
+        author = {Rodriguez, Bender},
+        doi = {10.1007/s10844-006-9928-6},
+        issn = {0925-9992},
+        journal = {Proceedings of the Conference on Advanced Bending Technologies in the Journal of Software Science},
+        volume = {9},
+        number = {3},
+        pages = {7--24},
+        title = {Bite Me},
+        url = {http://arxiv.org/abs/1419.0569},
+        year = {2014}
+    }
 
-- Some notion of "categories" for papers (?)
-- The "volume" of a journal is not the year as is traditional, instead
-a new volume is released whenever the editorial policy changes.
-- 1st issue: perspetives on open science and software engineering.
-(this is a consistent "category")
-- Regular virtual town hall.
-- PDF in some prescribed format.
-- Review time is proportional to paper length. (4 pages per month)
-- Camera ready papers on openscience.us
-- CC license: Attribution 4.0.
-- Preferences given to those who make their artifacts available.
+On Policy Evolution
+--------------------------
+
+* Open, virtual "town halls" will be held to discuss editorial policy.
+
+* The "volume" of the journal is released whenever the editorial policy changes.
