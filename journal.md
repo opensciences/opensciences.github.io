@@ -20,4 +20,6 @@ electronically (ISSN XXX-7XXX928) immediately upon
 receipt. Paper volumes are now published and sold by
 XXXX Publishing
 
-## What's New...
+
+## News
+
