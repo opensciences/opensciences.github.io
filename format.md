@@ -6,18 +6,18 @@ layout: journal1
 ## Standard Page Lengths
 
 The Software Science Journal measures paper size in terms of 
-_standard lengths_
+_single lengths_ where such a "single length" is
 
 + Four pages of PDF files, in the format described below, inclusive of all diagrams, equations and figures.
 + 3400 words of Markdown files (including text of references), where each non-small figure and table
   counts for 250 words. In this context a _small figure_ would be a one line equation rendered as an image.
 
-## Standard Lengths and Reviewing
+## Single Lengths and Reviewing
 
 The Software Science Journal offers review times proportional to submission length.
 
-+ One month review cycles for submissions up to _one_ standard length;
-+ Two month review cycles for submissions up to _two_ standard length;
++ One month review cycles for submissions up to _one_ single length;
++ Two month review cycles for submissions up to _two_ single lengths;
 + etc.
 
 
