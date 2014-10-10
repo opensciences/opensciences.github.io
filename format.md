@@ -3,7 +3,7 @@ title: Formatting instructions
 layout: journal1
 ---
 
-## Standard Page Lengths
+## Single Page Lengths
 
 The Software Science Journal measures paper size in terms of 
 _single lengths_ where such a "single length" is
