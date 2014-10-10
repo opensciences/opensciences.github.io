@@ -14,7 +14,7 @@ Review Process
 ---------------------
 
 Articles will be submitted in a PDF format,
-  according to our [house style](format).
+  according to our [house style]({{url}}/format).
 
 Articles are reviewed on monthly cycles, starting
   on the first of each month. Deadlines are the
@@ -34,7 +34,7 @@ The Software Science Journal offers review times proportional to
 
 where _single length_ is for:
 
-+ Up to four pages of PDF files, in the [house format](format).
++ Up to four pages of PDF files, in the [house format]({{url}}/format).
 + Up to 3400 words of Markdown files (where every figure and table
         counts for 250 words).
 
