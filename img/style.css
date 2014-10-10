@@ -57,7 +57,8 @@ div.swatch1 {
     padding-right: 10px; 
     padding-left: 10px; 
     margin-right: 0px;
-    padding-top: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
     color: white;
     xfont-size: small;
     font-weight: bold;
@@ -75,6 +76,8 @@ div.swatch2 {
     padding-right: 10px; 
     padding-left: 10px; 
     margin-right: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
     color: black;
     xfont-size: small;
     font-weight: bold;
