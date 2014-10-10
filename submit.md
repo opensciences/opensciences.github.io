@@ -92,7 +92,9 @@ Workshops and conferences are simply treated as
         author = {Rodriguez, Bender},
         doi = {10.1007/s10844-006-9928-6},
         issn = {0925-9992},
-        journal = {Proceedings of the Conference on Advanced Bending Technologies in the Journal of Software Science},
+        journal = {Proceedings of the Conference on
+		           Advanced Bending Technologies in the
+				   Software Science Journal},
         volume = {9},
         number = {3},
         pages = {7--24},
