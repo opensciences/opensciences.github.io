@@ -3,18 +3,23 @@ title: Formatting instructions
 layout: journal1
 ---
 
-## Page Lengths
+## Standard Page Lengths
 
-The Software Science Journal offers review times proportional to
-the length of the submission:
+The Software Science Journal measures paper size in terms of 
+_standard lengths_
 
-+ One month times each  _standard length_.
++ Four pages of PDF files, in the format described below, inclusive of all diagrams, equations and figures.
++ 3400 words of Markdown files (including text of references), where each non-small figure and table
+  counts for 250 words. In this context a _small figure_ would be a one line equation rendered as an image.
 
-where _standard length_ is for:
+## Standard Lengths and Reviewing
 
-+ Four pages of PDF files, in the format described below,
-+ 3400 words of Markdown files (where every figure and table
-  counts for 250 words).
+The Software Science Journal offers review times proportional to submission length.
+
++ One month review cycles for submissions up to _one_ standard length;
++ Two month review cycles for submissions up to _two_ standard length;
++ etc.
+
 
 ## Styles
 
@@ -43,10 +48,11 @@ to
 
     \section{Introduction}\label{sec:introduction}
 
-Note the following required changes to the IEEE styles:
+Note that SSJ requires the following modifications to the IEEE styles:
 
 + No biography entries at the end of the document;
 + No keywords before the start of the article.
++ Render bibliographies using the abbrv style (for examples see [here](https://verbosus.com/bibtex-style-examples.html).
 
 ### Markdown Files
 
@@ -65,18 +71,26 @@ directory `img/XXX/` where XXX is some short set of
 initials generated from the author names (this will
 let us hold your files separately to other authors.
 
-If your file contains references, then use reference style links
-(either _inline_ or otherwise).
-Inline:
-
-	An [example](http://url.com/ "Title")
-
-Reference-style labels (titles are optional):
+If your file contains references, then use reference style labels:
 
 	An [example][id]. Then, anywhere
 	else in the doc, define the link:
 	
 	  [id]: http://example.com/  "Title"
+
+Note that:
+
++ The "Title" entry must one one line long and emulate entries in DBLP (see the example below).
++ The URL should point to some publically accessible site that is not maintained by the paper such as the ACM portal
+  or IEEE Xplorer. . E.g. the following example links the reference to the ACM digital lbrary
+
+    [men13a]: http://goo.gl/neqiPD "Tim Menzies: Beyond Data Mining. IEEE Software 30(3): 92 (2013)"
+reference style links
+(either _inline_ or otherwise).
+Inline:
+
+Note that in-line references `[example](http://url.com/ "Title")` should not be used. 	
+
 
 
 
