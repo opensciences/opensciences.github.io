@@ -30,7 +30,7 @@ If an article is not accepted, the authors may
 The Software Science Journal offers review times proportional to
   the length of the submission:
   
-    + One month times each  _single length_.
++ One month times each  _single length_.
 
 where _single length_ is for:
 
