@@ -26,7 +26,6 @@ Review Process
       + One month times each  _single length_.
 
   where _single length_ is for:
-
       + Up to four pages of PDF files, in the [house format](format).
       + Up to 3400 words of Markdown files (where every figure and table
         counts for 250 words).
