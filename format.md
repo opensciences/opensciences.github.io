@@ -82,14 +82,14 @@ Note that:
 
 + The "Title" entry must one one line long and emulate entries in DBLP (see the example below).
 + The URL should point to some publically accessible site that is not maintained by the paper such as the ACM portal
-  or IEEE Xplorer. . E.g. the following example links the reference to the ACM digital lbrary
+  or IEEE Xplorer. 
 
-    [men13a]: http://goo.gl/neqiPD "Tim Menzies: Beyond Data Mining. IEEE Software 30(3): 92 (2013)"
-reference style links
-(either _inline_ or otherwise).
-Inline:
+For example, here is a reference that links a publications to
+the  ACM digital library via a Google shortenner short-cut.
 
-Note that in-line references `[example](http://url.com/ "Title")` should not be used. 	
+      [men13a]: http://goo.gl/neqiPD "Tim Menzies: Beyond Data Mining. IEEE Software 30(3): 92 (2013)"
+
+Note that in-line references such as `[example](http://url.com/ "Title")` should not be used. 	
 
 
 
