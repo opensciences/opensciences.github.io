@@ -13,7 +13,7 @@ The "volume" of the journal is released whenever the editorial policy changes.
 Policies for Volume 1
 ---------------------
 
-## Review Process 
+### Review Process 
 
 Articles will be submitted in a PDF format,
   according to our [house format]({{url}}/format).
@@ -67,7 +67,7 @@ Preferences given to articles whose authors make
 	   make their study artifacts available
 	   on [tera-Promise](http://openscience.us/content).
 
-## Special Issues
+### Special Issues
 
 Potential guest editors may submit proposals for
   special issues. The reviewing process remains the
