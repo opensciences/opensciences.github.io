@@ -88,7 +88,7 @@ For example, here is a reference that links a publications to
 the  ACM digital library via a Google shortenner short-cut.
 
 ````
-   [men13a]: http://goo.gl/neqiPD "Tim Menzies: Beyond Data Mining. IEEE Software 30(3): 92 (2013)"
+   &lbrack;men13a]: http://goo.gl/neqiPD "Tim Menzies: Beyond Data Mining. IEEE Software 30(3): 92 (2013)"
 ````
 
 Note that in-line references such as `[example](http://url.com/ "Title")` should not be used. 	
