@@ -14,7 +14,7 @@ Review Process
 ---------------------
 
 Articles will be submitted in a PDF format,
-  according to our [house style]({{url}}/format).
+  according to our [house format]({{url}}/format).
 
 Articles are reviewed on monthly cycles, starting
   on the first of each month. Deadlines are the
@@ -52,7 +52,7 @@ The editorial board is divided in half, such that
   half of the editors handle submissions on odd
   months, and half on even months.
 
-Published articles will be hosted on arxive.org,
+Published articles will be hosted on arxiv.org,
   and linked to through the journal's page.
 
 Accepted articles will be published under a
