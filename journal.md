@@ -4,7 +4,7 @@ title: The Journal
 ---
 
 <img width=200 align=right
-src="{{site.url}}/img/open_access.jpg"> The Software
+src="/img/open_access.jpg"> The Software
 Science Journal (SSJ) provides an international
 forum for the evaluation and maturation of software
 engineering ideas.
