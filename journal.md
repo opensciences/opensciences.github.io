@@ -16,9 +16,9 @@ freely available online.
 
 SSJ has a commitment to rigorous yet rapid
 reviewing. Final versions are published
-electronically (ISSN XXX-7XXX928) immediately upon
-receipt. Paper volumes are now published and sold by
-XXXX Publishing
+electronically (ISSN ISSN 2375-5741) immediately upon
+receipt. Paper volumes are now published and sold 
+on demand within Amazon.
 
 
 ## News
