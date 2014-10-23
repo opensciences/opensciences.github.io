@@ -1,7 +1,6 @@
 ---
 layout: journal1
 title: On-line!
-category: journal
 
 excerpt: A draft version of  journal goes on-line.
 

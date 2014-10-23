@@ -32,18 +32,21 @@
 {{content}}
 
 
-{% for post in site.posts do %}
-           {% if post.category == "journal" %}
-            <p><em>
-              {{ post.date | date: "%b%-d '%y" }}
-            </em>
-              <a href="{{ post.url }}">{{ post.title }}</a>:  
-                <ul><li>{{post.excerpt}}<br>
-                 {{page.categories}}</li></ul>
-            </p>
-           {% endif %}
-        {% endfor %}
 
+{% for post in site.categories.journal do %}
+    <p>
+        <em>
+            {{ post.date | date: "%b%-d '%y" }}
+        </em>
+        <a href="{{ post.url }}">{{ post.title }}</a>:  
+        <ul>
+            <li>
+                {{post.excerpt}}<br>
+                "{{post.categories}}"
+            </li>
+        </ul>
+    </p>
+{% endfor %}
 
 
 
