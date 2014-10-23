@@ -89,10 +89,4 @@ the  ACM digital library via a Google shortenner short-cut.
 
 *   _&lbrack;men13a]: http://goo.gl/neqiPD "Tim Menzies: Beyond Data Mining. IEEE Software 30(3): 92 (2013)"_
 
-Note that in-line references such as `[example](http://url.com/ "Title")` should not be used. 	
-
-
-
-
-
-
+Note that in-line references such as `[example](http://url.com/ "Title")` should not be used.

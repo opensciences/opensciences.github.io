@@ -22,4 +22,3 @@ on demand within Amazon (print ISSN  2375-5741).
 
 
 ## News
-

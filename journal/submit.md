@@ -103,4 +103,3 @@ Workshops and conferences are simply treated as
         url = {http://arxiv.org/abs/1419.0569},
         year = {2014}
     }
-

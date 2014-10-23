@@ -19,5 +19,4 @@ layout: journal1
   [Capturing More World Knowledge in the Requirements Specification](aa.pdf);    
 + _Vol 1, No 1._
   Chen, Xiangping	David L. Parnas, Paul C. Clements, David M. Weiss:
-  [The Modular Structure of Complex Systems](aa.pdf);  
-  
+  [The Modular Structure of Complex Systems](aa.pdf);

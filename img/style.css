@@ -1,6 +1,5 @@
 body { 
    font-size: small;
-   background: url(img/cream_dust.png) repeat 0 0;
 }
  
 
@@ -85,8 +84,7 @@ div.swatch2 {
     display: inline-block;
 }
 table.header { align:center;
-	       margin-top: 40px; 
-	       background-image: url(img/cream_dust.png);
+	       margin-top: 40px;
                margin-bottom: 30px;}
 .swatch1 a:link    {color: white; text-decoration: none; }
 .swatch1  a:hover   {color: white; text-decoration: underline; }

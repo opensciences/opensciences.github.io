@@ -33,8 +33,8 @@ url: "http://openscience.us"
 markdown: redcarpet
 # pygments: true
 
-# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
+# How permalinks appear
+permalink: none
 
 # How many articles do you wish to appear on the front page:
 paginate: 3
