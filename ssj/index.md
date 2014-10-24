@@ -3,7 +3,7 @@ layout: journals
 title: The Journal
 ---
 
-<img width=200 align=right
+<img width=150 align=right
 src="/img/open_access.jpg"> The Software
 Science Journal (SSJ) provides an international
 forum for the evaluation and maturation of software
