@@ -1,7 +1,6 @@
 ---
 title: Blog
 layout: repoposts
-category: repoblog
 ---
 
 # Blog
