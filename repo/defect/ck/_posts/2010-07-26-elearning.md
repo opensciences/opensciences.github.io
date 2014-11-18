@@ -7,9 +7,9 @@ layout: repo
 # URL
 
   * Latest version :
-    * [e-learning](http://promisedata.googlecode.com/svn/trunk/defect/elearning/e-learning.csv)
+    * [e-learning](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/elearning/e-learning.csv)
   * With change log:
-    * [e-learning](http://code.google.com/p/promisedata/source/browse/trunk/defect/elearning/)
+    * [e-learning](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/elearning/)
 
 # Change Log
 
