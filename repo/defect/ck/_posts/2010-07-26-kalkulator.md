@@ -1,6 +1,6 @@
 ---
-title: berek
-excerpt: berek OO defect data
+title: kalkulator
+excerpt: kalkulator OO defect data
 layout: repo
 author: Marian Jureckzo
 ---
@@ -8,10 +8,10 @@ author: Marian Jureckzo
 
 #URL
 
-  * Latest version:
-    * [berek](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/berek/berek.csv)
+  * Latest version :
+    * [kalkulator](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/kalkulator/kalkulator.csv)
   * With change log:
-    * [berek](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/berek/)
+    * [kalkulator](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/kalkulator/)
 
 #Change Log
 

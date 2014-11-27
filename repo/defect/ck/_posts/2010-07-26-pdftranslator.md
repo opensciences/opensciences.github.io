@@ -1,6 +1,6 @@
 ---
-title: berek
-excerpt: berek OO defect data
+title: pdftranslator
+excerpt: pdftranslator defect data
 layout: repo
 author: Marian Jureckzo
 ---
@@ -8,10 +8,10 @@ author: Marian Jureckzo
 
 #URL
 
-  * Latest version:
-    * [berek](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/berek/berek.csv)
-  * With change log:
-    * [berek](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/berek/)
+  * Latest version: 
+    * [pdftranslator](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/pdftranslator/pdftranslator.csv)
+  * With change log: 
+    * [pdftranslator](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/pdftranslator/)
 
 #Change Log
 

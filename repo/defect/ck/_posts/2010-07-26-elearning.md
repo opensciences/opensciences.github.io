@@ -1,29 +1,30 @@
 ---
-title: e-learning
+title: elearning
 excerpt: e-learning OO defect data
 layout: repo
+author: Marian Jureckzo
 ---
 
-# URL
+
+#URL
 
   * Latest version :
     * [e-learning](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/elearning/e-learning.csv)
   * With change log:
     * [e-learning](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/elearning/)
 
-# Change Log
+#Change Log
 
 When | What
----- | ----
-July 26, 2010 | Donated by MarianJureczko
+July 26, 2010 | Donated by [Marian Jureckzo](MarianJureczko)
 
-# About the data
+#About the data
 
-This dataset is one of the MarianJureczko Datasets.
+This dataset is one of the [Marian Jureckzo](MarianJureczko) Datasets.
 
-This dataset uses the Chidamber OO metrics.
+This dataset uses the [CK](Chidamber) OO metrics.
 
-# Reference
+#Reference
 
 Marian Jureczko and Lech Madeyski. 2010. [Towards identifying software project clusters with regard to defect prediction](http://dl.acm.org/citation.cfm?id=1868328.1868342&coll=DL&dl=GUIDE&CFID=96280125&CFTOKEN=47274353). In
 Proceedings of the 6th International Conference on Predictive

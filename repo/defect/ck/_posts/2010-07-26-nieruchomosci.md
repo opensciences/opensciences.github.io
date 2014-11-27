@@ -1,6 +1,6 @@
 ---
-title: berek
-excerpt: berek OO defect data
+title: nieruchomosci
+excerpt: nieruchomosci OO defect data
 layout: repo
 author: Marian Jureckzo
 ---
@@ -8,10 +8,10 @@ author: Marian Jureckzo
 
 #URL
 
-  * Latest version:
-    * [berek](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/berek/berek.csv)
-  * With change log:
-    * [berek](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/berek/)
+  * Latest version: 
+    * [nieruchomosci](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/nieruchomosci/nieruchomosci.csv)
+  * With change log: 
+    * [nieruchomosci](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/ck/nieruchomosci/)
 
 #Change Log
 
