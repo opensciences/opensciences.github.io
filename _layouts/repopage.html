@@ -26,19 +26,19 @@
                 <div class=block>
                     <h2>{{page.title}}</h2>
                     {{ content }}
-               </div>
-            </div>
-            {% assign posts = site.categories.[page.category] %}
-            {% for post in posts do %}
-                <a href="{{post.url}}">
-                <div class="box">
-                <h2>{{post.title}}</h2>
-                    <div class="block">
-                        {{post.excerpt}}
-                    </div>
                 </div>
-                </a>
-            {% endfor %}
+                <div class="clear"></div>
+             {% for post in site.categories.[page.category] do %}
+                    <a href="{{post.url}}">
+                    <div class="box">
+                        <h2>{{post.title}}</h2>
+                        <div class="block">
+                            {{post.excerpt}}
+                        </div>
+                    </div>
+                    </a>
+                {% endfor %}
+            </div>
         </div>
     </body>
 </html>
