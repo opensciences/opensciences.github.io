@@ -24,12 +24,12 @@
             </div>
             <div class="grid_10 home_box" id="content_box">
                 <div class=block>
-                    <div class=box>
+                    <h2>{{page.title}}</h2>
                     {{ content }}
                </div>
             </div>
             {% assign cat = page.category %}
-            {% assign posts = site.categories.[cat] | sort: 'title' %}
+            {% assign posts = (site.categories.[cat] | sort: 'title') %}
             {% for post in posts do %}
                 <a href="{{post.url}}">
                 <div class="box">
