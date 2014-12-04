@@ -1,6 +1,7 @@
 ---
 title: Blog
-layout: repoposts
+layout: repopage
+category: blog
 ---
 
 # Blog

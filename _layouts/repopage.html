@@ -25,21 +25,20 @@
             <div class="grid_10 home_box" id="content_box">
                 <div class=block>
                     <div class=box>
-
-			    {% assign cat = page.category %}
-			    {% for post in site.categories.[cat] do %}
-				   <a href="{{post.url}}">
-				   <div class="box">
-        		            <h2>{{post.title}}</h2>
-        		            <div class="block">		    					                {{post.excerpt}}
-			            </div>
-			        </div>
-			        </a>
-		         {% endfor %}
-
+                    {{ content }}
+               </div>
+            </div>
+            {% assign cat = page.category %}
+            {% for post in site.categories.[cat] do %}
+                <a href="{{post.url}}">
+                <div class="box">
+                <h2>{{post.title}}</h2>
+                    <div class="block">
+                        {{post.excerpt}}
                     </div>
                 </div>
-                <div class="clear"></div>
+                </a>
+            {% endfor %}
         </div>
     </body>
 </html>
