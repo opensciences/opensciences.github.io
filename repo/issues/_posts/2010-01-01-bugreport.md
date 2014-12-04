@@ -1,25 +1,28 @@
-#summary bugreport recommender system data
-#labels Defect
-
-<wiki:toc max_depth="2" />
-
-= URL =
-
-  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/defect/bugreport.eclipse.jdt
-  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/defect/bugreport.eclipse.platform
-  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/defect/bugreport.gnome.evolution
-  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/defect/bugreport.gnome.gstreamer
-  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/defect/bugreport.mozilla.core
-  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/defect/bugreport.mozilla.firefox
+---
+title: bugreport
+excerpt: bugreport recommender system data
+layout: repo
+author: Martin Pinzger, Emanuel Giger
+---
 
 
-= Change Log =
+#URL
 
-|| When || What ||
-||    ?? 2010 || Donated by MartinPinzger and EmanuelGiger ||
+  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.eclipse.jdt
+  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.eclipse.platform
+  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.gnome.evolution
+  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.gnome.gstreamer
+  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.mozilla.core
+  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.mozilla.firefox
 
 
-= Reference =
+#Change Log
+
+When | What
+2010 | Donated by Martin Pinzger and Emanuel
+
+
+#Reference
 
 All data is licensed under the Creative Commons License 3.0. For more information on the license see http://creativecommons.org/licenses/by-sa/3.0/
 
@@ -38,7 +41,7 @@ Studies who have been using the data (in any form) are required to add the follo
     } 
 }}}
 
-= About the Data =
+#About the Data
 
 == Short description of the data sources ==
 

@@ -1,25 +1,28 @@
-#summary datatrieve
-#labels Defect
+---
+title: datatrieve
+excerpt: datatrieve
+layout: repo
+author: Guenther Ruhe
+---
 
-<wiki:toc max_depth="2" />
 
 This is data from the transition of the DATATRIEVE product from version 6.0 to
 	         version 6.1 (carrried out at Digital Engineering Italy).
 
-= URL =
+#URL
 
   * Latest version :
-    * [http://promisedata.googlecode.com/svn/trunk/defect/datatrieve  datatrieve] 
+    * [ datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve) 
   * With change log:
-    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/datatrieve datatrieve]
+    * [datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve)
 
-= Change Log =
+#Change Log
 
-|| When || What ||
-|| Jan 15, 2005 || Donated by Guenther Ruhe ||
+When | What
+January 15, 2005 | Donated by Guenther Ruhe
 
 
-= Past usage =
+#Past usage
 
 A hybrid approach to analyze empirical software engineering data 
        and its application to predict module fault-proneness in maintenance;
@@ -32,7 +35,7 @@ A hybrid approach to analyze empirical software engineering data
        Sandro Morasca 	
        Gunther Ruhe
 
-= Relevant information =
+#Relevant information
 
 The DATATRIEVE product was undergoing both adaptive (DATATRIEVE was being transferred  from platform OpenVMS/VAX to platform OpenVMS/Alpha) and corrective maintenance (failures reported from customers were being fixed) at the Gallarate (Italy) site of Digital Engineering.
 	    
@@ -43,7 +46,7 @@ The empirical study of this data set reports only the BLISS part, by far the big
 The objective of the data analysis was to study whether it was possible to classify modules as non-faulty or faulty, based on a set of measures collected on the project.
 
 
-= Data =
+#Data
 
 Number of records: 130
 
