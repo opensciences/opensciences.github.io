@@ -1,0 +1,24 @@
+#summary ModifTypeDataJEdit defect data
+#labels Defect
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version :
+    * [http://promisedata.googlecode.com/svn/trunk/defect/ModifTypeDataJEdit/ModifTypeDataJEdit.csv mtdjedit]
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/ModifTypeDataJEdit mtdjedit]
+
+= Change Log =
+
+|| When || What ||
+|| June 27, 2013 || Donated by [JoseeTasse Josée Tassé] ||
+
+
+= Reference =
+
+Josée Tassé. 2013. [http://doi.acm.org/10.1145/2499393.2499397 Using code change types in an analogy-based classifier for short-term defect prediction]. In
+Proceedings of the 9th International Conference on Predictive Models in Software Engineering (PROMISE '13). ACM, New York,
+NY, USA, , Article 5 , 4 pages. DOI=10.1145/2499393.2499397
+http://doi.acm.org/10.1145/2499393.2499397

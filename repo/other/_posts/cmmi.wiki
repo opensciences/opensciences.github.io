@@ -1,0 +1,32 @@
+#summary High maturity research data from SEI
+#labels General
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Lastest version:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/general/cmmi/HM2008.xls HM2008]
+    * [http://code.google.com/p/promisedata/source/browse/trunk/general/cmmi/HM08-varkey.doc HM08-varkey (Variable and response category key to HM2008)]
+    * [http://code.google.com/p/promisedata/source/browse/trunk/general/cmmi/HM2009.xls HM2009]
+    * [http://code.google.com/p/promisedata/source/browse/trunk/general/cmmi/HM09-varkey.doc HM09-varkey (Variable and response category key to HM2009)]
+  * With change log:
+    * http://code.google.com/p/promisedata/source/browse/trunk/general/cmmi/
+
+
+= Change Log =
+
+|| When || What ||
+|| May 26, 2013 || Donated by [mailto:dz@sei.cmu.edu Dave Zubrow] ||
+
+= About the data =
+
+These datasets were collected from two surveys conducted by the SEI on CMMI high maturity practices.Readers may contact [mailto:dz@sei.cmu.edu dz@sei.cmu.edu] for further information about these datasets.
+  * Study 1: James McCurley  and Dennis R. Goldenson. [http://www.sei.cmu.edu/library/abstracts/reports/10tr022.cfm Performance Effects of Measurement and Analysis: Perspectives from CMMI High Maturity Organizations and Appraisers] CMU/SEI-2010-TR-022.
+  * Study 2: Dennis R. Goldenson, James McCurley,  and Robert W. Stoddard II. [http://www.sei.cmu.edu/library/abstracts/reports/08tr024.cfm Use and Organizational Effects of Measurement and Analysis in High Maturity Organizations: Results from the 2008 SEI State of Measurement and Analysis Practice Surveys] CMU/SEI-2008-TR-024.
+
+= Reference =
+
+James McCurley and Dennis R. Goldenson. Performance Effects of Measurement and Analysis: Perspectives from CMMI High Maturity Organizations and Appraisers (CMU/SEI-2010-TR-022). Software Engineering Institute, Carnegie Mellon University, 2010. http://www.sei.cmu.edu/library/abstracts/reports/10tr022.cfm
+
+Dennis R. Goldenson, James McCurley, and Robert W. Stoddard II. Use and Organizational Effects of Measurement and Analysis in High Maturity Organizations: Results from the 2008 SEI State of Measurement and Analysis Practice Surveys (CMU/SEI-2008-TR-024). Software Engineering Institute, Carnegie Mellon University, 2009. http://www.sei.cmu.edu/library/abstracts/reports/08tr024.cfm

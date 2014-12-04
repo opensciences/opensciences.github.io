@@ -1,0 +1,14 @@
+#summary kemerer effort data
+#labels Effort
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: [http://promisedata.googlecode.com/svn/trunk/effort/kemerer/kemerer.arff kemerer],
+  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/effort/kemerer/
+
+= Change Log =
+
+|| When || What ||
+||    April 30, 2010 || Donated by Jacky W. Keung ||

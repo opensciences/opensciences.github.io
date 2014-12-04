@@ -1,0 +1,18 @@
+#labels Model
+<wiki:toc max_depth="2" />
+
+This data set is a quantitative goal model of an ambulance service system.
+
+= URL =
+
+  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/model/quantitative
+  * With raw data http://promisedata.googlecode.com/svn/trunk/model/quantitative/
+
+= Change Log =
+
+|| When || What ||
+||    Sep 3, 2012 || Donated by [http://letier.cs.ucl.ac.uk/ EmmanuelLeiter], e.letier AT cs DOT ucl DOT ac DOT uk ||
+
+= Reference =
+
+W. Heaven and E. Letier, [http://www0.cs.ucl.ac.uk/staff/e.letier/publications/goalSim-RE2011.pdf Simulating and Optimising Design Decisions in Quantitative Goal Models], Proceedings RE 2011 – 19th IEEE International Requirements Engineering Conference, Trento, Italy, September 2011.

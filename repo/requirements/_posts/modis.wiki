@@ -1,0 +1,210 @@
+#summary Notes on modis
+#labels Text
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: 
+    * [http://promisedata.googlecode.com/svn/trunk/text/modis/modist1.xls modist1.xls]
+    * [http://promisedata.googlecode.com/svn/trunk/text/modis/handtrace.txt handtrace.txt]
+    * [http://promisedata.googlecode.com/svn/trunk/text/modis/high high level requirements]
+    * [http://promisedata.googlecode.com/svn/trunk/text/modis/low low level requirements]
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/text/modis modis]
+
+= Change Log =
+
+|| When || What ||
+|| March 31, 2005 || Donated by [JaneHuffmanHayes Jane Huffman Hayes] ||
+
+= Notes from the Author =
+
+== Creators ==
+
+Open source MODIS dataset[4,5], NASA. Dr.Hayes and Dr.Dekhtyar modified the original dataset and created an answerset with the help of analysts.
+
+== Past Usage ==
+
+ * Improving Requirements Tracing via Information Retrieval, Jane Huffman Hayes, Alex Dekhtyar, and James Osborne, in Proceedings, 11th International Requirements Engineering Conference (RE 2003), pp. 151-161, September 2003, Monterey Bay, CA.
+ * Helping Analysts Trace Requirements: An Objective Look (2004) Jane Huffman Hayes, Alex Dekhtyar, Senthil Karthikeyan Sundaram, and Sarah Howard, in Proceedings, 12th International Requirements Engineering Conference (RE 2004), pp. 249-261, September 2004, Kyoto, Japan.
+ * A Framework for Comparing Requirements Tracing Experiments, Jane Huffman Hayes, Alex Dekhtyar, accepted, pending revisions, International Journal on Software Engineering and Knowledge Engineering (IJSEKE), special issue, 2004(5). 
+ * Jane Huffman Hayes, Alex Dekhtyar, and James M. Carigan, "Recommending a Framework for Comparison of Requirements Tracing Experiments", in on-line proceedings of the Workshop on Empirical Studies of Software Maintenance (WESS 2004), Chicago, IL, September 2004.
+ * Text Mining for Software Engineering: How Analyst Feedback Impacts Final Results, Jane Huffman Hayes, Alex Dekhtyar and Senthil Karthikeyan Sundaram, accepted, MSR'2005: Second International Workshop on Mining Software Repositories, St. Louis, MO, May 2005. 
+
+== Relevant Information ==
+
+Requirements tracing is defined as "the ability to describe and follow
+the life of a requirement, in both a forward and backward direction,
+through the whole systems lifecycle[1]."  It helps us in assuring that
+all requirements have been implimented.
+
+We have implemented and evaluated a variety of IR methods including
+tf-idf vector retrieval, tf-idf retrieval with simple thesaurus, and
+Latent Semantic Indexing (LSI).
+
+TF-IDF model:  "vector model (also known as tf-idf model) for information
+retrieval is defined as follows. Let V = {k1,...,kN} be the vocabulary
+of a given document collection. Then, a vecto r model of a document d is
+a vector (w1,...,wN) of keywords weights, where wi is computed as wi =
+tfi(d)*idf , where tfi(d) is the so-called term frequency: the frequency
+of keyword ki in the document d, and idfi, called inverse document
+frequency is computed as idfi = log(n/dfi), where n is the number of
+documents in the document collection and dfi is the number of documents
+in which keyword ki occurs. Given a document vector d=(w1,...,wN) and
+ a similarly computed query vector
+q=(q1,...,qN) the similarity between d and q is defined as the cosine
+of the angle between the vectors.[2]"
+
+TF-IDF + Simple Thesaurus: "This method extends tf-idf model with a
+simple thes aurus of terms and key phrases. A simple thesaurus T is a
+set of triples <t1,t2,a>, where t1 and t2 are matching thesaurus terms
+and a is the similarity coefficient between them. Thesaurus terms can
+be either single keywords or key phrases(sequences
+ of two or more keywords). The vector model is augmented to account for
+ thesaurus matches as follows. First, all
+thesaurus terms that are not keywords (i.e., thesaurus terms that
+consist of more than one keyword) are added as separate keywords to
+the document collection vocabulary. Given a thesaurus T={<ki,kj,aij>},
+and document/query vectors d=(w1,...,wN), q=(q1,...,qN), the similarity
+between d and q is compute d[2]."
+
+Latent Semantic Indexing (LSI) : "LSI is a dimension reduction technique
+based on Singular Value Decomposition (SVD) of the term-by-document matrix
+that can be constructed by putting tf-idf vectors of all documents in a
+single matrix. SVD transforms the original matrix into a product of two
+orthogonal matrices and a diagonal matrix of eigenvalues.  By considering
+only the top k eigenvalues, we can obtain an appro ximation of the
+original matrix by a smaller matrix. Rows of the matrix can be compared
+to each other using the cosine similarity described above.[3]"
+
+Relevance Feedback : To incorporate interactive work with analyst
+into RETRO, we have implemented  relevance feedback for the IR methods
+studied.  Relevance feedback works as follows: the analyst conveys to
+RETRO both positive (true link found) and negative (false positive found)
+information. The relevance feedback processor recomputes the vector qnew
+for the query q by adding to it positive information and subtracting
+negative information as specified in [2].
+
+Dataset details : This dataset is a modified dataset from [4,5] based
+on open source NASA Moderate Resolution Imaging Spectroradiometer
+(MODIS) documents. The dataset contains 19 high level and 49 low-level
+requirements. The trace for the dataset was manually verified. The
+"theoretical true trace" (answerset) built for this dataset consisted of
+41 correct links. Each of the high and low-leve files contain the text
+of one requirement element. Take, for example, SDP3.2-2.  The file with
+the name SDP3.2-2 is a text file that contains:
+
+Each MODIS standard data product shall be produced within the data volume
+and processing load allocation shown in Table B-1 in plain text.
+
+The files in the high and the low directory are in the same format.
+
+The handtrace.txt file is the answerset. It maps high-level requirements
+to their low level children.
+
+The handtrace.txt file has this format:
+
+%
+SDP3.2-2 L1APR01-I-3
+%
+SDP3.3-1 L1APR01-I-1
+%
+SDP3.3-2 L1APR03-I-2 L1APR01-I-2
+%
+SDP3.3-4 L1APR03-I-2 L1APR01-I-2 L1APR01-I-1
+..
+..
+..
+..
+
+where SDP3.2-2 is the identifier of a high level requirement, and
+L1APR01-I-3 is the identifier of the only low level requirement that
+traces to it. The items are separated by tabs.
+
+So, for example, high-level requirement SDP3.3-4 has three children
+requirements: L1APR03-I-2, L1APR01-I-2, L1APR01-I-1.
+
+Metrics: 
+
+a) RECALL is the percentage of the actual matches that are found. 
+
+        recall = number of links found/ total number of links
+
+b) PRECISION is the ratio of the true links found and the number of candidate 
+   links generated.
+
+        precision = number of links found/ total number of candidate links
+
+Please refer to [2] for the definition of other primary and secondary metrics.
+
+Feedback strategy:
+
+"For each method, four different feedback strategies or behaviors,
+called Top 1, Top 2, Top 3 and Top 4 were tested.  The Top i behavior
+meant that at each iteration, we simulated correct analyst feedback for
+the top i unmarked candidate links from the list for each high-level
+requirement. For example, for each high level requirement, Top 1 behavior
+examined the top candidate link suggested by the IR procedure that
+had not yet been marked as true. If the link was found in the verified
+trace, it was marked as true, otherwise as false. After repeating the
+Top i relevance feedback procedure for each high level requirement,
+the answers were submitted to the feedback processing module.  At this
+point, the Standard Rochio procedure was used to update query (high-level
+requirement) keyword weig hts, and to submit the new queries to the IR
+method. The process continued for a maximum of eight iterations or until
+the results had converged.[3]"
+
+filtering technique:
+
+A filtering technique is a simple decision procedure that examines each
+candida te link produced by the IR method and decides whether to show it
+to the analyst. In our study, in addition to the test run involving no
+filtering, we used filters with different threshold values. For example,
+filter with threshold value 0.1 will throw out all the candidate links
+that have relevance less than 0.1.
+
+Expreimental Results:
+        
+TABLE 1
+
+Method          Prec.   Recall  Sel.
+tf-idf          7.9%    75.6%   41.9%
+tf-idf+TH       10.1%   100.0%  43.1%
+LSI (10/100)    6.3%    92.6%   64.1%
+LSI+TH (10/100) 6.5%    95.1%   63.7%
+LSI (19/200)    4.2%    63.4%   65.2%
+LSI+TH (29/200) 5.4%    80.4%   65.8%
+
+The table shows the results of running different methods on Modis dataset. Plea
+se refer to [2] and [3] for more results.
+
+References:
+
+ # J. Matthias. Requirements tracing. Communications of the ACM, 41(12), 1998.
+ # Jane Huffman Hayes, Alexander Dekhtyar, Senthil Sundaram, Sarah Howard, "Helping Analysts Trace Requirements:  An Objective Look", in Proceedings of IEEE Requirements Engineering Congerence (RE) 2004, Kyoto, Japan, September 2004, pp. 249-261.
+ # Baselines in Requirements Tracing, Senthil Karthikeyan Sundaram, Jane Huffman Hayes and Alex Dekhtyar, accepted, PROMISE'2005: International Workshop on Predictor Models in Software Engineering , St. Louis, MO, May 2005.
+ # Level 1A (L1A) and Geolocation Processing Software Requirements Specification, SDST-0591, GSFC SBRS, September 11, 1997.
+ # MODIS Science Data Processing Software Requirements Specification Version 2, SDST-089, GSFC SBRS, November 10, 1997.
+
+== Number of Instances ==
+
+ * 49 low level requirements 
+ * 19 high level requirements
+
+== Directory Content ==
+
+The ModisDataset folder contains answerset (handtrace.txt), the high
+directory and the low directory. The high directory contains the
+high-level requirements, the low directory contains the low level
+requirements.
+
+= Reference =
+
+See above section "Relevant Information" for further reference.
+
+== People ==
+
+ * [JaneHuffmanHayes Jane Huffman Hayes]
+
+== Papers ==

@@ -1,0 +1,22 @@
+#summary nrp-realistic next release problem data
+#labels NPR
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-e1/nrp-e1.txt nrp-e1], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-e2/nrp-e2.txt nrp-e2], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-e3/nrp-e3.txt nrp-e3], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-e4/nrp-e4.txt nrp-e4], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-g1/nrp-g1.txt nrp-g1], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-g2/nrp-g2.txt nrp-g2], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-g3/nrp-g3.txt nrp-g3], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-g4/nrp-g4.txt nrp-g4], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-m1/nrp-m1.txt nrp-m1], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-m2/nrp-m2.txt nrp-m2], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-m3/nrp-m3.txt nrp-m3], [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/nrp-m4/nrp-m4.txt nrp-m4].
+  * [http://promisedata.googlecode.com/svn/trunk/npr/nrp-realistic/example.txt Example]
+  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/npr/nrp-realistic/
+
+= Change Log =
+
+|| When || What ||
+||    November 16, 2011 || Donated by [JifengXuan Jifeng Xuan]||
+
+= Reference =
+
+This is one of the next release problem (NRP) data sets donated by [JifengXuan Jifeng Xuan]. 
+More notes on NRP can be found [http://oscar-lab.org/people/~jxuan/page/project/nrp/ here].
+
+Jifeng Xuan, He Jiang, Zhilei Ren, Zhongxuan Luo, "[http://www.computer.org/portal/web/csdl/doi/10.1109/TSE.2011.92 Solving the Large Scale Next Release Problem with a Backbone Based Multilevel Algorithm]", IEEE Transactions on Software Engineering, vol. 99, no. PrePrints, , 2011 

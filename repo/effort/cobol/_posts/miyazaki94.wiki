@@ -1,0 +1,59 @@
+#summary Notes on miyazaki94
+#labels Effort
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: 
+    * [http://promisedata.googlecode.com/svn/trunk/effort/miyazaki94/miyazaki94.arff miyazaki94]
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/miyazaki94 miyazaki94]
+
+= Change Log =
+
+|| When || What ||
+|| May 21, 2010 || Donated by [SousukeAmasaki Sousuke Amasaki] ||
+
+= Notes from the Author =
+
+== Creators ==
+
+ * Miyazaki Y.
+ * Terakado M.
+ * Ozaki K.
+ * Nozaki H.
+
+== Number of records ==
+
+48
+
+== Number of attributes ==
+
+9: (1 identifier, 7 condition attributes, 1 decision attribute)
+
+== Attribute Information ==
+
+ # *ID*: Project ID
+ # *KSLOC*: the number of COBOL source lines in thousands excluding comment lines, and screen and form definition codes.  Lines of code copied by the COPY statement are also excluded, but lines registered as COPY phrases are included.
+ # *SCRN*: number of different input or output sceens
+ # *FORM*: number of different (report) forms
+ # *FILE*: number of different record formats
+ # *ESCRN*: total number of data elements in all the screens
+ # *EFORM*: total number of data elements in all the forms
+ # *EFILE*: total number of data elements in all the files
+ # *MM*: Man-Months form system design to systems test including indirect effort such as project management. one MM is defined as 160 hours of working time.
+
+== Missing attributes ==
+
+none
+
+= Reference =
+
+== People ==
+
+ * [SousukeAmasaki Sousuke Amasaki]
+
+== Papers ==
+
+Y. Miyazaki, M. Terakado, K. Ozaki, and H. Nozaki. 1994. Robust regression for developing software estimation models. J. Syst. Softw. 27, 1 (October 1994), 3-16. DOI=10.1016/0164-1212(94)90110-4 http://dx.doi.org/10.1016/0164-1212(94)90110-4

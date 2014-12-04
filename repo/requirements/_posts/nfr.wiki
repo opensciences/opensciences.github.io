@@ -1,0 +1,40 @@
+#summary Notes on nfr
+#labels Text
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: 
+    * [http://promisedata.googlecode.com/svn/trunk/text/nfr/nfr.arff nfr]
+    * [http://promisedata.googlecode.com/svn/trunk/text/nfr/P(1-10)_NFR_FR_trace traces]
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/text/nfr/ nfr]
+
+= Change Log =
+
+|| When || What ||
+|| March 17, 2007 || (Initial NFR dataset) Donated by [JaneClelandHuang Jane Cleland-Huang] ||
+|| April 1, 2010 || (Additional NFR dataset) Donated by [SepidehMazrouee Sepideh Mazrouee], [HuangLiguo Huang Liguo], [DanPort Dan Port]||
+
+= Comments = 
+
+dport | February 2nd, 2010 at 1:38 pm
+
+All requirements not labeled with “F” are non-functional with the following types:
+A=Availability, L = Legal, LF = Look and feel, MN = Maintainability, O = Operational, PE = Performance, SC = Scalability, SE = Security, US = Usability, FT = Fault tolerance, and PO = Portability
+
+= Reference =
+.
+
+== People ==
+
+ * [JaneClelandHuang Jane Cleland-Huang]
+ * [SepidehMazrouee Sepideh Mazrouee]
+ * [HuangLiguo Huang Liguo]
+ * [DanPort Dan Port]
+
+== Papers ==
+
+ * [ClelandHuang06a]
+ * [JalaiGoffJacksonJones06]

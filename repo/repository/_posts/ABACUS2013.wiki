@@ -1,0 +1,45 @@
+#summary ABACUS2013 data
+#labels Defect
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/ABACUS2013 ABACUS2013]
+    
+
+= Change Log =
+
+|| When || What ||
+|| January 7, 2013 || Donated by André Riboira (andre.riboira@fe.up.pt) and Rui Abreu rui@computer.org ||
+
+= About the data =
+
+This archive contains all the logs, datasets and results of the 255 combinations 
+of the 8 injected faults, as well as the 8 executions of untouched and 
+uninstrumented versions of Wordpress.
+
+Each folder of this archive relates to a different scenario and has all the log 
+files (including the standard output and standard error messages) and ABACUS 
+tools' output files generated during the experiment processing.
+
+Each folder present the following structure:
+
+ABACUS.stdout     - File with the standard output messages
+
+ABACUS.stderr     - File with the standard error messages (includes the time and memory used in each execution)
+
+ABACUS.log        - File with the PHPunit TAP log result
+
+ABACUS.matrix     - File with the SFL's hit-spectra matrix and the error vector
+
+ABACUS.components - File with the map between the SFL's hit spectra matrix and the correspondent code component
+
+ABACUS.staccato   - File with the result of the STACCATO tool
+
+ABACUS.barinel    - File with the result of the BARINEL tool
+
+Note that the "vanilla" folders only have ABACUS.stdout, ABACUS.stderr and 
+ABACUS.log files, because are related to the untouched and uninstrumented 
+versions of Wordpress, and the ABACUS toolset was not used.
