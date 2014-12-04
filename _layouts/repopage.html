@@ -28,9 +28,10 @@
                     {{ content }}
                </div>
             </div>
-            {% assign cat = page.category %}
-            {% assign posts = (site.categories.[cat] | sort: 'title') %}
-            {% for post in posts do %}
+            {% assign category = page.category %}
+            {% assign posts = site.categories.[category] %}
+            {% assign sortedposts = posts | sort: 'title' %}
+            {% for post in sortedposts do %}
                 <a href="{{post.url}}">
                 <div class="box">
                 <h2>{{post.title}}</h2>
