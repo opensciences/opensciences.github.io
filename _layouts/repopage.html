@@ -23,21 +23,7 @@
                 {% include repo/navbar.html %}
             </div>
             <div class="grid_10 home_box" id="content_box">
-                <div class=block>
-                    <h2>{{page.title}}</h2>
-                    {{ content }}
-                </div>
-                <div class="clear"></div>
-             {% for post in site.categories.[page.category] do %}
-                    <a href="{{post.url}}">
-                    <div class="box">
-                        <h2>{{post.title}}</h2>
-                        <div class="block">
-                            {{post.excerpt}}
-                        </div>
-                    </div>
-                    </a>
-                {% endfor %}
+                {% include repo/content.html %}
             </div>
         </div>
     </body>
