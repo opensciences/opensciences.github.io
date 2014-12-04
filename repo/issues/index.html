@@ -3,7 +3,7 @@ title: Issues
 layout: repo
 ---
 
-{% assign cat = title | downcase %}
+{% assign cat = page.title | downcase %}
 {% for post in site.categories.[cat] do %}
     <div class="box">
         <h2><a href="{{post.url}}">{{post.title}}</a></h2>
