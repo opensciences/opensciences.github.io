@@ -8,8 +8,8 @@ author: Masateru Tsunoda
 
 #URL
 
-  * Latest version: [kitchenham](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham/kitchenham.arff),
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham
+  * Latest version: [kitchenham](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham/kitchenham.arff)
+  * With change log: [kitchenham](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham)
   
 #Change Log
 
