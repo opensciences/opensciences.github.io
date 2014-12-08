@@ -12,5 +12,4 @@ layout: journal1
 
 ## Associate Editors
 
-+ You?
-+ Them?
++ John Grundy, Swinburne University of Technology, Australia.
