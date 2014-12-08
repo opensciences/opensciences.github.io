@@ -23,24 +23,24 @@ on demand within Amazon (print ISSN  2375-5741).
 SSJ accepts a wide variety of papers, include those
 in _traditional_ and _novel_ formats:
 
-+ A _traditional
-format_ paper is a 2000 to 5000 word document
-containing a (1) motivational statement followed by
-(2) some related work then (3) a description of the
-study instruments and (4) results from those
-instruments then (5) a discussion of external
-validity. 
-+ On the other hand, _novel formats_ can be much more
-varied.  The view of SSJ is that research papers
-contain many _research products_, any of which can
-be separately peer-reviewed and published. That list
-of _research products_ includes, but is not limited,
-to the following items. 
++ A _traditional format_ paper is a 2000 to 5000
+  word document containing a (1) motivational
+  statement followed by (2) some related work then
+  (3) a description of the study instruments and (4)
+  results from those instruments then (5) a
+  discussion of external validity.
++ On the other hand, _novel formats_ can be much
+  more varied.  The view of SSJ is that research
+  papers contain many _research products_, any of
+  which can be separately peer-reviewed and
+  published. That list of _research products_
+  includes, but is not limited, to the following
+  items.
 
-Note that since SSJ papers
-can be as short as a single _research product_,
-these SSJ papers can be much shorter than other
-journals
+Note that since SSJ papers can be as short as a
+single _research product_, these SSJ papers can be
+much shorter than other journals. Hence, SSJ can
+offer faster review times from these papers.
 
 ## Research Products
 
