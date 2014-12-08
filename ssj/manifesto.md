@@ -34,24 +34,18 @@ indices [26].
 ### SOLUTION #1
 
 Replace all the pay-for-publication infrastructure
-with a free-to-use infrastructure. As shown in this
-proposal, SE researchers already have access to all
-the building blocks needed for this
-infrastructure. All that is required is a little
-assembly work, plus access to reasonable-sized cloud
-storage facility such as the petabyte repository
-proposed here.  Due to their experience and
-prominence in the field
+with a free-to-use infrastructure. 
 
-## PROBLEM : Lack of Control of Publication Policies
+## PROBLEM #2: Lack of Control of Publication Policies
 
 Here is a small example of very widespread problem:
-In 2010, the PIs were part of a team of half a dozen
-prominent SE researchers that tried to convince
-three leading SE journals to change their _short
-paper_ policy.  The proposed change was that "papers
-under 4 pages will be reviewed in one month".  This
-proposed change was motivated by a desire to:
+In 2010, the editors of this journal were part of a
+team of half a dozen prominent SE researchers that
+tried to convince three leading SE journals to
+change their _short paper_ policy.  The proposed
+change was that "papers under 4 pages will be
+reviewed in one month".  This proposed change was
+motivated by a desire to:
 
 1. increase the currency of recent publications;
 2. engage more with our industrial colleagues who 
@@ -77,7 +71,9 @@ publications, we cannot change even small details on
 how that content is collected and
 disseminated. Clearly, it is time for a change.
 
-_SOLUTION:_ Take back control of how our research
+### SOLUTION #2
+
+Take back control of how our research
 content is disseminated.  
 
 + Step away from the
@@ -89,49 +85,43 @@ for the dissemination of research results (this web site and this journal).
 with researchers in order to give a broad community
 control of the policies of that infrastructure.
 
-##  PROBLEM: Too Little Interaction Between Industry and Academia 
+##  PROBLEM #3: Too Little Interaction Between Industry and Academia 
 
-The PIs of this proposal have frequent contact with
-a very large industrial community engaged in
-software innovation.  These developers at Raleigh,
-Seattle, and Silicon Valley are responsible for
+Consider the 
+large industrial SE community engaged in
+software innovation.  These developers  are responsible for
 innovations that have changed how software is
 developed and how we interact with that software
 (e.g. the iPhone interface from Apple; agile and
 open-source development practices and tools such as
 GitHub; exabyte-level cloud storage; industrial
 mega-scale data mining at Google, Yahoo, and
-Microsoft; etc). A common complaint we hear from
+Microsoft; etc). A common complaint from
 those innovative developers is that academic
 software engineering papers published in conferences
 and journals are irrelevant and removed from their
 needs, interests, and results.
 
-_SOLUTION:_ Remove the barriers that block our
-industrial partners from participating in academic
-forums.  Shorten the format of research papers so
-industrial developers may have enough time to write
-them.  Increase the currency of our research papers
-by decreasing their review times.
+### SOLUTION #3
 
-(Aside: it might appear that current journals
-support "short" in their current call for
-papers. However, speaking as authors who have tried
-to make that kind of submission, we report that
-short papers are rare at senior journals like IEEE
-TSE.  Reviewers often reject the shorter paper,
-demanding more details. The PIs have several such
-papers that started out as as simple clear comments
-on prior work but, after literally years of rewrites
-and resubmissions, they appeared as very long
-papers.)
+Remove the barriers that block our industrial
+partners from participating in academic forums.
+Increase the currency of our research papers by
+decreasing their review times.  Shorten the format
+of research papers so industrial developers may have
+enough time to write them. Divide standard paper
+formats into many, much smaller sets of
+[research products](reserachproducts.html) 
+and
+allow for separate submission of each smaller part.
 
-## PROBLEM: Too Few Replicated Studies 
+
+## PROBLEM #4: Too Few Replicated Studies 
 
 There are very few replications of prior SE results.
 For example, in 2010, Robles published a
 retrospective study of the 171 papers published in
-the Mining Software Repositories (MSR) conference .
+the Mining Software Repositories (MSR) conference [106].
 He found that over 95 of those papers were
 unreproducible, since their associated data was no
 longer on-line.  This lack of availability of old
@@ -143,23 +133,33 @@ files.  For example, free services like GitHub or
 GoogleCode impose limits of just a few gigabytes on
 the total repository size.
 
-_SOLUTION:_ Create a large free-to-use repository
-for SE research products. Later in this proposal, we
-calculate, that this repository requires one
-petabyte of storage.
+### SOLUTION #4 
 
-## PROBLEM: Incomplete Descriptions
+Create a large free-to-use repository for SE
+[research products](researchproducts.md).  To this
+end, we have created a
+[large repository for storing the data](https://terapromise.csc.ncsu.edu:8443/svn/repo],
+plus creating
+[a discussion site](http://openscience.us/repo/) for
+those contents calculate, that this repository
+requires one petabyte of storage.
+
+## PROBLEM #5: Incomplete Descriptions
 
 The traditional research paper is the final step in
 a long process. Yet it only reports the last few
-steps and not all the other products shown in types
+steps and not all the other 
+[research products](reserachproducts.html) 
 that are needed to reproduce, improve, or refute the
 original work.  Note that incomplete descriptions
-also contributes to the Too Few Replicated Studies
+also contributes to the **Too Few Replicated Studies**
 problem.
 
-_SOLUTION:_ Allow researchers to store all the types
-products in a repository.  Make prominent and public
+### SOLUTION #5
+
+Allow researchers to store all the 
+[research products](reserachproducts.html) 
+ in a repository.  Make prominent and public
 awards to researchers who contribute such products.
 
 It should be added here that we recognized that our
@@ -172,25 +172,27 @@ comment on no repository products (in fact, we plan
 to reach out to industrial contacts and encourage
 such papers).
 
-## PROBLEM: Slow writing times
+## PROBLEM #6: Slow writing times
 
 Many of our industrial contacts complain that the
 standard conference/journal paper (10 to 20+ pages
-of 
-motivation + related work + results + future work + conclusion) 
-takes too long to write.
+of motivation + related work + results + future work
++ conclusion) takes too long to write.
 
-_SOLUTION:_ Divide a researcher's work into small
-_research products_, each of which can be
+### SOLUTION #6
+
+Divide a researcher's work into small
+[research products](reserachproducts.html), 
+each of which can be
 peer-reviewed and published. For a list of our
-proposed research products, see types.  Note that
+proposed 
+[research products](reserachproducts.html).  Note that
 since our _publishable unit_ can be shorter than the
 standard format, we predict that more people will be
 able to participate.
 
 We hasten to add that our journal would publish
-standard SE research papers (10+ pages of motivation
-+ related work + results + discussion of future
+standard SE research papers (10+ pages of motivation + related work + results + discussion of future
 work). But it would also accept papers as short as
 one page that, for example:
 
@@ -203,28 +205,30 @@ rapid peer review and publication of submissions
 that are only as long as necessary to comment on any
 one (or more) of the products listed in types.
 
-## PROBLEM: Slow review times
+## PROBLEM #7: Slow review times
 
 It is an anachronism that, in the age of the
 near-instantaneous world-wide connectivity, it still
 it takes many months to years to get a conference or
 journal paper accepted.
 
-_SOLUTION:_ As discussed above, the journal would
-support shorter papers, thus enabling shorter review
+### SOLUTION #7
+
+As discussed above, the journal
+supports shorter papers, thus enabling shorter review
 times (e.g. one month, or less, for each four pages
-of submitted material).  This, in turn, would
-decrease the "cycle-time" between (a) original
+of submitted material).  This, in turn, 
+decreases the "cycle-time" between (a) original
 idea and (b) eventually dissemination would be
 reduced.
 
-Since publication cycles would be shorter,
-industrial practitioners would have faster access to
-results.  Also, researchers could use the journal
+Since publication cycles are shorter,
+industrial practitioners have faster access to
+results.  Also, researchers can use the journal
 for on-going debates with peers to get earlier
 feedback on their work.
 
-## PROBLEM: New Modes of Communication are Under-Utilized
+## PROBLEM #8: New Modes of Communication are Under-Utilized
 
 When academics meet at conferences, there is much
 they can learn from their face-to-face
@@ -245,7 +249,9 @@ face. Such an approach to research can reduce the
 cost of collaboration and allow more human resources
 to be applied to current research issues.
 
-_SOLUTION:_ Publish research products using the
+### SOLUTION #8 
+
+Publish research products using the
 workflow and discussion tools developed in the agile
 software community (e.g. 
 [the GitHb repos](https://github.com/opensciences/opensciences.github.io) 
@@ -256,16 +262,20 @@ world.  Instead, they could benefit from the same
 style of rapid and broad scale interaction available
 to open source developers.
 
-One example of such a workflow and discussion tool is GitHub. Used by 3.4 million users,
-GitHub is fast become the defacto standard for collaborators sharing the details of their software products.
-Our current prototype for the journal, shown in con can be found on the web
-at 
+One example of such a workflow and discussion tool
+is GitHub. Used by 3.4 million users, GitHub is fast
+become the defacto standard for collaborators
+sharing the details of their software products.  Our
+current prototype for the journal, shown in con can
+be found on the web at
 [http://openscience.us/ssj](http://openscience.us/ssj).
-This web site
-is served from the GitHub repo shown top right of con.
-To update the website, we need only write a file in the Markdown syntax (see bottom right of con)
-and commit it to the repository (but for papers with very complex layout, we would continue to allow authors to submit
-PDF files built using Word or style files that we supply).
+This web site is served from the GitHub repo shown
+top right of con.  To update the website, we need
+only write a file in the Markdown syntax and commit
+it to the repository (and for papers with very
+complex layout, we would continue to allow authors
+to submit PDF files built using Word or style files
+that we supply).
 
 
 
