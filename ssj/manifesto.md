@@ -10,7 +10,7 @@ Before reading these solutions, it can be useful to
 first read and understand our definition of
 [research types](cfp.html).
 
-## Problem: Publications are too Dependent on Fee-for-Service Organizations
+## Problem #1: Publications are too Dependent on Fee-for-Service Organizations
 
 According to the Whitehouse Office of Science and Technology,
 [citizens deserve easy access to the results of scientific research their tax dollars have paid for"](http://goo.gl/wlMKP). Yet
@@ -31,7 +31,7 @@ indices [26].
 
 
 
-### SOLUTION
+### SOLUTION #1
 
 Replace all the pay-for-publication infrastructure
 with a free-to-use infrastructure. As shown in this
