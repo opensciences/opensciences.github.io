@@ -40,7 +40,9 @@ in _traditional_ and _novel_ formats:
 Note that since SSJ papers can be as short as a
 single _research product_, these SSJ papers can be
 much shorter than other journals. Hence, SSJ can
-offer faster review times from these papers.
+offer faster review times for these shorter papers.
+
+
 
 ## Research Products
 
