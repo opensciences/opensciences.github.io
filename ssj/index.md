@@ -41,6 +41,8 @@ single  [research products](researchproducts.html), these SSJ papers can be
 much shorter than other journals. Hence, SSJ can
 offer faster review times for these shorter papers.
 
+_______
+
 ## News
 
 

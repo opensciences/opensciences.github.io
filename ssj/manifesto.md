@@ -31,7 +31,8 @@ indices [26].
 
 
 
-_SOLUTION:_
+### SOLUTION
+
 Replace all the pay-for-publication infrastructure
 with a free-to-use infrastructure. As shown in this
 proposal, SE researchers already have access to all
