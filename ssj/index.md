@@ -35,10 +35,14 @@ varied.  The view of SSJ is that research papers
 contain many _research products_, any of which can
 be separately peer-reviewed and published. That list
 of _research products_ includes, but is not limited,
-to the following items. Note that since SSJ papers
+to the following items. 
+
+Note that since SSJ papers
 can be as short as a single _research product_,
 these SSJ papers can be much shorter than other
 journals
+
+## Research Products
 
 A (partial) list of research products follows. Note
 that an SSJ submission contains one or more of the following:
