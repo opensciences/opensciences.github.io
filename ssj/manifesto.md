@@ -355,15 +355,13 @@ that we supply).
 
 
 
-<
 
 
 
 
 [goats11]: http://www.economist.com/node/18744177 "Staff writer. Academic publishing: Of goats and headaches. The Economist, May 26 2011."
 
-[harvard12]: http://goo.gl/3PDbT "Harvard Unviersity Faculty Advistory Council. Major periodical subscriptions cannot be sustained,
-April 17 2012. "
+[harvard12]: http://goo.gl/3PDbT "Harvard Unviersity Faculty Advistory Council. Major periodical subscriptions cannot be sustained, April 17 2012. "
 
 [robles10]: http://v.gd/kTm2Kz  "G. Robles. Replicating MSR: A study of the potential replicability of papers published in the mining software repositories proceedings. In MSR’10, 2010."
 
