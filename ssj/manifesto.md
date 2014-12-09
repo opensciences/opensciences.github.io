@@ -93,9 +93,9 @@ research community.
 And if we create such a forum, it would solve many open issues
 with how we publish research...
 
-## Problems (To Be Solved)
+## Research Products: Solving Open Issues
 
-### Problem #1: Publications are too Dependent on Fee-for-Service Organizations
+### Issue #1: Publications are too Dependent on Fee-for-Service Organizations
 
 
 According to the Whitehouse Office of Science and Technology,
@@ -120,9 +120,14 @@ indices.
 
 _SOLUTION #1_:
 Replace all the pay-for-publication infrastructure
-with a free-to-use infrastructure. 
+with a free-to-use infrastructure.  Reduce the effort
+involved with moving some research product through
+that infrastructure by dividing our current "papers"
+into many smaller
+[research products](researchproducts.html).
 
-### PROBLEM #2: Lack of Control of Publication Policies
+
+### ISSUE #2: Lack of Control of Publication Policies
 
 Here is a small example of very widespread problem:
 In 2010, the editors of this journal were part of a
@@ -162,11 +167,16 @@ infrastructure offered by the fee-for-service
 publishing companies.  
 + Create a free  infrastructure
 for the dissemination of research results (this web site and this journal).
+ Reduce the effort
+involved with moving some research product through
+that infrastructure by dividing our current "papers"
+into many smaller
+[research products](researchproducts.html).
 + Run a bi-annual town hall meetings
 with researchers in order to give a broad community
 control of the policies of that infrastructure.
 
-###  PROBLEM #3: Too Little Interaction Between Industry and Academia 
+###  ISSUE #3: Too Little Interaction Between Industry and Academia 
 
 Consider the 
 large industrial SE community engaged in
@@ -196,7 +206,7 @@ and
 allow for separate submission of each smaller part.
 
 
-### PROBLEM #4: Too Few Replicated Studies 
+### ISSUE #4: Too Few Replicated Studies 
 
 There are very few replications of prior SE results.
 For example, in 2010, [Robles][robles10] published a
@@ -217,13 +227,13 @@ _SOLUTION #4:_
 Create a large free-to-use repository for SE
 [research products](researchproducts.md).  To this
 end, we have created a
-[large repository for storing the data](https://terapromise.csc.ncsu.edu:8443/svn/repo],
+[large repository for storing the data](https://terapromise.csc.ncsu.edu:8443/svn/repo),
 plus creating
 [a discussion site](http://openscience.us/repo/) for
 those contents calculate, that this repository
 requires one petabyte of storage.
 
-### PROBLEM #5: Incomplete Descriptions
+### ISSUE #5: Incomplete Descriptions
 
 The traditional research paper is the final step in
 a long process. Yet it only reports the last few
@@ -237,7 +247,7 @@ problem.
 _SOLUTION #5:_
 Allow researchers to store all the 
 [research products](reserachproducts.html) 
- in a repository.  Make prominent and public
+ in a repository.  Offer prominent and public
 awards to researchers who contribute such products.
 
 It should be added here that we recognized that our
@@ -250,7 +260,7 @@ comment on no repository products (in fact, we plan
 to reach out to industrial contacts and encourage
 such papers).
 
-### PROBLEM #6: Slow writing times
+### ISSUE #6: Slow writing times
 
 Many of our industrial contacts complain that the
 standard conference/journal paper (10 to 20+ pages
@@ -282,7 +292,7 @@ rapid peer review and publication of submissions
 that are only as long as necessary to comment on any
 one (or more) of the products listed in types.
 
-### PROBLEM #7: Slow review times
+### ISSUE #7: Slow review times
 
 It is an anachronism that, in the age of the
 near-instantaneous world-wide connectivity, it still
@@ -304,7 +314,7 @@ results.  Also, researchers can use the journal
 for on-going debates with peers to get earlier
 feedback on their work.
 
-### PROBLEM #8: New Modes of Communication are Under-Utilized
+### ISSUE #8: New Modes of Communication are Under-Utilized
 
 When academics meet at conferences, there is much
 they can learn from their face-to-face

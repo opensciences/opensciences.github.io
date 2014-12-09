@@ -3,6 +3,42 @@ layout: journal1
 title: Research products
 ---
 
+## Summary
+
+Traditional papers are long and contain many
+different kinds of _research products_.
+
+SSJ supports tradition papers. But it also supports
+shorter papers that comment on just a handful (perhaps even
+just one) of the following kinds of _research products_.
+
+## Background
+
+SSJ is an experiment in changing the way we do
+science.
+Our concept of operation
+rests on the idea that a traditional paper is actually
+an end report generated after using  many
+research products.
+This idea can be best explained via analogy:
+
++ If we only share our papers then that is like a software company
+only distributing their binary files.
++ If someone else wants
+to modify and improve that code, they need more than just
+the binary.
+They need all the _intermediary products_ used along the way
+to generate that binary.
+
+As with software, so too with research papers about
+software.  Our final papers are the result of
+applying a large set of
+research products](researchproducts.html) to some
+task.  The premise of SSJ is that _each of those
+products are worth reviewing and sharing_.
+
+## List of Product
+
 A (partial) list of research products follows. Note
 that an SSJ submission contains one or more of the following:
 

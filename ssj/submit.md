@@ -13,7 +13,7 @@ The "volume" of the journal is released whenever the editorial policy changes.
 Policies for Volume 1
 ---------------------
 
-### Paper Evalaution
+### Paper Evaluation
 
 SSJ accepts a wide variety of papers, include those
 in _traditional_ and _novel_ formats:
@@ -31,10 +31,19 @@ in _traditional_ and _novel_ formats:
   which can be separately peer-reviewed and
   published. 
 
+Hence, an SSJ article need not be a "complete"
+piece of work containing all the background knowledge required
+to understand that work. Rather, it an SSJ is article
+can be the next statement in a long sequence
+of research (and that statement need only offer very
+short notes on the background work, provided those
+notes come with references to the older work).
+
 Note that since SSJ papers can be as short as a
-single  [research products](researchproducts.html), these SSJ papers can be
-much shorter than other journals. Hence, SSJ can
-offer faster review times for these shorter papers.
+single [research products](researchproducts.html),
+these SSJ papers can be much shorter than other
+journals. Hence, SSJ can offer faster review times
+for these shorter papers.
 
 ### Review Process 
 
