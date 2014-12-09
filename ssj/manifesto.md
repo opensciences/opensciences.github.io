@@ -14,7 +14,7 @@ publication, those ideas may be locked away behind
 subscription-based firewalls that make them hard to
 access.
 
-Enough is enough.  Enough is enough. As academics,
+Enough is enough. As academics,
 we make the most contribution to these
 publications. Many of the services that
 [publishers reportedly offer](http://goo.gl/T6mJsX)
@@ -84,7 +84,7 @@ research community.
 
 
 According to the Whitehouse Office of Science and Technology,
-[citizens deserve easy access to the results of scientific research their tax dollars have paid for"](http://goo.gl/wlMKP). Yet
+["citizens deserve easy access to the results of scientific research their tax dollars have paid for"](http://goo.gl/wlMKP). Yet
 many scientific results are locked away behind
 firewalls.  The fee-for-service publishing houses
 boast exorbitantly large profit margins for the
@@ -102,8 +102,7 @@ indices [26].
 
 
 
-#### SOLUTION #1
-
+_SOLUTION #1_:
 Replace all the pay-for-publication infrastructure
 with a free-to-use infrastructure. 
 
@@ -142,8 +141,7 @@ publications, we cannot change even small details on
 how that content is collected and
 disseminated. Clearly, it is time for a change.
 
-#### SOLUTION #2
-
+_SOLUTION #2:_
 Take back control of how our research
 content is disseminated.  
 
@@ -173,8 +171,7 @@ software engineering papers published in conferences
 and journals are irrelevant and removed from their
 needs, interests, and results.
 
-#### SOLUTION #3
-
+_SOLUTION #3:_
 Remove the barriers that block our industrial
 partners from participating in academic forums.
 Increase the currency of our research papers by
@@ -204,8 +201,7 @@ files.  For example, free services like GitHub or
 GoogleCode impose limits of just a few gigabytes on
 the total repository size.
 
-#### SOLUTION #4 
-
+_SOLUTION #4:_ 
 Create a large free-to-use repository for SE
 [research products](researchproducts.md).  To this
 end, we have created a
@@ -226,8 +222,7 @@ original work.  Note that incomplete descriptions
 also contributes to the **Too Few Replicated Studies**
 problem.
 
-#### SOLUTION #5
-
+_SOLUTION #5:_
 Allow researchers to store all the 
 [research products](reserachproducts.html) 
  in a repository.  Make prominent and public
@@ -250,8 +245,7 @@ standard conference/journal paper (10 to 20+ pages
 of motivation + related work + results + future work
 + conclusion) takes too long to write.
 
-#### SOLUTION #6
-
+_SOLUTION #6:_
 Divide a researcher's work into small
 [research products](reserachproducts.html), 
 each of which can be
@@ -283,8 +277,7 @@ near-instantaneous world-wide connectivity, it still
 it takes many months to years to get a conference or
 journal paper accepted.
 
-#### SOLUTION #7
-
+_SOLUTION #7:_
 As discussed above, the journal
 supports shorter papers, thus enabling shorter review
 times (e.g. one month, or less, for each four pages
@@ -320,8 +313,7 @@ face. Such an approach to research can reduce the
 cost of collaboration and allow more human resources
 to be applied to current research issues.
 
-#### SOLUTION #8 
-
+_SOLUTION #8:_
 Publish research products using the
 workflow and discussion tools developed in the agile
 software community (e.g. 
