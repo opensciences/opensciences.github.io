@@ -16,7 +16,13 @@ access.
 
 Enough is enough. As academics,
 we make the most contribution to these
-publications. Many of the services that
+publications.
+
+As SE researchers, we volunteer our labor to write,
+review, and edit the papers. We staff the editorial
+boards. We even train the next generation of
+researchers to write the next generation of papers.
+Also, many of the services that
 [publishers reportedly offer](http://goo.gl/T6mJsX)
 are, in the particular case of software engineering,
 handled by us, free of charge. For example:
@@ -96,18 +102,18 @@ According to the Whitehouse Office of Science and Technology,
 ["citizens deserve easy access to the results of scientific research their tax dollars have paid for"](http://goo.gl/wlMKP). Yet
 many scientific results are locked away behind
 firewalls.  The fee-for-service publishing houses
-boast exorbitantly large profit margins for the
+[boast exorbitantly large profit margins][taylor12] for the
 publications of our papers: mean figures from
 Elsevier, Springer, and John Wiley Sons over the
-last decade range from 33 to 42 
-[115, 130]).  ACM and IEEE,
+last decade range from [33 to 42 percent][goats11]. 
+ACM and IEEE,
 while not for profit, are likewise fee-for-service.
-These costs are increasing.  For example, at Harvard
-University, prices for content from two providers
+These costs are increasing.  For example, at [Harvard
+University][harvard12], prices for content from two providers
 have increased by about 145 over the past six years,
 which exceeds not only the consumer price index, but
 also the higher education and the library price
-indices [26].
+indices.
 
 
 
@@ -140,11 +146,7 @@ never implemented, despite the interest expressed by
 those editors and despite the ardent advocacy of
 prominent and active SE researchers. 
 
-This is a troubling story. As SE researchers, we
-volunteer our labor to write, review, and edit the
-papers. We staff the editorial boards. We even train
-the next generation of researchers to write the next
-generation of papers. Nevertheless, even though we
+This is a troubling story.  Even though we
 generate and moderate the content of our
 publications, we cannot change even small details on
 how that content is collected and
@@ -196,7 +198,7 @@ allow for separate submission of each smaller part.
 ### PROBLEM #4: Too Few Replicated Studies 
 
 There are very few replications of prior SE results.
-For example, in 2010, Robles published a
+For example, in 2010, [Robles][robles10] published a
 retrospective study of the 171 papers published in
 the Mining Software Repositories (MSR) conference [106].
 He found that over 95 of those papers were
@@ -351,3 +353,17 @@ that we supply).
 
 
 
+
+
+
+
+
+
+[goats11]: http://www.economist.com/node/18744177 "Staff writer. Academic publishing: Of goats and headaches. The Economist, May 26 2011."
+
+[harvard12]: http://goo.gl/3PDbT "Harvard Unviersity Faculty Advistory Council. Major periodical subscriptions cannot be sustained,
+April 17 2012. "
+
+[robles10]: http://v.gd/kTm2Kz  "G. Robles. Replicating MSR: A study of the potential replicability of papers published in the mining software repositories proceedings. In MSR’10, 2010."
+
+[taylor12]:  http://goo.gl/n3GEc " Mike Taylor, Matt Wedel, and Darren Naish. The obscene profits of commercial scholarly publishers, January 2012."
