@@ -52,14 +52,18 @@ This rest of this page:
 
 ## Research Products
 
+If we only share our papers then that is like a software company
+only distributing their binary files. If someone else wants
+to modify and improve that code, they need more than the binary.
+They need all the _intermediary products_ used along the way
+to generate that binary.
 
-Given internet hyperlink technology it becomes
-feasible and reasonable to divide a "paper" into
-its component
-"[research products](researchproducts.html)", and submit
-them separately for peer review (and it one product
-needs material from anther, previously published, product
-then all we need to is add a hyperlink).
+As with software, so too with research papers about software.
+Our final papers are the result of applying  a large set
+of
+[research products](researchproducts.html) to some task.
+The premise of SSJ is that
+_each of those products are worth reviewing and sharing_.
 
 Note that some of these
 [research products](researchproducts.html)
@@ -71,7 +75,7 @@ slowly, but we want to encourage the whole research community
 to  let more people access and critique and improve all
 [research products](researchproducts.html).
 
-The goal
+So the goal
 of SSJ is to provide a forum where researchers are
 rewarded for  creating and sharing high quality
 [research products](researchproducts.html),
