@@ -45,7 +45,8 @@ an end report generated after using  many
 
 This rest of this page:
 
-+ Describes this concept of research product;
++ Describes this concept of
+  [research product](researchproducts.html).;
 + Lists problems with our current publication methods;
 + Discusses how to use [research products](researchproducts.html).
   to address those problems.
@@ -54,7 +55,8 @@ This rest of this page:
 
 If we only share our papers then that is like a software company
 only distributing their binary files. If someone else wants
-to modify and improve that code, they need more than the binary.
+to modify and improve that code, they need more than just
+the binary.
 They need all the _intermediary products_ used along the way
 to generate that binary.
 
@@ -81,6 +83,9 @@ rewarded for  creating and sharing high quality
 [research products](researchproducts.html),
 which can then be used and improved by the broader
 research community.
+
+And if we create such a forum, it would solve many open issues
+with how we publish research...
 
 ## Problems (To Be Solved)
 
