@@ -3,14 +3,85 @@ title: Manifesto
 layout: journal1
 ---
 
-On this page, we discuss the problems that motivated
-this site.
+## Why This Journal?
 
-Before reading these solutions, it can be useful to
-first read and understand our definition of
-[research types](cfp.html).
+To paraphrase Jean-Jacques Rousseau, _Ideas are
+born free, and everywhere they are in chains_. Some
+ideas take too long to reach publication while other
+ideas can never be published due to the narrow focus
+of current publication formats. Worse, after
+publication, those ideas may be locked away behind
+subscription-based firewalls that make them hard to
+access.
 
-## Problem #1: Publications are too Dependent on Fee-for-Service Organizations
+Enough is enough.  Enough is enough. As academics,
+we make the most contribution to these
+publications. Many of the services that
+[publishers reportedly offer](http://goo.gl/T6mJsX)
+are, in the particular case of software engineering,
+handled by us, free of charge. For example:
+
++ Previously there was a need for paid production
+   teams to produce camera-ready copy. However, as
+   shown with our conference papers, software
+   engineering academics can generate high-quality
+   copy using free tools.
++ As to indexing and distribution services, ISSN
+  numbers and DOI numbers can be organized, free of
+  charge.
++ Also, there now exists free-of-charge storage
+  facility [arXiv.org](http://arXiv.org) and
+  indexing/search tools
+  ([scholar.google.com](http://scholar.google.com)
+  for our papers.
+
+In short, we can are free to change the nature of
+our publication forums- just by deciding to do so.
+Our proposal to change the nature of publication
+rests on the idea that a traditional paper is actually
+an end report generated after using  many
+[research products](researchproducts.html).
+
+
+This rest of this page:
+
++ Describes this concept of research product;
++ Lists problems with our current publication methods;
++ Discusses how to use [research products](researchproducts.html).
+  to address those problems.
+
+## Research Products
+
+
+Given internet hyperlink technology it becomes
+feasible and reasonable to divide a "paper" into
+its component
+"[research products](researchproducts.html)", and submit
+them separately for peer review (and it one product
+needs material from anther, previously published, product
+then all we need to is add a hyperlink).
+
+Note that some of these
+[research products](researchproducts.html)
+do not fit
+into a conventional research paper. For example,
+until very recently, it was not standard to post the scripts
+and data used to generate research papers. That is changing,
+slowly, but we want to encourage the whole research community
+to  let more people access and critique and improve all
+[research products](researchproducts.html).
+
+The goal
+of SSJ is to provide a forum where researchers are
+rewarded for  creating and sharing high quality
+[research products](researchproducts.html),
+which can then be used and improved by the broader
+research community.
+
+## Problems (To Be Solved)
+
+### Problem #1: Publications are too Dependent on Fee-for-Service Organizations
+
 
 According to the Whitehouse Office of Science and Technology,
 [citizens deserve easy access to the results of scientific research their tax dollars have paid for"](http://goo.gl/wlMKP). Yet
@@ -31,12 +102,12 @@ indices [26].
 
 
 
-### SOLUTION #1
+#### SOLUTION #1
 
 Replace all the pay-for-publication infrastructure
 with a free-to-use infrastructure. 
 
-## PROBLEM #2: Lack of Control of Publication Policies
+### PROBLEM #2: Lack of Control of Publication Policies
 
 Here is a small example of very widespread problem:
 In 2010, the editors of this journal were part of a
@@ -71,7 +142,7 @@ publications, we cannot change even small details on
 how that content is collected and
 disseminated. Clearly, it is time for a change.
 
-### SOLUTION #2
+#### SOLUTION #2
 
 Take back control of how our research
 content is disseminated.  
@@ -85,7 +156,7 @@ for the dissemination of research results (this web site and this journal).
 with researchers in order to give a broad community
 control of the policies of that infrastructure.
 
-##  PROBLEM #3: Too Little Interaction Between Industry and Academia 
+###  PROBLEM #3: Too Little Interaction Between Industry and Academia 
 
 Consider the 
 large industrial SE community engaged in
@@ -102,7 +173,7 @@ software engineering papers published in conferences
 and journals are irrelevant and removed from their
 needs, interests, and results.
 
-### SOLUTION #3
+#### SOLUTION #3
 
 Remove the barriers that block our industrial
 partners from participating in academic forums.
@@ -116,7 +187,7 @@ and
 allow for separate submission of each smaller part.
 
 
-## PROBLEM #4: Too Few Replicated Studies 
+### PROBLEM #4: Too Few Replicated Studies 
 
 There are very few replications of prior SE results.
 For example, in 2010, Robles published a
@@ -133,7 +204,7 @@ files.  For example, free services like GitHub or
 GoogleCode impose limits of just a few gigabytes on
 the total repository size.
 
-### SOLUTION #4 
+#### SOLUTION #4 
 
 Create a large free-to-use repository for SE
 [research products](researchproducts.md).  To this
@@ -144,7 +215,7 @@ plus creating
 those contents calculate, that this repository
 requires one petabyte of storage.
 
-## PROBLEM #5: Incomplete Descriptions
+### PROBLEM #5: Incomplete Descriptions
 
 The traditional research paper is the final step in
 a long process. Yet it only reports the last few
@@ -155,7 +226,7 @@ original work.  Note that incomplete descriptions
 also contributes to the **Too Few Replicated Studies**
 problem.
 
-### SOLUTION #5
+#### SOLUTION #5
 
 Allow researchers to store all the 
 [research products](reserachproducts.html) 
@@ -172,14 +243,14 @@ comment on no repository products (in fact, we plan
 to reach out to industrial contacts and encourage
 such papers).
 
-## PROBLEM #6: Slow writing times
+### PROBLEM #6: Slow writing times
 
 Many of our industrial contacts complain that the
 standard conference/journal paper (10 to 20+ pages
 of motivation + related work + results + future work
 + conclusion) takes too long to write.
 
-### SOLUTION #6
+#### SOLUTION #6
 
 Divide a researcher's work into small
 [research products](reserachproducts.html), 
@@ -205,14 +276,14 @@ rapid peer review and publication of submissions
 that are only as long as necessary to comment on any
 one (or more) of the products listed in types.
 
-## PROBLEM #7: Slow review times
+### PROBLEM #7: Slow review times
 
 It is an anachronism that, in the age of the
 near-instantaneous world-wide connectivity, it still
 it takes many months to years to get a conference or
 journal paper accepted.
 
-### SOLUTION #7
+#### SOLUTION #7
 
 As discussed above, the journal
 supports shorter papers, thus enabling shorter review
@@ -228,7 +299,7 @@ results.  Also, researchers can use the journal
 for on-going debates with peers to get earlier
 feedback on their work.
 
-## PROBLEM #8: New Modes of Communication are Under-Utilized
+### PROBLEM #8: New Modes of Communication are Under-Utilized
 
 When academics meet at conferences, there is much
 they can learn from their face-to-face
@@ -249,7 +320,7 @@ face. Such an approach to research can reduce the
 cost of collaboration and allow more human resources
 to be applied to current research issues.
 
-### SOLUTION #8 
+#### SOLUTION #8 
 
 Publish research products using the
 workflow and discussion tools developed in the agile

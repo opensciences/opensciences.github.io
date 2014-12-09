@@ -23,8 +23,8 @@ on demand within Amazon (print ISSN  2375-5741).
 SSJ accepts a wide variety of papers, include those
 in _traditional_ and _novel_ formats:
 
-+ A _traditional format_ paper is a 2000 to 5000
-  word document containing a (1) motivational
++ A _traditional format_ paper is (say) 3000
+  words describing a (1) motivational
   statement followed by (2) some related work then
   (3) a description of the study instruments and (4)
   results from those instruments then (5) a
