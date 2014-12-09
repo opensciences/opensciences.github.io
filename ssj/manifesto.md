@@ -108,8 +108,9 @@ Elsevier, Springer, and John Wiley Sons over the
 last decade range from [33 to 42 percent][goats11]. 
 ACM and IEEE,
 while not for profit, are likewise fee-for-service.
-These costs are increasing.  For example, at [Harvard
-University][harvard12], prices for content from two providers
+These costs are increasing.  For example, at
+[Harvard University][harvard12],
+prices for content from two providers
 have increased by about 145 over the past six years,
 which exceeds not only the consumer price index, but
 also the higher education and the library price
@@ -354,7 +355,7 @@ that we supply).
 
 
 
-
+<
 
 
 
