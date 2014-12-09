@@ -37,10 +37,11 @@ research products](researchproducts.html) to some
 task.  The premise of SSJ is that _each of those
 products are worth reviewing and sharing_.
 
-## List of Product
+## List of Products
 
 A (partial) list of research products follows. Note
-that an SSJ submission contains one or more of the following:
+that an SSJ submission contains one or more of the following.
+Feel free to write papers about other kinds of products.
 
 1.  _Motivational statements_ or reports or challenge
     statements or lists of open issues that prompt an
