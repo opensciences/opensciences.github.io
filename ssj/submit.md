@@ -3,6 +3,13 @@ title: How to Submit a Paper
 layout: journal1
 ---
 
+Submission System
+--------------------------
+
+Authors should submit their manuscripts here:
+
+https://submissions.scholasticahq.com/software-science-journal/
+
 On Policy Evolution
 --------------------------
 
