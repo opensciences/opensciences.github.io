@@ -33,13 +33,13 @@ to generate that binary.
 As with software, so too with research papers about
 software.  Our final papers are the result of
 applying a large set of
-research products](researchproducts.html) to some
+[research products](researchproducts.html) to some
 task.  The premise of SSJ is that _each of those
 products are worth reviewing and sharing_.
 
 ## List of Products
 
-A (partial) list of research products follows. Note
+A (partial) list of [research products](researchproducts.html) follows. Note
 that an SSJ submission contains one or more of the following.
 Feel free to write papers about other kinds of products.
 
