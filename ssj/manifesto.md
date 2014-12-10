@@ -17,7 +17,6 @@ access.
 Enough is enough. As academics,
 we make the most contribution to these
 publications.
-
 As SE researchers, we volunteer our labor to write,
 review, and edit the papers. We staff the editorial
 boards. We even train the next generation of
