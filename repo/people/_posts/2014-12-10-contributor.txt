@@ -1,0 +1,7 @@
+---
+layout: repo
+title: Example Contributor
+category: contributor
+---
+
+Temporary people page for example contributor.
