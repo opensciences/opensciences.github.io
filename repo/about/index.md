@@ -17,11 +17,11 @@ Founded by Tim Menzies and Jelber Sayyad, this repo was one of the first widely-
   by a home-brew
   macro system at _promisedata.org_.
 + _Version 3_: In 2008, after numerous security hacks,
-   that site was moved a more maintainable site at
+   that site was moved to a more maintainable site at
   _promisedata.googlecode.com_. This third version was
   restricted in size to under 10GBs.
   Submissions to this repository and associated PROMISE conference grew to 2010. The PROMISE
-  conference received (10,16,34,53) submissions in (2007,2008,2009,2010) which was an annual growth of (160,212,156). As of 2010, the repository was in widespread use. In that year, Tim Menzies spent two hours on IEEE Explorer and found 73 papers that used the repository . 
+  conference received (10,16,34,53) submissions in (2007,2008,2009,2010) which was an annual growth of (160,212,156). As of 2010, the repository was in widespread use (e.g. one study spent two hours on IEEE Explorer and found 73 papers that used the repository). 
 + _Version 4:_ In 2014, with support from NcState,
   that site was upgraded to  terabyte size.  At
   the same time, a support discussion forum was created at
