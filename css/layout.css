@@ -200,10 +200,10 @@ h1 a {
 ----------------------------------------------- */
 #branding {
 	font-weight:normal;
-	font-size:3em;
+	font-size:4em;
 	text-align:left;
 	padding:8px;
-
+  line-spacing: 4em;
 	margin-bottom:0;
 	color: #333;
 	background: #fff;
