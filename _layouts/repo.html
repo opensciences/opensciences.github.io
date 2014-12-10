@@ -27,10 +27,10 @@
                 <div class=block>
                     <div class=box>
                         <p>
-                         <a href="{{ page.url }}">{{ page.title }}</a>:  
-                             {{ page.date | date: "%b%-d '%y" }} <br>
+                         {{ page.date | date: "%b%-d '%y" }} : <a href="{{ page.url }}">{{ page.title }}</a> <br>  
+                             
                                 {{page.excerpt}}
-                    </p>
+                             </p>
 
                         {{ content }}
                     </div>
