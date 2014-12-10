@@ -26,6 +26,12 @@
             <div class="grid_10 home_box" id="content_box">
                 <div class=block>
                     <div class=box>
+                        <p>
+                         <a href="{{ post.url }}">{{ post.title }}</a>:  
+                             {{ post.date | date: "%b%-d '%y" }} <br>
+                                {{post.excerpt}}
+                    </p>
+
                         {{ content }}
                     </div>
                 </div>
