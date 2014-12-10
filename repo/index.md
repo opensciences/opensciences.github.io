@@ -2,6 +2,7 @@
 title: Welcome to the Tera-Promise Repoistory
 layout: repopage
 category: repo
+limit: 5
 ---
 
 This repository is an update to the older PROMISE repository of SE data.

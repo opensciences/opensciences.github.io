@@ -3,7 +3,7 @@
     {{ content }}
 </div>
 <div class="clear"></div>
-{% for post in site.categories.[page.category] do %}
+{% for post in site.categories.[page.category] limit:page.limit do %}
     <a href="{{post.url}}">
     <div class="box">
         <h2>{{post.title}}</h2>
