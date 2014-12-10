@@ -3,3 +3,18 @@ title: People
 layout: repopage
 category: contributor
 ---
+
+<h3>Curators</h3>
+
+{% for post in site.categories.curator do %}
+    <a href="{{post.url}}">
+    <div class="box">
+        <h2>{{post.title}}</h2>
+        <div class="block">
+            {{post.excerpt}}
+        </div>
+    </div>
+    </a>
+{% endfor %}
+
+<h3>Contributor</h3>
