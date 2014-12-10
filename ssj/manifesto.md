@@ -336,7 +336,7 @@ cost of collaboration and allow more human resources
 to be applied to current research issues.
 
 _SOLUTION #8:_
-Publish research products using the
+Publish [research products](researchproducts.html) using the
 workflow and discussion tools developed in the agile
 software community (e.g. 
 [the GitHb repos](https://github.com/opensciences/opensciences.github.io) 
