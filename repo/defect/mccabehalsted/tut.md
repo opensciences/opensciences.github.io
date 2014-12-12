@@ -1,10 +1,8 @@
-
 ---
 title: Tutorial on McCabe and Halsted
 layout: repopage
 category: mccabehalsted
 ---
-
 
 ## McCabe
 
