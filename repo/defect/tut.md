@@ -13,7 +13,7 @@ quality. The McCabe and Halstead measures are "module"-based where a
 "modules" would be called "function" or "method" respectively.
 
 For notes on the specifics of these metrics, see [here](ck/tut.html)
-and [here](mccabehalstead/tut.html).
+and [here](mccabehalsted/tut.html).
 
 Defect detectors can be assessed according to the following measures:
 
