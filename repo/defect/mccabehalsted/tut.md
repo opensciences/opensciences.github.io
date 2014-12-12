@@ -1,6 +1,6 @@
 ---
 title: Tutorial on McCabe and Halsted
-layout: repopage
+layout: repo
 category: mccabehalsted
 ---
 
