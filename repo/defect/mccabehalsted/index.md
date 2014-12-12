@@ -8,6 +8,6 @@ category: mccabehalsted
   see [here](tut.html)
 + For notes on the use of these metris in defect
   prediction, [see this tutorial](../index.html).
-+ For data sets that use the Halstead and McCabe metris below.
++ For data sets that use the Halstead and McCabe metrics below.
 
 ## Data Sets
