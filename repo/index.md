@@ -7,9 +7,10 @@ limit: 5
 
 This repository is an update to the older PROMISE repository of SE data.
 
-Our goal is to be a _one-stop shop_ for researchers looking for SE-related data. Hopefully, using this repo, we can make 
-conclusions in SE repeatable, refutable and even improvable.
+Our goal is to be a long term storage facility for SE data. Many researchers take the time to carefully host their data on their own web sites. But as people move through their career, those web sites can fade away and take away their data. Hopefully, using this repo, we can make 
+conclusions in SE repeatable, and repeatable for a  longer time.
 
+This site has size restrctions (1TB, total) and we are chasing funds to change that (coming soon: peta-Promise?). That said, we are making progress. For example, this site can hold 500 times the data of the last version. 
 
 For more details on what we have in the repo, please browse the right-hand side site map. Note that these categories are not
 fixed- the more data you contribute, the more our categories change.
