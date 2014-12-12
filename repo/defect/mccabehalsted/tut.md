@@ -2,6 +2,7 @@
 title: Tutorial on McCabe and Halsted
 layout: repo
 category: mccabehalsted
+excerpt : Notes on the metrics
 ---
 
 ## McCabe
