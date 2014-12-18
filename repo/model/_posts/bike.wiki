@@ -11,7 +11,7 @@
 = Change Log =
 
 || When || What ||
-||    ?? 2009 || Donated by MistyDavies, NASA AMES, misty.davies AT gmail.com ||
+|| January 1, 2009 || Donated by MistyDavies, NASA AMES, misty.davies AT gmail.com ||
 
 = Reference =
 

@@ -1,7 +1,7 @@
+#summary This data set is a quantitative goal model of an ambulance service system.
 #labels Model
-<wiki:toc max_depth="2" />
 
-This data set is a quantitative goal model of an ambulance service system.
+<wiki:toc max_depth="2" />
 
 = URL =
 
@@ -11,7 +11,9 @@ This data set is a quantitative goal model of an ambulance service system.
 = Change Log =
 
 || When || What ||
-||    Sep 3, 2012 || Donated by [http://letier.cs.ucl.ac.uk/ EmmanuelLeiter], e.letier AT cs DOT ucl DOT ac DOT uk ||
+|| September 3, 2012 || Donated by [http://letier.cs.ucl.ac.uk/ Emmanuel Leiter] ||
+
+Emmanuel Leiter: e.letier AT cs DOT ucl DOT ac DOT uk
 
 = Reference =
 
