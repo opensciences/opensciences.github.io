@@ -2,44 +2,44 @@
 title: bugreport
 excerpt: bugreport recommender system data
 layout: repo
-author: Martin Pinzger, Emanuel Giger
+author: MartinPinzger and EmanuelGiger
 ---
 
 
 #URL
 
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.eclipse.jdt
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.eclipse.platform
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.gnome.evolution
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.gnome.gstreamer
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.mozilla.core
-  * With change log: https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport.mozilla.firefox
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.jdt](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.jdt)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.platform](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.platform)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.evolution](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.evolution)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.gstreamer](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.gstreamer)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.core](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.core)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.firefox](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.firefox)
 
 
 #Change Log
 
-When | What
-2010 | Donated by Martin Pinzger and Emanuel
+When | What---- | ----
+January 1, 2010 | Donated by MartinPinzger and EmanuelGiger
 
 
 #Reference
 
-All data is licensed under the Creative Commons License 3.0. For more information on the license see http://creativecommons.org/licenses/by-sa/3.0/
+All data is licensed under the Creative Commons License 3.0. For more information on the license see[http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Studies who have been using the data (in any form) are required to add the following reference to their report/paper:
 
-&#123;&#123;&#123;
-    @inproceedings&#123;Giger2010-rsse,
-     author = &#123;Giger, Emanuel and Pinzger, Martin and Gall, Harald&#125;,
-     title = &#123;Predicting the fix time of bugs&#125;,
-     booktitle = &#123;Proceedings of the 2nd International Workshop on Recommendation Systems for Software Engineering&#125;,
-     year = &#123;2010&#125;,
-     location = &#123;Cape Town, South Africa&#125;,
-     pages = &#123;52--56&#125;,
-     publisher = &#123;ACM&#125;,
-     address = &#123;New York, NY, USA&#125;,
-    &#125; 
-&#125;&#125;&#125;
+\{\{\{
+    @inproceedings\{Giger2010-rsse,
+     author = \{Giger, Emanuel and Pinzger, Martin and Gall, Harald\},
+     title = \{Predicting the fix time of bugs\},
+     booktitle = \{Proceedings of the 2nd International Workshop on Recommendation Systems for Software Engineering\},
+     year = \{2010\},
+     location = \{Cape Town, South Africa\},
+     pages = \{52--56\},
+     publisher = \{ACM\},
+     address = \{New York, NY, USA\},
+    \} 
+\}\}\}
 
 #About the Data
 
@@ -51,7 +51,7 @@ Each row denotes the values extracted from one bug report. For each of the bug r
 
 == List of bug report attributes ==
 
-&#123;&#123;&#123;
+\{\{\{
     bugID
     component
     reporterEmail
@@ -83,4 +83,4 @@ Each row denotes the values extracted from one bug report. For each of the bug r
     yearOpened
     monthYearOpened
     monthYearLastFixed
-&#125;&#125;&#125;
+\}\}\}

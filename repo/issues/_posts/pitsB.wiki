@@ -1,0 +1,22 @@
+#summary pits data for text mining
+#labels Text
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: [http://promisedata.googlecode.com/svn/trunk/text/pitsB/pitsB.csv pitsB]
+  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/text/pitsB/
+
+= Change Log =
+
+|| When || What ||
+||    January 20, 2008 || Donated by [TimMenzies Tim Menzies] ||
+
+This is a text mining data set generated from project and issue tracking system (PITS) reports.
+
+= Reference =
+
+  * Tim Menzies, "[http://menzies.us/pdf/07anomalies-pits.pdf Improving IV&V Techniques Through the Analysis of Project Anomalies: Text Mining PITS issue reports]", Technical Report at West Virginia University, 2008.
+
+  * Tim Menzies and Andrian Marcus "Automated Severity Assessment of Software Defect Reports". ICSM'08  2008 . Available from http://menzies.us/pdf/08severis.pdf .

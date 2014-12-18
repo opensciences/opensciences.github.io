@@ -1,14 +1,8 @@
----
-title: mozilla13
-excerpt: mozilla13 defect data
-layout: repo
-author:  Michael Hoye
----
 #summary mozilla13 defect data
 
 <wiki:toc max_depth="2" />
 
-#MOZILLA 13
+= MOZILLA 13 =
 
 This is a log of Mozilla defects.
 
@@ -17,13 +11,13 @@ This is a log of Mozilla defects.
   * The logs from their automated test harness, going back to 2002.
 
 
-#URL
+= URL =
 
 These files are very large, too big for Google code repos. Hence, these files are kept on another site;
 
-  * To access the files on-line, see [mozilla](http://promisedata.org/data/mozillaApr13/).
+  * To access the files on-line, see [http://promisedata.org/data/mozillaApr13/ mozilla].
     
-#Change Log
+= Change Log =
 
-When | What---- | ----
-June 1, 2013 | Donated by [ Michael Hoye](MikeHoye) 
+|| When || What ||
+|| June 1, 2013 || Donated by [MikeHoye  Michael Hoye] || 
