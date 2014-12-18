@@ -1,24 +1,21 @@
----
-title: maxwell
-excerpt: maxwell effort estimation
-layout: repo
-author: Li Yanfu
----
+#summary maxwell effort estimation
+#labels Effort
 
+<wiki:toc max_depth="2" />
 
-#URL
+= URL =
 
-  * Latest version: [maxwell](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other/maxwell/maxwell.arff),
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other/maxwell/](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other/maxwell/)
+  * Latest version: [http://promisedata.googlecode.com/svn/trunk/effort/maxwell/maxwell.arff maxwell],
+  * With change log: http://code.google.com/p/promisedata/source/browse/trunk/effort/maxwell
   
-#Change Log
+= Change Log =
 
-When | What---- | ----
-   March 21, 2009 | Donated by Li Yanfu
+|| When || What ||
+||    March 21, 2009 || Donated by Li Yanfu ||
 
 Source: Finish banking data
 
-#Reference
+= Reference =
 
 1 K. D. Maxwell. 2002. Applied Statistics for Software Managers. Englewood Cliffs, NJ. Prentice-Hall.
 

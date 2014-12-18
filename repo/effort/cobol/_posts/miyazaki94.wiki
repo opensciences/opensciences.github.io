@@ -1,24 +1,21 @@
----
-title: miyazaki94
-excerpt: Notes on miyazaki94
-layout: repo
-author: Sousuke Amasaki
----
+#summary Notes on miyazaki94
+#labels Effort
 
+<wiki:toc max_depth="2" />
 
-#URL
+= URL =
 
   * Latest version: 
-    * [miyazaki94](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cobol/miyazaki94/miyazaki94.arff)
+    * [http://promisedata.googlecode.com/svn/trunk/effort/miyazaki94/miyazaki94.arff miyazaki94]
   * With change log:
-    * [miyazaki94](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cobol/miyazaki94/miyazaki94)
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/miyazaki94 miyazaki94]
 
-#Change Log
+= Change Log =
 
-When | What---- | ----
-May 21, 2010 | Donated by [Sousuke Amasaki](SousukeAmasaki)
+|| When || What ||
+|| May 21, 2010 || Donated by [SousukeAmasaki Sousuke Amasaki] ||
 
-#Notes from the Author
+= Notes from the Author =
 
 == Creators ==
 
@@ -51,12 +48,12 @@ May 21, 2010 | Donated by [Sousuke Amasaki](SousukeAmasaki)
 
 none
 
-#Reference
+= Reference =
 
 == People ==
 
- * [Sousuke Amasaki](SousukeAmasaki)
+ * [SousukeAmasaki Sousuke Amasaki]
 
 == Papers ==
 
-Y. Miyazaki, M. Terakado, K. Ozaki, and H. Nozaki. 1994. Robust regression for developing software estimation models. J. Syst. Softw. 27, 1 (October 1994), 3-16. DOI=10.1016/0164-1212(94)90110-4[http://dx.doi.org/10.1016/0164-1212(94)90110-4](http://dx.doi.org/10.1016/0164-1212(94)90110-4)
+Y. Miyazaki, M. Terakado, K. Ozaki, and H. Nozaki. 1994. Robust regression for developing software estimation models. J. Syst. Softw. 27, 1 (October 1994), 3-16. DOI=10.1016/0164-1212(94)90110-4 http://dx.doi.org/10.1016/0164-1212(94)90110-4

@@ -1,0 +1,31 @@
+#summary Notes on coc81
+#labels Effort,Defect
+
+<wiki:toc max_depth="2" />
+
+This is a cross-listed data set that contains effort _and_ defect information.
+
+The data in this file confirms to the [cocomo81] model.
+
+= URL =
+
+  * Latest version: 
+    * [http://promisedata.googlecode.com/svn/trunk/effort/coc81-dem/coc81-dem.arff coc81-dem] (with defect and month counts) 
+    * [http://promisedata.googlecode.com/svn/trunk/effort/coc81/coc81.arff coc81]
+    * [http://promisedata.googlecode.com/svn/trunk/effort/coc81/coc81lnh.arff coc81lnh]: effort multipliers expresses as "low,medium,hight"
+    * [http://promisedata.googlecode.com/svn/trunk/effort/coc81/coc2000.csv cocomo2000]: cocomo data set transferred to cocomo II via Rosetta Stone
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/coc81-dem coc81-dem] (with defect and month counts)
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/coc81 coc81]
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/coc81 coc81lnh]
+
+= Change Log =
+
+|| When || What ||
+|| March  2010 || JPL experts added expected number of defects and months to create coc81-dem ||
+|| Dec 2009 || Correction: the original PROMISE repository data set had incorrect DATA and CPLX effort multiplier  values for project 32 and did not include prjoject_id, dev_mode, and the first row of headers as it does now  ||
+|| February 8, 2006 || Donated by [TimMenzies Tim Menzies] ||
+
+= Reference =
+
+Reifer, D., Boehm, B. W., and Chulani, S. (1999). The Rosetta Stone: Making COCOMO 81 Estimates Work with COCOMO II. Crosstalk. The Journal of Defense Software Engineering., pages 11–15.

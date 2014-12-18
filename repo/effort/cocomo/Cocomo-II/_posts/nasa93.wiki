@@ -1,31 +1,28 @@
----
-title: nasa93
-excerpt: Notes on nasa93
-layout: repo
-author: Tim Menzies
----
+#summary Notes on nasa93
+#labels Effort,Defect
 
+<wiki:toc max_depth="2" />
 
 This is a cross-listed data set that contains effort _and_ defect information.
 
-This data uses the attributes defined in the [model.
+This data uses the attributes defined in the [cocomo81] model.
 
-#URL
+= URL =
 
   * Latest version: 
-    * [https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/Cocomo-II/nasa93/nasa93-dem/nasa93-dem.arff nasa93-dem](cocomo81]) (with defect and month counts) 
-    * [nasa93](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/Cocomo-II/nasa93/nasa93.arff)
+    * [http://promisedata.googlecode.com/svn/trunk/effort/nasa93-dem/nasa93-dem.arff nasa93-dem] (with defect and month counts) 
+    * [http://promisedata.googlecode.com/svn/trunk/effort/nasa93/nasa93.arff nasa93]
   * With change log:
-    * [nasa93-dem](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/Cocomo-II/nasa93/nasa93-dem) (with defect and month counts)
-    * [nasa93](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/Cocomo-II/nasa93/nasa93)
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/nasa93-dem nasa93-dem] (with defect and month counts)
+    * [http://code.google.com/p/promisedata/source/browse/trunk/effort/nasa93 nasa93]
 
-#Change Log
+= Change Log =
 
-When | What---- | ----
-March  2010 | JPL experts added expected number of defects and months to create nasa93-dem
-February 8, 2006 | Donated by [Tim Menzies](TimMenzies)
+|| When || What ||
+|| March  2010 || JPL experts added expected number of defects and months to create nasa93-dem ||
+|| February 8, 2006 || Donated by [TimMenzies Tim Menzies] ||
 
-#Notes from the Author
+= Notes from the Author =
 
  * Title/Topic: COCOMO NASA 2 / Software cost estimation
  
@@ -33,21 +30,21 @@ February 8, 2006 | Donated by [Tim Menzies](TimMenzies)
     
  * 93 NASA projects from different centers for projects from the following years:
 
-*n | year*
-1  | 1971
-1  | 1974
-2  | 1975
-2  | 1976
-10 | 1977
-4  | 1978
-19 | 1979
-11 | 1980
-13 | 1982
-7  | 1983
-7  | 1984
-6  | 1985
-8  | 1986
-2  | 1987
+|| *n || year* ||
+|| 1  || 1971 ||
+|| 1  || 1974 ||
+|| 2  || 1975 ||
+|| 2  || 1976 ||
+|| 10 || 1977 ||
+|| 4  || 1978 ||
+|| 19 || 1979 ||
+|| 11 || 1980 ||
+|| 13 || 1982 ||
+|| 7  || 1983 ||
+|| 7  || 1984 ||
+|| 6  || 1985 ||
+|| 8  || 1986 ||
+|| 2  || 1987 ||
 
 
  * Collected by: Jairus Hihn, JPL, NASA, Manager SQIP Measurement & Benchmarking Element. Phone (818) 354-1248 (Jairus.M.Hihn@jpl.nasa.gov)
@@ -57,14 +54,14 @@ February 8, 2006 | Donated by [Tim Menzies](TimMenzies)
 == Past Usage ==
 
  * None with this specific data set. But for older work on similar data, see:
-   * "Validation Methods for Calibrating Software Effort Models", T. Menzies and D. Port and Z. Chen and J. Hihn and S. Stukes, Proceedings ICSE 2005,[http://menzies.us/pdf/04coconut.pdf](http://menzies.us/pdf/04coconut.pdf)
+   * "Validation Methods for Calibrating Software Effort Models", T. Menzies and D. Port and Z. Chen and J. Hihn and S. Stukes, Proceedings ICSE 2005, http://menzies.us/pdf/04coconut.pdf
    * Results:
      * Given background knowledge on 60 prior projects, a new cost model can be tuned to local data using as little as 20 new projects.
      * A very simple calibration method (COCONUT) can achieve PRED(30)=7% or PRED(20)=50% (after 20 projects).  These are results seen in 30 repeats of an incremental cross-validation study.
      * Two cost models are compared; one based on just lines of code and one using over a dozen "effort multipliers". Just using lines of code loses 10 to 20 PRED(N) points.
 
  * Additional Usage:
-   * "Feature Subset Selection Can Improve Software Cost Estimation Accuracy" Zhihao Chen, Tim Menzies, Dan Port and Barry Boehm Proceedings PROMISE Workshop 2005,[http://www.etechstyle.com/chen/papers/05fsscocomo.pdf](http://www.etechstyle.com/chen/papers/05fsscocomo.pdf) P02, P03, P04 are used in this paper.
+   * "Feature Subset Selection Can Improve Software Cost Estimation Accuracy" Zhihao Chen, Tim Menzies, Dan Port and Barry Boehm Proceedings PROMISE Workshop 2005, http://www.etechstyle.com/chen/papers/05fsscocomo.pdf P02, P03, P04 are used in this paper.
    * Results
      * To the best of our knowledge, this is the first report of applying feature subset selection (FSS) to software effort data.
      * FSS can dramatically improve cost estimation.
@@ -86,13 +83,13 @@ February 8, 2006 | Donated by [Tim Menzies](TimMenzies)
  * one lines of code measure
  * one goal field being the actual effort in person months.
 
-#Reference
+= Reference =
 
 See above section "Relevant Information" for further reference.
 
 == People ==
 
- * [Tim Menzies](TimMenzies)
+ * [TimMenzies Tim Menzies]
 
 == Papers ==
 .
