@@ -1,0 +1,40 @@
+#summary log4j OO defect data
+#labels Defect
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * With change log: 
+    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/log4j-1.0 log4j 1.0]
+    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/log4j-1.1 log4j 1.1]
+    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/log4j-1.2 log4j 1.2]
+
+= Change Log =
+
+|| When || What ||
+|| July 26, 2010 || Donated by [MarianJureczko Marian Jureckzo] ||
+
+= About the data =
+
+This dataset is one of the [MarianJureczko Marian Jureckzo] Datasets.
+
+This dataset uses the [Chidamber CK] OO metrics.
+
+= Reference =
+
+Marian Jureczko and Lech Madeyski. 2010. [http://dl.acm.org/citation.cfm?id=1868328.1868342&coll=DL&dl=GUIDE&CFID=96280125&CFTOKEN=47274353 Towards identifying software project clusters with regard to defect prediction]. In
+Proceedings of the 6th International Conference on Predictive
+Models in Software Engineering (PROMISE '10). ACM, New York,
+NY, USA, , Article 9 , 10 pages. DOI=10.1145/1868328.1868342
+http://doi.acm.org/10.1145/1868328.1868342
+
+= Comments =
+
+SUN DING | May 27th, 2011 at 10:25 pm
+
+Hi, Sir, I downloaded the log4j-1.2 source codes. Taking the class “org.apache.log4j.Append” as example, it is an abstract class without any real codes inside. But the error report indicates there are two bugs inside. Is it possible because of different sub versions,like log4j-1.2.x ?
+
+Expecting reply, thanks!
+
+Ding

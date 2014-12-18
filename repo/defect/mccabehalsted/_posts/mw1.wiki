@@ -1,0 +1,43 @@
+#summary Notes on mw1
+#labels Defect
+
+<wiki:toc max_depth="2" />
+
+= URL =
+
+  * Latest version: 
+    * [http://promisedata.googlecode.com/svn/trunk/defect/mw1/mw1.arff mw1]
+      * [http://code.google.com/p/promisedata/source/browse/trunk/defect/mw1/d mw1'], the cleaned version by Shepperd et al., described as D' [http://nasa-softwaredefectdatasets.wikispaces.com/home here].
+      * [http://code.google.com/p/promisedata/source/browse/trunk/defect/mw1/dd mw1''], the cleaned version by Shepperd et al., described as D'' [http://nasa-softwaredefectdatasets.wikispaces.com/home here].
+  * With change log:
+    * [http://code.google.com/p/promisedata/source/browse/trunk/defect/mw1/ mw1]
+
+= Change Log =
+
+|| When || What ||
+|| Nov 2011 || Dataset has been cleaned by MartinShepperd et al. (mw1' and mw1'' are the cleaned versions) ||
+|| December 2, 2007 || Donated by [TimMenzies Tim Menzies] ||
+
+= Notes from the Author =
+
+For more deatils on this data set, see [kc2].
+
+= Comments =
+
+Martin Shepperd | August 20th, 2011 at 7:12 am
+
+Be aware that the Promise version of this dataset differs from the NASA MDP version:
+
+Version,Cases(n),Features(p)
+MW1 – NASA,403,43
+MW1 – Promise,403,38
+
+Therefore researchers are *strongly* advised to indicate which version of these files they are using!
+
+= Reference =
+  * M. Shepperd, Q. Song, Z. Sun and C. Mair, [http://goo.gl/OlHNh Data Quality: Some Comments on the NASA Software Defect Data Sets] (under review), 2011
+
+== People ==
+
+ * [TimMenzies Tim Menzies]
+.
