@@ -17,7 +17,7 @@ access.
 Enough is enough. As academics,
 we make the most contribution to these
 publications.
-As SE researchers, we volunteer our labor to write,
+As software engineering (SE) researchers, we volunteer our labor to write,
 review, and edit the papers. We staff the editorial
 boards. We even train the next generation of
 researchers to write the next generation of papers.
@@ -41,7 +41,7 @@ handled by us, free of charge. For example:
   for our papers.
 
 In short, we can are free to change the nature of
-our publication forums- just by deciding to do so.
+our publication forums -- just by deciding to do so.
 Our proposal to change the nature of publication
 rests on the idea that a traditional paper is actually
 an end report generated after using  many
@@ -79,7 +79,7 @@ into a conventional research paper. For example,
 until very recently, it was not standard to post the scripts
 and data used to generate research papers. That is changing,
 slowly, but we want to encourage the whole research community
-to  let more people access and critique and improve all
+to let more people access and critique and improve all
 [research products](researchproducts.html).
 
 So the goal
@@ -200,7 +200,7 @@ decreasing their review times.  Shorten the format
 of research papers so industrial developers may have
 enough time to write them. Divide standard paper
 formats into many, much smaller sets of
-[research products](reserachproducts.html) 
+[research products](researchproducts.html) 
 and
 allow for separate submission of each smaller part.
 
@@ -237,7 +237,7 @@ requires one petabyte of storage.
 The traditional research paper is the final step in
 a long process. Yet it only reports the last few
 steps and not all the other 
-[research products](reserachproducts.html) 
+[research products](researchproducts.html) 
 that are needed to reproduce, improve, or refute the
 original work.  Note that incomplete descriptions
 also contributes to the **Too Few Replicated Studies**
@@ -245,7 +245,7 @@ problem.
 
 _SOLUTION #5:_
 Allow researchers to store all the 
-[research products](reserachproducts.html) 
+[research products](researchproducts.html) 
  in a repository.  Offer prominent and public
 awards to researchers who contribute such products.
 
@@ -268,25 +268,23 @@ of motivation + related work + results + future work
 
 _SOLUTION #6:_
 Divide a researcher's work into small
-[research products](reserachproducts.html), 
+[research products](researchproducts.html), 
 each of which can be
 peer-reviewed and published. For a list of our
 proposed 
-[research products](reserachproducts.html).  Note that
+[research products](researchproducts.html).  Note that
 since our _publishable unit_ can be shorter than the
 standard format, we predict that more people will be
 able to participate.
-
-We hasten to add that our journal would publish
-standard SE research papers (10+ pages of motivation + related work + results + discussion of future
-work). But it would also accept papers as short as
-one page that, for example:
+For example, we would accept papers that:
 
 + Motivate some industrially-based challenge
 problem; or
-+ Reports a successful reproduction of prior work or
-+ Shows drawbacks with a particular statistical
-test.  That is, this infrastructure would enable
++ Report a successful reproduction of prior work; or
++ Show drawbacks with a particular statistical
+test.  
+
+That is, this infrastructure would enable
 rapid peer review and publication of submissions
 that are only as long as necessary to comment on any
 one (or more) of the products listed in types.
@@ -350,16 +348,9 @@ One example of such a workflow and discussion tool
 is GitHub. Used by 3.4 million users, GitHub is fast
 become the defacto standard for collaborators
 sharing the details of their software products.  Our
-current prototype for the journal, shown in con can
+current version of  the journal, can
 be found on the web at
 [http://openscience.us/ssj](http://openscience.us/ssj).
-This web site is served from the GitHub repo shown
-top right of con.  To update the website, we need
-only write a file in the Markdown syntax and commit
-it to the repository (and for papers with very
-complex layout, we would continue to allow authors
-to submit PDF files built using Word or style files
-that we supply).
 
 
 
