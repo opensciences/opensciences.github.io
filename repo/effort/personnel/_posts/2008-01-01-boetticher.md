@@ -8,12 +8,13 @@ author: GaryBoetticher
 
 #URL
 
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/boetticher](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/boetticher)
-  * With raw data[https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/boetticher](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/boetticher)
+  * With change log: [https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/boetticher)
+  * With raw data: [https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls)
 
 #Change Log
 
-When | What---- | ----
+When | What
+---- | ----
 January 1, 2008 | Donated by GaryBoetticher
 
 #Reference
