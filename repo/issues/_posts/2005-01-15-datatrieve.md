@@ -12,13 +12,14 @@ This is data from the transition of the DATATRIEVE product from version 6.0 to
 #URL
 
   * Latest version :
-    * [ datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve/datatrieve) 
+    * [ datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve/datatrieve.arff) 
   * With change log:
-    * [datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve/datatrieve)
+    * [datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve)
 
 #Change Log
 
-When | What---- | ----
+When | What
+---- | ----
 January 15, 2005 | Donated by Guenther Ruhe
 
 
