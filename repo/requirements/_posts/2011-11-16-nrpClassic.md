@@ -8,13 +8,14 @@ author: Jifeng Xuan
 
 #URL
 
-  * Latest version: [nrp1](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/nrp1/nrp1.txt), [nrp2](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/nrp2/nrp2.txt), [nrp3](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/nrp3/nrp3.txt), [nrp4](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/nrp4/nrp4.txt), [nrp5](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/nrp5/nrp5.txt).
-  * [Example](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/example.txt)
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrpClassic/nrp-classic/)
+  * Latest version: [nrp1](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/nrp1/nrp1.txt), [nrp2](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/nrp2/nrp2.txt), [nrp3](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/nrp3/nrp3.txt), [nrp4](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/nrp4/nrp4.txt), [nrp5](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/nrp5/nrp5.txt).
+  * [Example](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/example.txt)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/](https://terapromise.csc.ncsu.edu:8443/svn/repo/requirements/nrp/nrp-classic/)
 
 #Change Log
 
-When | What---- | ----
+When | What
+---- | ----
    November 16, 2011 | Donated by [Jifeng Xuan](JifengXuan)
 
 This is one of the next release problem (NRP) data sets donated by [Jifeng Xuan](JifengXuan). 
