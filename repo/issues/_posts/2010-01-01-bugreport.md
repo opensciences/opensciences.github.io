@@ -25,7 +25,7 @@ January 1, 2010 | Donated by MartinPinzger and EmanuelGiger
 
 #Reference
 
-All data is licensed under the Creative Commons License 3.0. For more information on the license see[http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
+All data is licensed under the Creative Commons License 3.0. For more information on the license see [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Studies who have been using the data (in any form) are required to add the following reference to their report/paper:
 
