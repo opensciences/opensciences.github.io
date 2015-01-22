@@ -9,11 +9,12 @@ author: Masateru Tsunoda
 #URL
 
   * Latest version: [kitchenham](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham/kitchenham.arff),
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham/kitchenham](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham/kitchenham)
+  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/function-points/kitchenham)
   
 #Change Log
 
-When | What---- | ----
+When | What
+---- | ----
    September 30, 2011 | Donated by Masateru Tsunoda
 
 #Reference
