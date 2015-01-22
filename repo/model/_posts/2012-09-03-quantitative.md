@@ -8,12 +8,13 @@ author: Emmanuel Leiter
 
 #URL
 
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/)
-  * With raw data[https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/)
+  * With change log: [https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/)
+  * With raw data: [https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/quantitative.zip)
 
 #Change Log
 
-When | What---- | ----
+When | What
+---- | ----
 September 3, 2012 | Donated by [Emmanuel Leiter](http://letier.cs.ucl.ac.uk/)
 
 Emmanuel Leiter: e.letier AT cs DOT ucl DOT ac DOT uk
