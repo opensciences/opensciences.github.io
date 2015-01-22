@@ -9,7 +9,7 @@ author: Emmanuel Leiter
 #URL
 
   * With change log: [https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/)
-  * With raw data: [https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/quantitative.zip)
+  * With raw data: [https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/quantitative.zip](https://terapromise.csc.ncsu.edu:8443/svn/repo/model/quantitative/quantitative.zip)
 
 #Change Log
 
