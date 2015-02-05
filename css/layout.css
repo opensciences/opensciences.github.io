@@ -194,6 +194,8 @@ h1 a {
 	font-weight:normal;
 }
 
+h3.emphasis a {font-size: 150%; }
+h3.emphasis { margin-bottom: 10px; }
 
 /* branding
 ----------------------------------------------- */
