@@ -2,7 +2,6 @@
 title: How to contribute
 layout: repopage
 ---
-# How to fish for software engineering data
 
 Before we get started, please remember to create all issues pertaining to the retrieval of SE data and papers within the ["Content retrieval hangout" GitHub milestone](https://github.com/opensciences/opensciences.github.io/milestones/Content%20retrieval%20hangout). In addition to putting issues in the milestone, remember to appropriately tag new issues.
 
