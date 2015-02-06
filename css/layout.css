@@ -113,11 +113,12 @@ ul#menu li a { color: #fff; }
 
 img#me { border: 8px solid #333; }
 
-/* img#backToPortalLogo {
+ img#backToPortalLogo {
     
-    margin: 2px;
+    margin-left: 2px;
+    vertical-align: middle;
     
-} */
+}
 
 
 /* anchors
