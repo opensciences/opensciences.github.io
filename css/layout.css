@@ -202,8 +202,20 @@ h1 a {
 	font-weight:normal;
 }
 
-h3.emphasis a {font-size: 150%; }
+h3.emphasis a {
+	font-size: 150%;
+	color: #ffffff;
+}
 h3.emphasis { margin-bottom: 10px; }
+
+#contribButton {
+	border: 2px solid black;
+	border-radius: 2px;
+	background:rgb(20,120,200);
+	padding: 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
 
 /* branding
 ----------------------------------------------- */
