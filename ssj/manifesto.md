@@ -224,7 +224,7 @@ the total repository size.
 
 _SOLUTION #4:_ 
 Create a large free-to-use repository for SE
-[research products](researchproducts.md).  To this
+[research products](researchproducts.html).  To this
 end, we have created a
 [large repository for storing the data](https://terapromise.csc.ncsu.edu:8443/svn/repo),
 plus creating
