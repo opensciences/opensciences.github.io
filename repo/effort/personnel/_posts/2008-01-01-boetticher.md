@@ -15,7 +15,7 @@ author: GaryBoetticher
 
 When | What
 ---- | ----
-January 1, 2008 | Donated by GaryBoetticher
+January 1, 2008 | Donated by [Gary Boetticher](/repo/people)
 
 #Reference
 

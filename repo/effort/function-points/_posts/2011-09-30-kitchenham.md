@@ -15,7 +15,7 @@ author: Masateru Tsunoda
 
 When | What
 ---- | ----
-   September 30, 2011 | Donated by Masateru Tsunoda
+   September 30, 2011 | Donated by [Masateru Tsunoda](/repo/people)
 
 #Reference
 

@@ -20,7 +20,7 @@ author: MartinPinzger and EmanuelGiger
 
 When | What
 ---- | ----
-January 1, 2010 | Donated by MartinPinzger and EmanuelGiger
+January 1, 2010 | Donated by [Martin Pinzger](/repo/people) and [Emanuel Giger](/repo/people)
 
 
 #Reference

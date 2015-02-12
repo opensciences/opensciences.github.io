@@ -17,11 +17,11 @@ author: Marian Jureckzo
 
 When | What
 ---- | ----
-July 26, 2010 | Donated by [Marian Jureckzo](MarianJureczko)
+July 26, 2010 | Donated by [Marian Jureckzo](/repo/people)
 
 #About the data
 
-This dataset is one of the [Marian Jureckzo](MarianJureczko) Datasets.
+This dataset is one of the [Marian Jureckzo](/repo/people) Datasets.
 
 This dataset uses the [CK](/repo/defect/ck) OO metrics.
 

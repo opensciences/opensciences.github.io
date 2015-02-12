@@ -15,7 +15,7 @@ author: Emmanuel Leiter
 
 When | What
 ---- | ----
-September 3, 2012 | Donated by [Emmanuel Leiter](http://letier.cs.ucl.ac.uk/)
+September 3, 2012 | Donated by [Emmanuel Leiter](/repo/people)
 
 Emmanuel Leiter: e.letier AT cs DOT ucl DOT ac DOT uk
 
