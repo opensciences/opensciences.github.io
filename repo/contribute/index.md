@@ -39,9 +39,9 @@ Before we get started, please remember to create all issues pertaining to the re
             * DO NOT send this email. Just write it.
         * Some context notes about this data. This will ideally be in Git-flavored markdown, but if you can't do that, plaintext is fine.
             * For an example of (long-ish) context notes, see http://openscience.us/repo/defect/ck/tut.html and http://openscience.us/repo/defect/tut.html
-    * Flip a coin. If it's heads, assign this "Target Paper" issue to CarterPape. If it's tails, assign it to CorbinSteele.
+    * Flip a coin. If it's heads, assign this "Target Paper" issue to CarterPape. If it's tails, assign it to reesjones (Mitch Rees-Jones).
 
 ## 5. *Submit* the job
 
-* Mr. Steele and Mr. Pape will then add the data to the big repo, add the context notes to our small repo, and email the owners with the url for both.
+* Mr. Rees-Jones and Mr. Pape will then add the data to the big repo, add the context notes to our small repo, and email the owners with the url for both.
 * Relabel the issue to "Submitted" and close the issue.

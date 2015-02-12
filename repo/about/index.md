@@ -34,7 +34,7 @@ _Founders_: Tim Menzies, Jelber Sayyad
 
 _Curators_: 
 
-(If we missed your name, please [email us](opensciences.content@gmail.com) to add you in.)
+(If we missed your name, please [email us](mailto:opensciences.content@gmail.com) to add you in.)
 
 + _Version 0_ : Mike Chapman, Justin DiStefano
 + _Version 1_ : Jelber Sayyad
