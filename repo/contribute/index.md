@@ -3,6 +3,8 @@ title: How to contribute
 layout: repopage
 ---
 
+We will be periodically hosting hackathons to track down and add SE data and papers. The next hackathon will be on February 13th, 2015 at 12pm.
+
 Before we get started, please remember to create all issues pertaining to the retrieval of SE data and papers within the ["Content retrieval hangout" GitHub milestone](https://github.com/opensciences/opensciences.github.io/milestones/Content%20retrieval%20hangout). In addition to putting issues in the milestone, remember to appropriately tag new issues.
 
 ## 1. *Browse* conferences
