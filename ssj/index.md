@@ -32,12 +32,12 @@ in _traditional_ and _novel_ formats:
 + On the other hand, _novel formats_ can be much
   more varied.  The view of SSJ is that research
   papers contain many 
-   [research products](researchproducts.html), any of
+   [research products](/ssj/researchproducts.html), any of
   which can be separately peer-reviewed and
   published. 
 
 Note that since SSJ papers can be as short as a
-single  [research products](researchproducts.html), these SSJ papers can be
+single  [research products](/ssj/researchproducts.html), these SSJ papers can be
 much shorter than other journals. Hence, SSJ can
 offer faster review times for these shorter papers.
 
