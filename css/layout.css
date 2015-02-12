@@ -331,6 +331,10 @@ ul, ol {
 	padding-top:0;
 }
 
+ul ul, ol ol {
+	margin-bottom: 0;
+}
+
 
 /* menus
 ----------------------------------------------- */
