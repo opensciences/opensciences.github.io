@@ -104,7 +104,7 @@ Preferences given to articles whose authors make
 
 + Additional preference will be given to authors who
 	   make their study artifacts available
-	   on [tera-Promise](http://openscience.us/content).
+	   on [tera-Promise](http://openscience.us/repo).
 
 ### Special Issues
 
