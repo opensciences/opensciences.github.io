@@ -23,10 +23,10 @@ describing what you have and how much disk space it takes (ideally, we  take all
 
 ### Acknowledgements
 
-Tim Menzies
-Carter Pape
-Mitch Rees-Jones
-Corbin Steele
+ * Tim Menzies
+ * Carter Pape
+ * Mitch Rees-Jones
+ * Corbin Steele
 
 ## Recent Additions
 
