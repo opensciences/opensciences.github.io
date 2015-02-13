@@ -1,0 +1,48 @@
+---
+layout: repo
+title: Promise 3
+category: contributor
+excerpt: Contributors from Promise 3 repository
+---
+
+## Contributors
+
+ * Ning Chen, [http://www.cais.ntu.edu.sg/~nchen1/SPE.htm](http://www.cais.ntu.edu.sg/~nchen1/SPE.htm)
+ * Marian Jureczko
+ * Tim Menzies
+ * Pat Callis
+ * Softlab
+ * Sousuke Amasaki
+ * Ekrem Kocaguneli
+ * Jacky W. Keung
+ * Li Yanfu
+ * Hon Yun Fang
+ * Masateru Tsunoda
+ * ISBSG Limited
+ * Gary Boetticher
+ * Jifeng Xuan
+ * Jane Huffman Hayes
+ * Jane Cleland-Huang
+ * Sepideh Mazrouee
+ * Huang Liguo
+ * Dan Port
+ * Guenther Ruhe
+ * Martin Pinzger
+ * Emanuel Giger
+ * Josée Tassé
+ * A. Günes Koru
+ * Audris Mockus
+ * Michael Hoye
+ * Misty Davies, misty.davies AT gmail.com
+ * Emmanuel Leiter, [http://letier.cs.ucl.ac.uk/](http://letier.cs.ucl.ac.uk/)
+ * Bart Massey
+ * André Riboira, [andre.riboira@fe.up.pt](mailto:andre.riboira@fe.up.pt)
+ * Rui Abreu, [rui@computer.org](mailto:rui@computer.org)
+ * Justin Di Stefano
+ * Mike Chapman
+ * Andres Orrego
+ * Christina Moats
+ * Markland Benson
+ * Ken Costello
+ * Melissa Northey
+ * Julian Richardson

@@ -21,5 +21,12 @@ To make such  contribution, please send a message
 [opensciences.content@gmail.com](mailto:opensciences.content@gmail.com) 
 describing what you have and how much disk space it takes (ideally, we  take all data but there are some pragmatic restrictions).
 
+### Acknowledgements
+
+Tim Menzies
+Carter Pape
+Mitch Rees-Jones
+Corbin Steele
+
 ## Recent Additions
 
