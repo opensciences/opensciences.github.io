@@ -115,7 +115,7 @@ img#me { border: 8px solid #333; }
 
  img#backToPortalLogo {
     
-    margin-left: 2px;
+    margin-left: 5px;
     vertical-align: middle;
     
 }
@@ -215,6 +215,7 @@ h3.emphasis { margin-bottom: 10px; }
 	padding: 2px;
 	padding-left: 5px;
 	padding-right: 5px;
+	margin: 5px;
 }
 
 /* branding
