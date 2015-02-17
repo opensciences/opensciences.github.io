@@ -4,7 +4,8 @@ title: Mitch Rees-Jones
 category: curator
 ---
 
-Temporary description
+Student at North Carolina State University
 
+## About
 Mitch Rees-Jones is a student at NC State University, currently pursuing a B.S. in Computer Science.
 He began work on the Open Science repository in January 2015.
