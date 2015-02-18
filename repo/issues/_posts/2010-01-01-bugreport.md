@@ -53,35 +53,37 @@ Each row denotes the values extracted from one bug report. For each of the bug r
 ##List of bug report attributes
 
 \{\{\{
-    bugID
-    component
-    reporterEmail
-    assigneeEmail
-    os
-    platform
-    milestone
-    nrKeywords
-    nrDependentBugs
-    peopleCC
-    opened
-    hoursOpenedBeforeNextRelease
-    lastModified
-    priority
-    severity
-    resolution
-    firstFix
-    lastFix
-    hoursLastFixBeforeNextRelease
-    hoursLastFixAfterPreviousRelease
-    status
-    firstActivity
-    nrActivities
-    lastResolution
-    nrComments
-    hoursToLastFix
-    hoursToLastResolution
-    monthOpened
-    yearOpened
-    monthYearOpened
-    monthYearLastFixed
+
+   * bugID
+   * component
+   * reporterEmail
+   * assigneeEmail
+   * os
+   * platform
+   * milestone
+   * nrKeywords
+   * nrDependentBugs
+   * peopleCC
+   * opened
+   * hoursOpenedBeforeNextRelease
+   * lastModified
+   * priority
+   * severity
+   * resolution
+   * firstFix
+   * lastFix
+   * hoursLastFixBeforeNextRelease
+   * hoursLastFixAfterPreviousRelease
+   * status
+   * firstActivity
+   * nrActivities
+   * lastResolution
+   * nrComments
+   * hoursToLastFix
+   * hoursToLastResolution
+   * monthOpened
+   * yearOpened
+   * monthYearOpened
+   * monthYearLastFixed
+
 \}\}\}
