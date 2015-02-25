@@ -11,7 +11,7 @@ arXiv.org | [arxiv.org](http://arxiv.org/)
 Public Library of Science | [www.plos.org](http://www.plos.org/)
 Bug Prediction Dataset | [bug.inf.usi.ch](http://bug.inf.usi.ch)
 Eclipse Bug Data | [www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/](https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/)
-FLOSSMetrics (currently inactive) | [flossmetrics.org](http://flossmetrics.org)
+FLOSSMetrics (currently inactive) | flossmetrics.org
 FLOSSMole | [flossmole.org](http://flossmole.org)
 International Software Benchmarking Standards Group (IBSBSG)| [isbsg.org](http://isbsg.org)
 ohloh | [ohloh.net](http://www.ohloh.net)

@@ -24,4 +24,4 @@ More notes on NRP can be found [here](http://oscar-lab.org/people/~jxuan/page/pr
 
 #Reference
 
-Jifeng Xuan, He Jiang, Zhilei Ren, Zhongxuan Luo, "[Solving the Large Scale Next Release Problem with a Backbone Based Multilevel Algorithm](http://www.computer.org/portal/web/csdl/doi/10.1109/TSE.2011.92)", IEEE Transactions on Software Engineering, vol. 99, no. PrePrints, , 2011 
+Jifeng Xuan, He Jiang, Zhilei Ren, Zhongxuan Luo, "[Solving the Large Scale Next Release Problem with a Backbone Based Multilevel Algorithm](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6261327)", IEEE Transactions on Software Engineering, vol. 99, no. PrePrints, , 2011 
