@@ -16,5 +16,9 @@ We will be periodically hosting hackathons to track down and add SE data and pap
 
 If you would like information about how our hackathons run, [get the details here](/repo/contribute/details.html).
 
+### February 13, 2015  Hackathon
 
-# Recent Contributions
+![February 13, 2015 Hackathon](/img/2015-02-13-hackathon3.jpg "February 13, 2015 Hackathon")
+![February 13, 2015 Hackathon](/img/2015-02-13-hackathon1.jpg "February 13, 2015 Hackathon")
+
+# Hackathon Contributions
