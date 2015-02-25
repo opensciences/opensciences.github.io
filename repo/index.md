@@ -17,16 +17,32 @@ fixed- the more data you contribute, the more our categories change.
 
 ### How to Contribute 
 
-To make such  contribution, please send a message
+To make such  contribution, please send a message to
 [openscience.content@gmail.com](mailto:openscience.content@gmail.com) 
 describing what you have and how much disk space it takes (ideally, we  take all data but there are some pragmatic restrictions).
+Also, the [contribute page](/repo/contribute) has a wealth of information on how to contribute.
+
+#### Contribute by attending a hackathon!
+![February 13, 2015 Hackathon](/img/2015-02-13-hackathon3.jpg "February 13, 2015 Hackathon")
+
 
 ### Acknowledgements
 
- * Tim Menzies
- * Carter Pape
- * Mitch Rees-Jones
- * Corbin Steele
+The Open Science tera-PROMISE repository has been made possible and is maintained by the combined efforts of many people. Acknowledgements are due to the people listed below. See more on the [people page](/repo/people).
+
+Current Curators |   Data Donors   |   Data Finders  |  Previous Contributors
+-----------------|-----------------|-----------------|-----------------------
+Tim Menzies      |                 | Behjat Slt      | Corbin Steele
+Carter Pape      |                 | George Mathew   |
+Mitch Rees-Jones |                 | Amal Boukhdir   |
+                 |                 | Ben Province    |
+                 |                 | Wei Fu          |
+                 |                 | Rahul Krishna   |
+                 |                 | Davide Fucci    |
+                 |                 | Shirin Akbari   |
+                 |                 | Vivek Nair      |
+                 |                 | Josh Rees-Jones |
+
 
 ## Recent Additions
 
