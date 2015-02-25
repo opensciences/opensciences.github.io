@@ -1,8 +1,8 @@
 ---
-title: How to contribute
+title: How to Contribute
 layout: repopage
+category: contribute
 ---
-
 There are two ways to contribute to the OpenSciences project.
 
 # 1. Email us your data
@@ -15,3 +15,6 @@ We will be periodically hosting hackathons to track down and add SE data and pap
 {% if page.title %} {{site.hackathonInfo}}{% endif %}
 
 If you would like information about how our hackathons run, [get the details here](/repo/contribute/details.html).
+
+
+# Recent Contributions
