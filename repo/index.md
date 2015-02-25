@@ -18,7 +18,7 @@ fixed- the more data you contribute, the more our categories change.
 ### How to Contribute 
 
 To make such  contribution, please send a message
-[opensciences.content@gmail.com](mailto:opensciences.content@gmail.com) 
+[openscience.content@gmail.com](mailto:openscience.content@gmail.com) 
 describing what you have and how much disk space it takes (ideally, we  take all data but there are some pragmatic restrictions).
 
 ### Acknowledgements
