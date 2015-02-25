@@ -22,7 +22,7 @@ Founded by Tim Menzies and Jelber Sayyad, this repo was one of the first widely-
   restricted in size to under 10GBs.
   Submissions to this repository and associated PROMISE conference grew to 2010. The PROMISE
   conference received (10,16,34,53) submissions in (2007,2008,2009,2010) which was an annual growth of (160,212,156). As of 2010, the repository was in widespread use (e.g. one study spent two hours on IEEE Explorer and found 73 papers that used the repository). 
-+ _Version 4:_ In 2014, with support from NcState,
++ _Version 4:_ In 2014, with support from N.C. State,
   that site was upgraded to  terabyte size.  At
   the same time, a support discussion forum was created at
   [http://openscience.us/ssj](http://openscience.us/ssj).
@@ -32,7 +32,7 @@ Founded by Tim Menzies and Jelber Sayyad, this repo was one of the first widely-
 
 _Founders_: Tim Menzies, Jelber Sayyad
 
-_Curators_: 
+#### _Curators_: 
 
 (If we missed your name, please [email us](mailto:openscience.content@gmail.com) to add you in.)
 
@@ -40,4 +40,4 @@ _Curators_:
 + _Version 1_ : Jelber Sayyad
 + _Version 2_ : Tim Menzies
 + _Version 3_ : Bora Caglayan, Zhimin He, Ekrem Kocaguneli, Joe Krall, Tim Menzies, Fayola Peters, Burak Turhan
-+ _Version 4_: Tim Menzies, Carter Pape, Corbin Steele
++ _Version 4_: Tim Menzies, Carter Pape, Corbin Steele, Mitch Rees-Jones

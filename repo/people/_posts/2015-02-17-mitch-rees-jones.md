@@ -1,10 +1,10 @@
 ---
 layout: repo
 title: Mitch Rees-Jones
-category: curator
+category: current-curators
+excerpt: Student at North Carolina State University
 ---
 
-Student at North Carolina State University
 
 ## About
 Mitch Rees-Jones is a student at NC State University, currently pursuing a B.S. in Computer Science.

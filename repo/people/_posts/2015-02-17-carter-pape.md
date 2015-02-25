@@ -1,10 +1,9 @@
 ---
 layout: repo
 title: Carter Pape
-category: curator
+category: current-curators
+excerpt: Student at North Carolina State University
 ---
-
-Student at North Carolina State University
 
 ## About
 Carter Pape is a student at North Carolina State University, currently pursuing a B.S. in
