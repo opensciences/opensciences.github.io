@@ -37,6 +37,10 @@ p.nutshell {
   padding: 5px;
 }
 
+.box * {
+  max-width: 1000px;
+}
+
 .box pre { 
   margin-top: 10px;
   padding: 8px;
