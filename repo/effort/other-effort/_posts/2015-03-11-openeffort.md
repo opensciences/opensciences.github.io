@@ -44,8 +44,7 @@ Studies who have been using the data (in any form) are required to add the follo
 #About the Data
 
 ## Data
-There are two types of data associated with this paper: author activity from OpenStack contributors and survey data from the contributors. In addition, the raw data from which the author activity data was extracted can be found here:
-https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/openstack\_versioning\_system\_metadata.mysql.gz
+There are two types of data associated with this paper: author activity from OpenStack contributors and survey data from the contributors. In addition, the raw data from which the author activity data was extracted can be found [here](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/openstack\_versioning\_system\_metadata.mysql)
 
 ### Author Activity Data
 -Rows represent individual authors (1626 total)
