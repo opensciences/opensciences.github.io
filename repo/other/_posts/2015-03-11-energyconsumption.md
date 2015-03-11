@@ -8,7 +8,7 @@ author: Gustavo Pinto
 #URL
   * With change log: [https://terapromise.csc.ncsu.edu:8443/svn/repo/other/energyconsumption](https://terapromise.csc.ncsu.edu:8443/svn/repo/other/energyconsumption)
 
-  #Change Log
+#Change Log
 
   When | What
   ---- | ----
