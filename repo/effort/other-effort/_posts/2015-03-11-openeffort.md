@@ -1,6 +1,6 @@
 ---
 title: openeffort
-excerpt: Estimating Development Effort in Free and Open Source Software Projects by Mining Software Repositories: A Case Study of OpenStack
+excerpt: Estimating Development Effort in Free\/Open Source Software Projects by Mining Software Repositories\: A Case Study of OpenStack
 layout: repo
 author: GregorioRobles
 ---
