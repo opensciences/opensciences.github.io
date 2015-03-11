@@ -1,6 +1,6 @@
 ---
 title: openeffort
-excerpt: Estimating Development Effort in Free/Open Source Software Projects by Mining Software Repositories: A Case Study of OpenStack
+excerpt: Estimating Development Effort in Free and Open Source Software Projects by Mining Software Repositories: A Case Study of OpenStack
 layout: repo
 author: GregorioRobles
 ---
@@ -45,17 +45,14 @@ Studies who have been using the data (in any form) are required to add the follo
 
 ## Data
 There are two types of data associated with this paper: author activity from OpenStack contributors and survey data from the contributors. In addition, the raw data from which the author activity data was extracted can be found here:
-http://gsyc.urjc.es/~grex/repro/2014-msr-effort/openstack_versioning_system_metadata.mysql.gz
+https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/openstack\_versioning\_system\_metadata.mysql.gz
 
 ### Author Activity Data
 -Rows represent individual authors (1626 total)
 -Columns represent months starting in Jan 2010 (these are 0-padded before and after project)
--The actual author IDs can be found by cross-referencing output_author_ids_nobots.csv:
-    http://gsyc.urjc.es/~grex/repro/2014-msr-effort/output_authors_ids_nobots.csv
--Number of commits per month: 
-    http://gsyc.urjc.es/~grex/repro/2014-msr-effort/output_commits_nobots.csv
--Number of active days per month:
-    http://gsyc.urjc.es/~grex/repro/2014-msr-effort/output_activity_nobots.csv
+-The actual author IDs can be found by cross-referencing [output\_authors\_ids\_nobots.csv](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/output\_authors\_ids\_nobots.csv):
+-Number of commits per month: [output\_commits\_nobots.csv](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/output\_commits\_nobots.csv)
+-Number of active days per month: [output\_activity\_nobots.csv](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/output\_activity\_nobots.csv)
 
 ### Survey Response Data
 This represents voluntary responses to a survey in which 131 individuals responded.
@@ -78,11 +75,7 @@ last six months?
 different phases of commitment? If you had different phases, could you tell us about the various 
 phases? (the graph below may help you, as it is based in your recorded activity in the repository)
 ```
-The survey data has 4 columns which reflect questions 1-4 and two additional columns labeled "info" and "survey" **of which I can't seem to find a description.**
 
-The original (anonymized) survey response data is here:
-http://gsyc.urjc.es/~grex/repro/2014-msr-effort/answers_openstack.all.public.csv
+The anonymized survey response data is [here](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/answers\_openstack.all.public.csv)
 
-This survey data was cleaned with a few respondents being removed and some responses being edited. A description of the cleaning process as well as the cleaned response data is here:
-http://gsyc.urjc.es/~grex/repro/2014-msr-effort/survey_cleaning.txt
-http://gsyc.urjc.es/~grex/repro/2014-msr-effort/answers_openstack.public.csv
+This survey data was cleaned with a few respondents being removed and some responses being edited. A description of the [cleaning process](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/survey\_cleaning.txt) as well as the [cleaned response data](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/answers\_openstack.public.csv) is [here](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort).
