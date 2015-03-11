@@ -1,5 +1,5 @@
 ---
-title: openeffort
+title: conmodels
 excerpt: "Developers’ Code Context Models for Change Tasks"
 layout: repo
 author: ThomasFritz
@@ -8,7 +8,7 @@ author: ThomasFritz
 
 #URL
 
-  * [Terapromise link](https://terapromise.csc.ncsu.edu:8443/svn/repo/other/conmodels)
+  * [External (Github) link](https://github.com/abb-iss/Study-Artifacts-for-Code-Context-Models)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635868.2635905)
 
 
