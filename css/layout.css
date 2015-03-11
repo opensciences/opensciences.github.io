@@ -37,7 +37,7 @@ p.nutshell {
   padding: 5px;
 }
 
-.box * {
+.box img {
   max-width: 1000px;
 }
 
