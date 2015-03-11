@@ -66,10 +66,10 @@ To download our data, including transcripts, developer models, developer patches
 --
 ## Example Developer Packet (R3)
 
-![Developer Model](/repo/other/img/R3 - Developer Model.jpg)
+![Developer Model](/repo/other/img/conmodels/R3 - Developer Model.jpg)
 A drawing or description of the program elements (e.g., methods, classes, fields) that the developer needed to understand in order to complete his/her task
 
-![Transcript in Excel](/repo/other/img/R3 - Transcript in Excel.PNG)
+![Transcript in Excel](/repo/other/img/conmodels/R3 - Transcript in Excel.PNG)
 Transcript of developer's actions when working (partial transcript shown here, entire transcript available in repository)
 
     diff --git a/Rachota/src/org/cesilko/rachota/gui/HistoryView.java b/Rachota/src/org/cesilko/rachota/gui/HistoryView.java
