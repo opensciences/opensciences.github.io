@@ -35,18 +35,18 @@ Before we get started, please remember to create all issues pertaining to the re
 ## 4. Filter for *target paper*s
 
 * For each "Maybe Has Data" paper, check if there is actually data to download. In some cases, there will be many downloads available. Probably only one of them is important. Figure out which download is important. You might have to email the paper owner.
-* If the paper has no downloadable data:
-    * Remove the "Maybe Has Data" label, add the "No Data" label, and close the issue.
-* If the paper's data is data that is already in Terapromise:
-    * Remove the "Maybe Has Data" label, add the "Already have dataset" label, and close the issue.
-* If the paper DOES have downloadable data:
-    * If, after downloading all relevant files and compressing it all together, the size of the compressed file is smaller than {{site.dataSizeCap}}:
-        * Leave a comment with a hyperlink to the relevant data downloads. You'll need to spend some time figuring out the appropriate links.
-        * Remove the "Maybe Has Data" label, and add the "Target Paper" label.
-    * If the compressed file is larger than {{size.dataSizeCap}} but smaller than {{size.dataSizeAbsoluteCap}}:
-        * Remove label "Maybe has data" and add label "Data maybe too big".
-    * If the compressed file is larger than {{size.dataSizeAbsoluteCap}}:
-        * Remove label "Maybe has data", add label "Data definitely too big", and close the issue
+    * If the paper has no downloadable data:
+        * Remove the "Maybe Has Data" label, add the "No Data" label, and close the issue.
+    * If the paper's data is data that is already in Terapromise:
+        * Remove the "Maybe Has Data" label, add the "Already have dataset" label, and close the issue.
+    * If the paper _does_ have downloadable data:
+        * If, after downloading all relevant files and compressing it all together, the size of the compressed file is smaller than {{site.dataSizeCap}}:
+            * Leave a comment with a hyperlink to the relevant data downloads. You'll need to spend some time figuring out the appropriate links.
+            * Remove the "Maybe Has Data" label, and add the "Target Paper" label.
+        * If the compressed file is larger than {{site.dataSizeCap}} but smaller than {{site.dataSizeAbsoluteCap}}:
+            * Remove label "Maybe has data" and add label "Data maybe too big".
+        * If the compressed file is larger than {{site.dataSizeAbsoluteCap}}:
+            * Remove label "Maybe has data", add label "Data definitely too big", and close the issue.
 
 ## 5. *Summarize* the data
 * 
