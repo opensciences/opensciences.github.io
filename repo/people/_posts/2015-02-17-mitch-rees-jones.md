@@ -16,4 +16,4 @@ starting some AI projects, which I may write about on my website at [www.reesjon
 Over the summer, I will be interning with the IBM Watson Group, which I am very excited about.
 
 If you have any questions about OpenScience or the repository, feel free to email me at 
-[mwreesjo@ncsu.edu](mwreesjo@ncsu.edu).
+[mwreesjo@ncsu.edu](mailto:mwreesjo@ncsu.edu).
