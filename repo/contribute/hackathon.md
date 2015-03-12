@@ -44,12 +44,13 @@ Before we get started, please remember to create all issues pertaining to the re
             * Leave a comment with a hyperlink to the relevant data downloads. You'll need to spend some time figuring out the appropriate links.
             * Remove the "Maybe Has Data" label, and add the "Target Paper" label.
         * If the compressed file is larger than {{site.dataSizeCap}} but smaller than {{site.dataSizeAbsoluteCap}}:
-            * Remove label "Maybe has data" and add label "Data maybe too big".
+            * Remove label "Maybe has data" and add label "Maybe too big".
         * If the compressed file is larger than {{site.dataSizeAbsoluteCap}}:
-            * Remove label "Maybe has data", add label "Data definitely too big", and close the issue.
+            * Remove label "Maybe has data", add label "Definitely too big", and close the issue.
 
 ## 5. *Summarize* the data
-* 
+* Create [context notes](/repo/contribute/contextnotes.html) for the data and add them as a comment to the GitHub issue.
+* Remove the "Target paper" tag and add the "Summarized" tag.
 
 ## 6. *Submit* the job
 
