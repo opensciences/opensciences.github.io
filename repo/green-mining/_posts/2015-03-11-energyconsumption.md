@@ -51,4 +51,13 @@ Popularity: 42.0
 
 **Body:** HTML contents of the question
 
-**Popularity:** a normalized measure of question popularity as a comparison between energy consumption questions and average SO questions. Popularity `P = S + A + C + F + V`. S = question score (combination of upvotes and downvotes). A = number of answers, C = number of comments, F = number of favoritizations, V = number of views when question was collected. Each variable is normalized by taking the variable and dividing it by the average of that value for all Stack Overflow questions.
+**Popularity:** a normalized measure of question popularity as a comparison between energy consumption questions and average SO questions.
+
+* Popularity `P = S + A + C + F + V`
+* S = question score (combination of upvotes and downvotes)
+* A = number of answers
+* C = number of comments
+* F = number of favoritizations
+* V = number of views when question was collected
+
+Each variable is normalized by taking the variable and dividing it by the average of that value for all Stack Overflow questions.
