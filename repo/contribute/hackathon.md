@@ -27,21 +27,21 @@ When working on a specific issue, it is vital that you assign yourself to that i
 ## 3. Find each paper that *maybe has data*
 
 * For each chunk assigned to you, search through the papers, searching for those that may have downloadable data associated with them
-* [Create one GitHub issue](https://github.com/opensciences/opensciences.github.io/issues/new) for each paper that may have data, and add the "Maybe Has Data" label to each
+* [Create one GitHub issue](https://github.com/opensciences/opensciences.github.io/issues/new) for each paper that may have data, and add the "Maybe has data" label to each
     * Add each issue to the "Content retrieval hangout" milestone
     * Leave a comment with a hyperlink to the specific paper from the conference
 
 ## 4. Filter for *target paper*s
 
-* For each "Maybe Has Data" paper, check if there is actually data to download. In some cases, there will be many downloads available. Probably only one of them is important. Figure out which download is important. You might have to email the paper owner.
+* For each "Maybe has data" paper, check if there is actually data to download. In some cases, there will be many downloads available. Probably only one of them is important. Figure out which download is important. You might have to email the paper owner.
     * If the paper has no downloadable data:
-        * Remove the "Maybe Has Data" label, add the "No Data" label, and close the issue.
+        * Remove the "Maybe has data" label, add the "No data" label, and close the issue.
     * If the paper's data is data that is already in Terapromise:
-        * Remove the "Maybe Has Data" label, add the "Already have dataset" label, and close the issue.
+        * Remove the "Maybe has data" label, add the "Already have dataset" label, and close the issue.
     * If the paper _does_ have downloadable data:
         * If, after downloading all relevant files and compressing it all together, the size of the compressed file is smaller than {{site.dataSizeCap}}:
             * Leave a comment with a hyperlink to the relevant data downloads. You'll need to spend some time figuring out the appropriate links.
-            * Remove the "Maybe Has Data" label, and add the "Target Paper" label.
+            * Remove the "Maybe has data" label, and add the "Target paper" label.
         * If the compressed file is larger than {{site.dataSizeCap}} but smaller than {{site.dataSizeAbsoluteCap}}:
             * Remove label "Maybe has data" and add label "Maybe too big".
         * If the compressed file is larger than {{site.dataSizeAbsoluteCap}}:
