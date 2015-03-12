@@ -6,24 +6,23 @@ layout: repopage
 We will be periodically hosting hackathons to track down and add SE data and papers.
 {% if page.title %} {{site.hackathonInfo}}{% endif %}
 
-# How to fish for software engineering data
+Keep in mind that, in most hackathons, we will only be concerned with steps 3 through 5.
 
-Before we get started, please remember to create all issues pertaining to the retrieval of SE data and papers within the ["Content retrieval hangout" GitHub milestone](https://github.com/opensciences/opensciences.github.io/milestones/Content%20retrieval%20hangout). In addition to putting issues in the milestone, remember to appropriately tag new issues.
+When working on a specific issue, it is vital that you assign yourself to that issue so that others are not replicating your work.
+
+# How to fish for software engineering data
 
 ## 1. *Browse* conferences
 
 * Go find a recent SE conference with papers that might have data related to empirical SE experiments.
 * [Create one GitHub issue](https://github.com/opensciences/opensciences.github.io/issues/new) for each conference, and add the "Conference" label to each
-    * Add each issue to the "Content retrieval hangout" milestone
     * Leave a comment with a hyperlink to the conference
 
 ## 2. *Chunk* each conference
 
 * Divide the conference into chunks based on its table of contents
 * [Create one GitHub issue](https://github.com/opensciences/opensciences.github.io/issues/new) for each chunk, and add the "Chunk" label to each
-    * Add each issue to the "Content retrieval hangout" milestone
-    * Leave a comment with a hyperlink to the specific chunk from the conference
-    * Assign the chunk to a worker so he or she can explore that chunk for useful papers
+    * Leave a comment with the page numbers relevant to the chunk, and include the name of all the papers in the chunk.
 
 ## 3. Find each paper that *maybe has data*
 
