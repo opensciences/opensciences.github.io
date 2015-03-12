@@ -35,18 +35,23 @@ Before we get started, please remember to create all issues pertaining to the re
 ## 4. Filter for *target paper*s
 
 * For each "Maybe Has Data" paper, check if there is actually data to download. In some cases, there will be many downloads available. Probably only one of them is important. Figure out which download is important. You might have to email the paper owner.
-* If the paper has no downloadable data, remove the "Maybe Has Data" label, add the "No Data" label, and close the issue.
-* If the paper DOES have downloadable data, remove the "Maybe Has Data" label, and add the "Target Paper" label
-    * Leave a comment with
-        * A hyperlink to the relevant data download
-        * Email addresses of the paper owners
-        * The body of an email to the owners that basically says "Thanks for making your data readily available. We're adding it to the TeraPromise database. Please let us know if you do not want us to mirror your data."
-            * DO NOT send this email. Just write it.
-        * Some context notes about this data. This will ideally be in Git-flavored markdown, but if you can't do that, plaintext is fine.
-            * For an example of (long-ish) context notes, see http://openscience.us/repo/defect/ck/tut.html and http://openscience.us/repo/defect/tut.html
-    * Flip a coin. If it's heads, assign this "Target Paper" issue to CarterPape. If it's tails, assign it to CorbinSteele.
+* If the paper has no downloadable data:
+    * Remove the "Maybe Has Data" label, add the "No Data" label, and close the issue.
+* If the paper's data is data that is already in Terapromise:
+    * Remove the "Maybe Has Data" label, add the "Already have dataset" label, and close the issue.
+* If the paper DOES have downloadable data:
+    * If, after downloading all relevant files and compressing it all together, the size of the compressed file is smaller than {{site.dataSizeCap}}:
+        * Leave a comment with a hyperlink to the relevant data downloads. You'll need to spend some time figuring out the appropriate links.
+        * Remove the "Maybe Has Data" label, and add the "Target Paper" label.
+    * If the compressed file is larger than {{size.dataSizeCap}} but smaller than {{size.dataSizeAbsoluteCap}}:
+        * Remove label "Maybe has data" and add label "Data maybe too big".
+    * If the compressed file is larger than {{size.dataSizeAbsoluteCap}}:
+        * Remove label "Maybe has data", add label "Data definitely too big", and close the issue
 
-## 5. *Submit* the job
+## 5. *Summarize* the data
+* 
+
+## 6. *Submit* the job
 
 * Carter Pape and Mitch Rees-Jones will then add the data to the big repo, add the context notes to our small repo, and email the owners with the url for both.
 * Relabel the issue to "Submitted" and close the issue.
