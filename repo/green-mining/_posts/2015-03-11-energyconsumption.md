@@ -6,7 +6,7 @@ author: Gustavo Pinto
 ---
 
 #URL
-  * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/svn/repo/other/energyso)
+  * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/svn/repo/green-mining/energyso)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597110)
 
 #Change Log
