@@ -15,8 +15,8 @@ If you are participating in a hackathon, please comment on the GitHub issue asso
 
 #### 2. Link to the material associated with the dataset (if available)
 * Examples:
-    * A link to the ACM digital library (for example, [http://dl.acm.org/citation.cfm?id=2635868.2635905](http://dl.acm.org/citation.cfm?id=2635868.2635905)
-    * A link to the IEEE digital library (for example, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982619](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982619)
+    * A link to the ACM digital library (for example, [http://dl.acm.org/citation.cfm?id=2635868.2635905](http://dl.acm.org/citation.cfm?id=2635868.2635905))
+    * A link to the IEEE digital library (for example, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982619](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982619))
     * Any other documentation
 
 #### 3. Attribution list for the material
