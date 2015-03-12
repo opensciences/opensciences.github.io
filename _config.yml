@@ -46,7 +46,7 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 
 # Information about our next hackathon. This goes at the end of sentences mentioning such hackathons.
 
-hackathonInfo: "The next hackathon will be on February 13th, 2015 at 12pm."
+hackathonInfo: "The next hackathon will be in April. Details are to come."
 
 
 categories: [content]
