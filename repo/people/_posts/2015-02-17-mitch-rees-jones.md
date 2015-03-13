@@ -12,7 +12,7 @@ math. I started working as a curator and programmer on OpenScience in January 20
 then, I've added a number of datasets to the repo and done a lot of website structural work.
 
 My interests are far and wide, but I do find AI to be very interesting. I'm in the middle of 
-starting some AI projects, which I may write about on my website at [www.reesjones.co](www.reesjones.co).
+starting some AI projects, which I may write about on my website at [www.reesjones.co](http://www.reesjones.co).
 Over the summer, I will be interning with the IBM Watson Group, which I am very excited about.
 
 If you have any questions about OpenScience or the repository, feel free to email me at 
