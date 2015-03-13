@@ -51,7 +51,7 @@ columns are different system calls and each entry shows the number of system cal
 
 ## Explanation of the text files
 
- * gedit-versions stores the gedit version numbers we have tested under text editing and syntax highlighting test 
+ * **gedit-versions** stores the gedit version numbers we have tested under text editing and syntax highlighting test 
 cases.
  * **gedit-commit-version** stores the tested gedit version numbers with the corresponding git commit hash.
  * **mpg123-play-mp3-versions** stores the mpg123 version numbers we have tested under mp3 playing test case.
