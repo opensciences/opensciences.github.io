@@ -2,7 +2,8 @@
 title: bugclassify
 excerpt: "It’s Not a Bug, It’s a Feature: Does Misclassification Affect Bug Localization?"
 layout: repo
-author: PavneetSinghKochhar
+authors: "Pavneet Singh Kochhar; Tien-Duy B. Le; David Lo"
+version: 4
 ---
 
 
@@ -10,11 +11,6 @@ author: PavneetSinghKochhar
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/svn/repo/other/bugclassify)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597105)
-
-# Authors
- * Pavneet Singh Kochhar
- * Tien-Duy B. Le
- * David Lo
 
 #Change Log
 

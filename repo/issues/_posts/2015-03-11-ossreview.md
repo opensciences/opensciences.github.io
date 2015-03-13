@@ -2,7 +2,8 @@
 title: ossreview
 excerpt: "Modern Code Reviews in Open-Source Projects: Which Problems Do They Fix?"
 layout: repo
-author: Moritz Beller
+authors: "Moritz Beller; Alberto Bacchelli; Andy Zaidman; Elmar Juergens"
+version: 4
 ---
 
 
@@ -10,7 +11,6 @@ author: Moritz Beller
 
   * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/ossreview)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597082)
-
 
 #Change Log
 

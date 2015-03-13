@@ -34,9 +34,10 @@
                         <p>
                          {{ page.date | date: "%b%-d '%y" }} : <a href="{{ page.url }}">{{ page.title }}</a> <br>  
                              
-                                {{page.excerpt}}
+                                <i>{{page.excerpt}}</i>
+                                <br>
+                                {{page.authors}}
                              </p>
-
                         {{ content }}
                     </div>
                 </div>

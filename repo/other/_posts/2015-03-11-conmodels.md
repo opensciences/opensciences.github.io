@@ -12,14 +12,6 @@ version: 4
   * [External (Github) link](https://github.com/abb-iss/Study-Artifacts-for-Code-Context-Models)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635868.2635905)
 
-# Authors
-
-* Thomas Fritz
-* David C. Shepherd
-* Katja Kevic
-* Will Snipes
-* Christoph Bräunlich
-
 #Change Log
 
 When | What
