@@ -61,7 +61,7 @@ cases.
 
 The LICENSE for the Source Code is generally GPL-2+ or GPL-2 compatible.
 
-For DATA http://creativecommons.org/licenses/by/4.0/ The LICENSE for the Data is CC-BY 4.0 please 
+For DATA [creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0/) The LICENSE for the Data is CC-BY 4.0 please 
 attribute Abram Hindle using the following instructions:
 
 To properly attribute Chenlei Zhang on as per the requirements of CC-BY 4.0:
