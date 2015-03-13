@@ -10,7 +10,7 @@ author: DATA AUTHOR
   * [Paper in ACM Digital Library](LINK TO PAPER)
 
 ### Author(s)
-AUTHORS HERE, no emails. Use same order as original paper.
+AUTHORS HERE, no emails. Use same order as original paper. Use unordered list
 
 # Change Log
 
