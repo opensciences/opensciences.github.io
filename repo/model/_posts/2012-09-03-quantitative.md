@@ -15,7 +15,7 @@ author: Emmanuel Leiter
 
 When | What
 ---- | ----
-September 3, 2012 | Donated by [Emmanuel Leiter](/repo/people)
+September 3, 2012 | Donated by [Emmanuel Leiter](/repo/people/data-donors/promise3.html)
 
 Emmanuel Leiter: e.letier AT cs DOT ucl DOT ac DOT uk
 

@@ -16,9 +16,9 @@ author: Jifeng Xuan
 
 When | What
 ---- | ----
-   November 16, 2011 | Donated by [Jifeng Xuan](/repo/people)
+   November 16, 2011 | Donated by [Jifeng Xuan](/repo/people/data-donors/promise3.html)
 
-This is one of the next release problem (NRP) data sets donated by [Jifeng Xuan](/repo/people). 
+This is one of the next release problem (NRP) data sets donated by [Jifeng Xuan](/repo/people/data-donors/promise3.html). 
 More notes on NRP can be found [here](http://oscar-lab.org/people/~jxuan/page/project/nrp/).
 
 

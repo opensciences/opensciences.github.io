@@ -20,7 +20,7 @@ author: MartinPinzger and EmanuelGiger
 
 When | What
 ---- | ----
-January 1, 2010 | Donated by [Martin Pinzger](/repo/people) and [Emanuel Giger](/repo/people)
+January 1, 2010 | Donated by [Martin Pinzger](/repo/people/data-donors/promise3.html) and [Emanuel Giger](/repo/people/data-donors/promise3.html)
 
 
 #Reference

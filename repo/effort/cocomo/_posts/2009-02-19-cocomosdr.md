@@ -18,7 +18,7 @@ The data in this file confirms to the [model.
 
 #Change Log
 
-February 19, 2009 | Donated by [Ekrem Kocaguneli](/repo/people)
+February 19, 2009 | Donated by [Ekrem Kocaguneli](/repo/people/data-donors/promise3.html)
 
 #Details
 

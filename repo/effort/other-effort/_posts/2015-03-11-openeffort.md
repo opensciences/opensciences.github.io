@@ -16,7 +16,7 @@ author: GregorioRobles
 
 When | What
 ---- | ----
-March 11, 2015 | Donated by [Gregorio Robles](/repo/people)
+March 11, 2015 | Donated by [Gregorio Robles](/repo/people/data-donors/promise4.html)
 
 
 #Reference

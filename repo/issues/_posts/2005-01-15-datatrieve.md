@@ -20,7 +20,7 @@ This is data from the transition of the DATATRIEVE product from version 6.0 to
 
 When | What
 ---- | ----
-January 15, 2005 | Donated by [Guenther Ruhe](/repo/people)
+January 15, 2005 | Donated by [Guenther Ruhe](/repo/people/data-donors/promise3.html)
 
 
 #Past usage
