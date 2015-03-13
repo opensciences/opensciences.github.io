@@ -18,4 +18,4 @@ When we host data sets, we usually include context notes about the data and the 
 
 # 2. If you want to participate in our hackathons:
 
-We will be periodically hosting hackathons to track down and add SE data and papers en masse. If you are interested in joining one, either remotely with Google Hangouts or in person in Engineering Building II at North Carolina State University, click [here](/repo/contribute/hackathon.html) for instructions. {% if page.title %} {{site.hackathonInfo}}{% endif %}
+We will be periodically hosting hackathons to track down and add SE data and papers en masse. If you are interested in joining one, either remotely with Google Hangouts or in person in Engineering Building II at North Carolina State University, fill out [this Google interest form](https://docs.google.com/forms/d/18s9ZLb7TTLcXVRovqRcn5YEN6Js9aJZgPfn_2qz3WFE/viewform?usp=send_form) and look at the instructions on [how to help during the hackathon](/repo/contribute/hackathon.html). {% if page.title %} {{site.hackathonInfo}}{% endif %}
