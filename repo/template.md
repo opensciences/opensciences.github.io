@@ -21,8 +21,7 @@ DATE ADDED | Donated by [AUTHOR](/repo/people)
 
 # Reference
 
-Studies who have been using the data (in any form) are required to add the following reference to 
-their report/paper:
+Studies who have been using the data (in any form) are required to include the following reference:
 
 BIBTEX REFERENCE HERE
 
