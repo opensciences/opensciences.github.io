@@ -45,28 +45,11 @@ Studies who have been using the data (in any form) are required to add the follo
 
 #About the Data
 
-To ensure representativeness, there are five popular, actively maintained software projects 
-from three separate domains, namely desktop (Firefox and Eclipse), web (MediaWiki and Moodle), 
-and mobile (Firefox Android). In addition, one commercial closed source application 
-(Industrial) is included. The proprietary bug tracking system is from a Vancouver-based mobile 
-app development company. The bug reports are filed by their testing team and end-users, and 
-are related to different mobile platforms such as An- droid, Blackberry, iOS, and Windows 
-Phone, as well as their content management platform and backend software.
+They download Herzig et al.'s datasets which included the identiers of issue reports that they have manually analyzed. The description of that dataset follows.
+
+The authors conducted a study on five open-source JAVA projects described in Table I (see paper). They aimed to select projects that were under active development and were developed by teams that follow strict commit and bug fixing procedures similar to industry. They also aimed to have a more or less homogenous data set which eased the manual inspection phase. Projects from APACHE and MOZILLA seemed to fit their requirements best. Additionally, they selected the five projects such that they cover atleast two different and popular bug tracking systems: Bugzilla1 and Jira2. Three out of five projects (Lucene-Java, Jackrabbit,and HTTPClient) use a Jira bug tracker. The remaining two projects (Rhino, Tomcat5) use a Bugzilla tracker. For each of the five projects, they selected all issue reports that were marked as being RESOLVED , CLOSED, or VERIFIED and whose resolution was set to FIXED and performed a manual inspection on these issues. They disregarded issues with resolution in progress or not being accepted, as their features may change in the future.The number of inspected reports per project can be found in the table above. In total, they obtained 7,401 closed and fixed issue reports. 1,810 of these reports originate from the Rhino and Tomcat5 projects and represent Bugzilla issue reports. The remaining of the 5,591 reports were filed in a Jira bug tracker.
+
 
 ##Abstract
 
-Bug repository systems have become an integral component of software development activities. 
-Ideally, each bug report should help developers to find and fix a software fault. However, 
-there is a subset of reported bugs that is not (easily) re-producible, on which developers 
-spend considerable amounts of time and effort. We present an empirical analysis of non-
-reproducible bug reports to characterize their rate, nature, and root causes. We mine one 
-industrial and five open-source bug repositories, resulting in 32K non-reproducible bug 
-reports. We (1) compare properties of non-reproducible reports with their counterparts such as 
-active time and number of authors, (2) investigate their life-cycle patterns, and (3) examine 
-120 Fixed non-reproducible reports. In addition, we qualitatively classify a set of randomly 
-selected non-reproducible bug reports (1,643) into six common categories. Our results show that, 
-on average, non-reproducible bug reports pertain to 17% of all bug reports, remain active three 
-months longer than their counterparts, can be mainly (45%) classified as “Interbug 
-Dependencies”, and 66% of Fixed non-reproducible reports were indeed reproduced and fixed.
-
-
+Bug localization refers to the task of automatically process- ing bug reports to locate source code files that are respon- sible for the bugs. Many bug localization techniques have been proposed in the literature. These techniques are often evaluated on issue reports that are marked as bugs by their reporters in issue tracking systems. However, recent findings by Herzig et al. find that a substantial number of issue re- ports marked as bugs, are not bugs but other kinds of issues like refactorings, request for enhancement, documentation changes, test case creation, and so on. Herzig et al. report that these misclassifications affect bug prediction, namely the task of predicting which files are likely to be buggy in the future. In this work, we investigate whether these misclas- sifications also affect bug localization. To do so, we analyze issue reports that have been manually categorized by Herzig et al. and apply a bug localization technique to recover a ranked list of candidate buggy files for each issue report. We then evaluate whether the quality of ranked lists of reports reported as bugs is the same as that of real bug reports. Our findings shed light that there is a need for additional clean- ing steps to be performed on issue reports before they are used to evaluate bug localization techniques.
