@@ -39,7 +39,10 @@ If you are participating in a hackathon, please comment on the GitHub issue asso
 * Note that, if the data is closely related to a paper, this will not be the abstract of the paper.
 * If you can find an overview of the dataset in the author's own words, just copy those words. If not, make your own overview. This should be at least a paragraph long.
 
-#### 8. Paper abstract (if appropriate)
+#### 8. Attribute info
+* If there are clearly defined columns or attributes to the data, describe each
 
-#### 9. Is this dataset part of a larger series or collection?
+#### 9. Paper abstract (if appropriate)
+
+#### 10. Is this dataset part of a larger series or collection?
 * If so, link to the master index of the series or collection (if possible)
