@@ -16,7 +16,7 @@ author: Moritz Beller
 
 When | What
 ---- | ----
-March 11, 2015 | Donated by [Moritz Beller](/repo/people)
+March 11, 2015 | Donated by [Moritz Beller](/repo/people/data-donors/promise4.html)
 
 
 #Reference
