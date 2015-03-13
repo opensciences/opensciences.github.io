@@ -8,8 +8,8 @@ version: CURRENT PROMISE VERSION
 
 # URL
 
-* [Data in Terapromise](LINK TO DATA)
-* [Paper in ACM Digital Library](LINK TO PAPER)
+* [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/CATEGORY/TITLE)
+* [Paper in ACM, IEEE, OR WHATEVER IT IS Digital Library](LINK TO PAPER) IF APPLICABLE
 
 ### Author(s)
 
