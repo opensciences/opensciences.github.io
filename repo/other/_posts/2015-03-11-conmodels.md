@@ -2,7 +2,8 @@
 title: conmodels
 excerpt: "Developers’ Code Context Models for Change Tasks"
 layout: repo
-author: Thomas Fritz
+authors: "Thomas Fritz; David C. Shepherd; Katja Kevic; Will Snipes; Christoph Bräunlich"
+version: 4
 ---
 
 
@@ -12,11 +13,12 @@ author: Thomas Fritz
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635868.2635905)
 
 # Authors
- * Thomas Fritz
- * David C. Shepherd
- * Katja Kevic
- * Will Snipes
- * Christoph Bräunlich
+
+* Thomas Fritz
+* David C. Shepherd
+* Katja Kevic
+* Will Snipes
+* Christoph Bräunlich
 
 #Change Log
 
