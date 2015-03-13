@@ -8,15 +8,19 @@ author: PavneetSinghKochhar
 
 #URL
 
-* [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597105)
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/svn/repo/other/bugclassify)
+* [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597105)
 
+# Authors
+ * Pavneet Singh Kochhar
+ * Tien-Duy B. Le
+ * David Lo
 
 #Change Log
 
 When | What
 ---- | ----
-March 13, 2015 | Donated by [Pavneet Singh Kochhar](/repo/people)
+March 13, 2015 | Donated by [Pavneet Singh Kochhar](/repo/people/data-donors/promise4.html)
 
 
 #Reference
