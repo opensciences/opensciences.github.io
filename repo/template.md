@@ -11,7 +11,8 @@ version: CURRENT PROMISE VERSION
 * [Paper in ACM Digital Library](LINK TO PAPER)
 
 ### Author(s)
-AUTHORS HERE, no emails. Use same order as original paper. Use unordered list
+
+* AUTHORS HERE, no emails. Use same order as original paper. Use unordered list
 
 # Change Log
 
