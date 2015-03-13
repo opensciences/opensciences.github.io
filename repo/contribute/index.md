@@ -13,9 +13,7 @@ There are two ways to contribute to the OpenSciences project.
 # 1. If you have software engineering-related data sets:
 
 If you own or have access to data that you (and the author(s), if you are not an author) would like to be easily
-accessible through the Open Science repository, please fill out 
-[this Google Form](https://docs.google.com/forms/d/1swz9OvupVVMtEOeG2j3DdM3SqIhE0Nw495lzr3dMUAE/) with the
-appropriate information. You can also email the curators at [openscience.content@gmail.com](mailto:openscience.content@gmail.com). When we host data sets, we will include
+accessible through the Open Science repository, please fill out [this Google Form](http://goo.gl/7mWybm) with the appropriate information. You can also email the curators at [openscience.content@gmail.com](mailto:openscience.content@gmail.com). When we host data sets, we will include
 context notes about the data and the associated research. If possible, you should include in your email [context
 notes](/repo/contribute/contextnotes.html) that we will use on the actual webpage for your data.
 
