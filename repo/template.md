@@ -19,7 +19,7 @@ version: CURRENT PROMISE VERSION
 
 When | What
 ---- | ----
-DATE ADDED | Donated by [AUTHOR](/repo/people)
+DATE ADDED | Donated by [FIRST AUTHOR](/repo/people)
 
 # Reference
 
@@ -29,14 +29,14 @@ BIBTEX REFERENCE HERE
 
 # About the Data
 
-# Overview of Data
+## Overview of Data
 
 OVERVIEW OF DATA HERE
 
-# Attibute Information
+## Attibute Information
 
 ATTRIBUTE INFORMATION HERE - if relevent
 
-# Paper abstract
+## Paper abstract
 
 PAPER ABSTRACT HERE - check for typos
