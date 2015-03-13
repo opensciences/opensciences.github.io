@@ -3,8 +3,8 @@ title: How to fish for datasets
 layout: repopage
 ---
 
-### Interested in participating in a hackathon?
-Click [here](https://docs.google.com/forms/d/18s9ZLb7TTLcXVRovqRcn5YEN6Js9aJZgPfn_2qz3WFE/viewform?usp=send_form) to sign up!
+**_Interested in participating in a hackathon?_**
+_Click [here](https://docs.google.com/forms/d/18s9ZLb7TTLcXVRovqRcn5YEN6Js9aJZgPfn_2qz3WFE/viewform?usp=send_form) to sign up!_
 
 We will be periodically hosting hackathons to track down and add SE data and papers.
 {% if page.title %} {{site.hackathonInfo}}{% endif %}
