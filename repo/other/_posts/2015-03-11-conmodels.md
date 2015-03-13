@@ -2,7 +2,7 @@
 title: conmodels
 excerpt: "Developers’ Code Context Models for Change Tasks"
 layout: repo
-author: ThomasFritz
+author: Thomas Fritz
 ---
 
 
@@ -11,12 +11,18 @@ author: ThomasFritz
   * [External (Github) link](https://github.com/abb-iss/Study-Artifacts-for-Code-Context-Models)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635868.2635905)
 
+# Authors
+ * Thomas Fritz
+ * David C. Shepherd
+ * Katja Kevic
+ * Will Snipes
+ * Christoph Bräunlich
 
 #Change Log
 
 When | What
 ---- | ----
-March 11, 2015 | Donated by [Thomas Fritz](/repo/people)
+March 11, 2015 | Donated by [Thomas Fritz](/repo/people/data-donors/promise4.html)
 
 
 #Reference
