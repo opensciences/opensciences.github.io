@@ -1,13 +1,14 @@
 ---
 title: TEMPLATE
-excerpt: PAPER TITLE
+excerpt: "PAPER TITLE"
 layout: repo
-author: DATA AUTHOR
+authors: "DATA (OR PAPER) AUTHORS"
+version: CURRENT PROMISE VERSION
 ---
 
 # URL
-  * [Data in Terapromise](LINK TO DATA)
-  * [Paper in ACM Digital Library](LINK TO PAPER)
+* [Data in Terapromise](LINK TO DATA)
+* [Paper in ACM Digital Library](LINK TO PAPER)
 
 ### Author(s)
 AUTHORS HERE, no emails. Use same order as original paper. Use unordered list
@@ -38,4 +39,3 @@ ATTRIBUTE INFORMATION HERE - if relevent
 # Paper abstract
 
 PAPER ABSTRACT HERE - check for typos
-
