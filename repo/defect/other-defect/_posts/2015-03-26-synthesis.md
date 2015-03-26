@@ -7,7 +7,7 @@ author: Alberto Goffi
 
 # URL
   * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/svn/repo/defect/other/synthesis)
-  * [Paper in ACM Digital Library](http://software.imdea.org/~alessandra.gorla/papers/Goffi-SBES-FSE14.pdf)
+  * [Paper Link](http://software.imdea.org/~alessandra.gorla/papers/Goffi-SBES-FSE14.pdf)
 
 ### Author(s)
 * Alberto Goffi
