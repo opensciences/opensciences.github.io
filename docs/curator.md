@@ -38,6 +38,36 @@ Once the data has been added to the repo (description page and SVN) and the auth
 # Creating a description page
 In opensciences.github.io/repo, there is a template.md file which contains all the necessary structure for a description page. The context notes from each GitHub issue should contain all information needed to fill in the template. The stuff in the context notes can be found [here](/repo/contribute/contextnotes.html), and transferring the context notes to the template is self-explanatory except for the "About The Data" section: the content of this will vary slightly across datasets, so best judgement should be used when filling in that section. Usually it'll just be the "General Overview of the Data" section from the context notes.
 
+### Where to house the newly created description page
+In the context notes, there should be a section called "Categorization", which lists the section that the dataset should be located within (for example: Defect, CK, Green Mining, etc. as seen on the sidebar). The github site, built on the Jekyll framework, houses the categories as folders in the website structure:
+
+```
+├── about
+├── blog
+│   └── _posts
+├── contribute
+│   └── _posts
+├── defect
+│   ├── ck
+│   │   └── _posts
+│   ├── mccabehalsted
+│   │   └── _posts
+│   └── other-defect
+│       └── _posts
+├── dump
+│   └── _posts
+├── effort
+│   ├── cobol
+│   │   └── _posts
+...and so on
+```
+Within each category folder is a _posts folder, where Jekyll stores each description page. The newly created description page should be put in the _posts folder inside its corresponding category folder. For example, a description page of a dataset categorized as "dump" would be placed in ```/repo/dump/posts/[description page name].md```.
+
+The naming convention for Jekyll posts (description pages) is:
+```[year added, 4 digits]-[month added, 2 digits]-[day added, 2 digits]-[short name given to dataset].md```
+
+The Curator chooses a succinct name for the dataset, no longer than 10ish characters. The name is often derived from the paper/dataset title, author name or initials, or some other unique identifier.
+
 # Uploading data to the SVN repository
 
 
