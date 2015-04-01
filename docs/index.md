@@ -23,4 +23,38 @@ may have noticed the blurbs underneath the project icons on the homepage: "Piece
 journal to book" pretty well.
 
 # The tera-PROMISE repository
-More stuff here
+What you're looking at right now is a page on the tera-PROMISE repository. There are no links to it because the 
+public doesn't need to see it. The goal of the repository is to store software engineering research data for 
+researchers to access at any time. It was started in 2004 by Dr. Tim Menzies of NCSU and Jelber Sayyad of the 
+University of Ottawa, with the goal of being a long-term host for researchers to keep their data, because over 
+time, data hosted on personal sites and university sites is phased out and lost to the sands of time. This is bad 
+because software engineering is meant to be __reproducible__ and __replicable__. Reproducibility is the ability to 
+reproduce an experiment; e.g. take somebody’s previous experiment and rerun it with either their data or on your 
+own data. Replicability is achieved when the __same__ results are gathered from the __same__ experimental methods 
+with the__same__ data. 
+
+The fact that a lot of research data is being lost over time (or not hosted at all) breaks the academic research 
+model. Tera-PROMISE is our solution to that problem, and that's where you the reader comes in.
+
+# Jobs
+More here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
