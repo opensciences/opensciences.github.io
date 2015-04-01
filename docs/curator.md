@@ -36,7 +36,7 @@ Data finders will label issues up to the point that they are **4x** or higher. T
 
 Once the data has been added to the repo (description page and SVN) and the authors have been emailed (see below), **5. Summarized** is replaced with **6. Submitted** and the issue is closed. If the authors email back requesting the data to be removed (again, see below if confused), then **6. Submitted** is replaced with **7. Denied**. The issue should remain closed.
 
-# 2. Create a description page
+# 2. **Create a description page**
 In opensciences.github.io/repo, there is a template.md file which contains all the necessary structure for a description page. The context notes from each GitHub issue should contain all information needed to fill in the template. The stuff in the context notes can be found [here](/repo/contribute/contextnotes.html), and transferring the context notes to the template is self-explanatory except for the "About The Data" section: the content of this will vary slightly across datasets, so best judgement should be used when filling in that section. Usually it'll just be the "General Overview of the Data" section from the context notes.
 
 ### 3. **Move the description page** into the correct category folder
@@ -110,6 +110,7 @@ The email should be sent to ALL authors listed in the context notes.
 
 After the description page has been added, the data zipped and uploaded along with a README to the SVN repository in a new folder, and the email has been sent to the authors, the Curator relabels the GitHub issue for that particular dataset with **6. Submitted** and closes it.
 
+----------------
 
 # SVN/GitHub tips
  * To add a newly created directory or file to the SVN repository, navigate via command-line to the directory it's in and execute ```svn add [name of directory/file]```
