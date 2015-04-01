@@ -102,9 +102,30 @@ This can usually be copied from another dataset as long as the link is changed.
 
 # 5. **Email the dataset/paper authors**
 
-Openscience.content@gmail.com has a template email. Copy the contents and title, and replace the default information with the information about the dataset added. Email all authors listed in the context notes. The purpose of this email is to let the authors know that the data was added to the repository for their viewing pleasure and so they can offer suggestions on the context notes or request that we remove the data from the repository.
+After each dataset is added, the authors must be emailed. The purpose of this email is to let the authors know that the data was added to the repository for their viewing pleasure and so they can offer suggestions on the context notes or request that we remove the data from the repository. The email account **Openscience.content@gmail.com** is used to send the emails. In the drafts of the Gmail account, a template email has been constructed. Copy the contents and title of the email, and replace the default information with the information about the dataset added. DON'T delete the template email.
 
-# 6. **Close the issue**
+The email should be sent to ALL authors listed in the context notes. 
+
+# 6. **Close the GitHub issue**
+
+After the description page has been added, the data zipped and uploaded along with a README to the SVN repository in a new folder, and the email has been sent to the authors, the Curator relabels the GitHub issue for that particular dataset with **6. Submitted** and closes it.
 
 
+# SVN/GitHub tips
+ * To add a newly created directory or file to the SVN repository, navigate via command-line to the directory it's in and execute ```svn add [name of directory/file]```
+ * To commit the changes, execute ```svn commit -m "Adds [dataset name] to repository"```
+ * [Here](http://www.clear.rice.edu/comp314/svn.html) or [here](http://www.tutorialspoint.com/svn/) are good tutorials on SVN. Read up on it if you are confused.
+ * To add newly created directories to the GitHub repository, use the same command as SVN except with ```git``` in front: ```git add [name of directory/file]```
+ * Same with commit: ```git commit -m "Message"```
+ * And [here](http://git-scm.com/doc) is arguably the best git tutorial (GitHub is the website that hosts projects that use ```git```, a version control system. If those last 3 words confused you, you should definitely read some of the tutorials. Start with the book if you're new to version control and start with the reference manual if you've already worked with it.
+ 
+# Commit message tips
 
+ * The commit messages for both GitHub and SVN should be of the form ```[verb]s [description]```. That's kind of vague, so here are some examples.
+    * ```Updates README```
+    * ```Adds example dataset description page```
+    * ```Fixes dead link```
+    * ```Adds new section to website```
+    * ```Changes CSS```
+    * etc.
+ * Look through the commit history for more examples.
