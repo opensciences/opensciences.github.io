@@ -47,7 +47,7 @@ Here are the jobs:
 * **Curator:**
    * The curator does the actual uploading of the data to the site. This involves taking information about the data from GitHub issues, putting it on the GitHub site, and then uploading the actual data to an SVN repository. More information about this role can be found [here](/docs/curator.html).
 * **Web developer/Systems programmer:**
-   * The web developer/systems programmer (for lack of a better name) is responsible for the development of the GitHub website and it's functionality. More information about this role can be found [here](/docs/curator.html).
+   * The web developer/systems programmer (for lack of a better name) is responsible for the development of the GitHub website and it's functionality. More information about this role can be found [here](/docs/developer.html).
 * **Data Finder:**
    * The Data Finder is responsible for looking through software engineering conferences and other internet resources to find research papers that may have data we can host. They also gather context notes on the promising papers for Curators to use when uploading to the site. This role is not an internal job; anybody can contribute, so there is a seperate contribution page found [here](/repo/contribute) that describes it thoroughly.
 
