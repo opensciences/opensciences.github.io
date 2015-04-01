@@ -62,7 +62,7 @@ In the context notes, there should be a section called "Categorization", which l
 │   │   └── _posts
 ...and so on
 ```
-As you can see, within each category folder is a ```_posts``` folder, where Jekyll stores the description pages. The newly created description page should be put in the ```_posts``` folder inside its corresponding category folder. For example, a description page of a dataset categorized as ```dump``` would be placed in ```/repo/dump/posts/[description page name].md```.
+Within each category folder is a ```_posts``` folder, where Jekyll stores the description pages. The newly created description page should be put in the ```_posts``` folder inside its corresponding category folder. For example, a description page of a dataset categorized as ```dump``` would be placed in ```/repo/dump/posts/[description page name].md```.
 
 The naming convention for Jekyll posts (description pages) is:
 ```[year added, 4 digits]-[month added, 2 digits]-[day added, 2 digits]-[short name given to dataset].md```
@@ -74,10 +74,31 @@ The Curator chooses a succinct name for the dataset, no longer than 10ish charac
 ```
 
 # 4. **Downloading and uploading data** to the SVN repository
-The Curator downloads the data from the link provided in the context notes (or emails the authors if the data is missing - the issue should have the label **4b. Need to email authors** if this is the case) and uploads it to the SVN repository as a zip file by adding a folder in the appropriate category and putting the data in it. If the data is excessively large, the data may need to be split up into multiple files as SVN doesn't handle large files particularly well.
+The Curator downloads the data from the link provided in the context notes (or emails the authors if the data is missing - the issue should have the label **4b. Need to email authors** if this is the case) and uploads it to the SVN repository. The data should be contained in a zip file and named ```[dataset name].zip```. If the data is excessively large, the data may need to be split up into multiple zip files as SVN doesn't handle large files particularly well.
 
-Add the readme, change the link in the description page, and email authors.
+The SVN repository has a similar folder structure as the GitHub site, so the Curator adds a directory where the data will go. The new directory goes in the category that the dataset is in. For example, if adding the ```example``` dataset to the ```dump``` category, a directory called ```example``` is created in the ```dump``` folder, like so:
 
+```
+├── dump
+│   └── example   <----
+│   └── abacus2013
+│   └── xorg
+├── green-mining
+│   └── greentrace
+etc.
+```
+
+The zipped dataset is place in the ```example``` folder in this case, and then a ```README.txt``` is created.
+
+The contents of the README will be:
+
+```
+To read/write comments on this data, see
+ http://openscience.us/repo/PATH/TO/DESCRIPTION/PAGE.
+
+```
+
+This can usually be copied from another dataset as long as the link is changed.
 
 # 5. **Email the dataset/paper authors**
 
