@@ -14,13 +14,13 @@ Software Science Journal (SSJ), and the "Latest Developments in Software Enginee
 the tera-PROMISE repository has been fully implemented; however, plans still exist for development of the journal
 and the book. You can see the three projects in the homepage at [openscience.us](http://openscience.us).
 
-The tera-PROMISE repository is fundamentally a repository for data. More specifically, it stores software
-engineering (SE) research data in the long term (more details in the next section about why it exists). The SSJ is
-an academic journal that writes about the more useful data from the repository, and the book is a more substantial
-academic text that condenses the best parts of the journal as they are generated over the journal's maturation. You
-may have noticed the blurbs underneath the project icons on the homepage: "Pieces and bits from SE research", 
-"Judging which bits are useful", and "A textbook on the useful bits"; they describe the workflow of "repository to 
-journal to book" pretty well.
+The tera-PROMISE repository is, fundamentally speaking, a repository for data. More specifically, it stores
+software engineering (SE) research data in the long term (more details in the next section about why it exists).
+The SSJ is an academic journal that writes about the more useful data from the repository, and the book is a more
+substantial academic text that condenses the best parts of the journal as they are generated over the journal's
+maturation. You may have noticed the blurbs underneath the project icons on the homepage: "Pieces and bits from SE
+research", "Judging which bits are useful", and "A textbook on the useful bits"; they describe the workflow of
+"repository to journal to book" pretty well.
 
 # The tera-PROMISE repository
 What you're looking at right now is a page on the tera-PROMISE repository. There are no links to it because the 
@@ -31,7 +31,7 @@ time, data hosted on personal sites and university sites is phased out and lost 
 because software engineering is meant to be __reproducible__ and __replicable__. Reproducibility is the ability to 
 reproduce an experiment; e.g. take somebody’s previous experiment and rerun it with either their data or on your 
 own data. Replicability is achieved when the __same__ results are gathered from the __same__ experimental methods 
-with the__same__ data. 
+with the __same__ data. 
 
 The fact that a lot of research data is being lost over time (or not hosted at all) breaks the academic research 
 model. Tera-PROMISE is our solution to that problem, and that's where you the reader comes in.
@@ -46,9 +46,9 @@ Here are the jobs:
 
 * **Curator:**
    * The curator does the actual uploading of the data to the site. This involves taking information about the data from GitHub issues, putting it on the GitHub site, and then uploading the actual data to an SVN repository. More information about this role can be found [here](/docs/curator.html).
-* **Web developer/Systems programmer**
+* **Web developer/Systems programmer:**
    * The web developer/systems programmer (for lack of a better name) is responsible for the development of the GitHub website and it's functionality. More information about this role can be found [here](/docs/curator.html).
-* **Data Finder**
+* **Data Finder:**
    * The Data Finder is responsible for looking through software engineering conferences and other internet resources to find research papers that may have data we can host. They also gather context notes on the promising papers for Curators to use when uploading to the site. This role is not an internal job; anybody can contribute, so there is a seperate contribution page found [here](/repo/contribute) that describes it thoroughly.
 
 
