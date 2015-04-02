@@ -22,9 +22,9 @@ To make such  contribution, please send a message to
 describing what you have and how much disk space it takes (ideally, we  take all data but there are some pragmatic restrictions).
 Also, the [contribute page](/repo/contribute) has a wealth of information on how to contribute.
 
-#### Contribute by attending a hackathon!
-![February 13, 2015 Hackathon](/img/2015-02-13-hackathon3.jpg "February 13, 2015 Hackathon")
+<a class="twitter-timeline" href="https://twitter.com/promiserepo" data-widget-id="583712062368514048">Tweets by @promiserepo</a>
 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 ### Acknowledgements
 
