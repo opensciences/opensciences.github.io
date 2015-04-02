@@ -33,16 +33,16 @@ Liquid is a templating engine that allows Jekyll to create and fill in templates
 
 # How YAML and Front Matter work
 
-On the top of each description page in ```_posts``` is a few lines of metadata preceded and followed by three dashed ines, like this:
+On the top of each description page in ```_posts``` is a few lines of metadata preceded and followed by three dashed lines, like this (The actual dashed lines are not displayed as they mess with the page formatting):
 
 ```
-\-\-\-
+[three dashed lines]
 title: splot
 excerpt: "Scaling Exact Multi-objective Combinatorial Optimization by Parallelization"
 layout: repo
 authors: "Marcilio Mendonca, Moises Branco, Donald Cowan"
 version: 4
-\-\-\-
+[three dashed lines]
 ```
 
 Many of the older datasets don't have as much metadata, but the newer ones should all follow the above standard.
