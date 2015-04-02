@@ -36,13 +36,28 @@ Liquid is a templating engine that allows Jekyll to create and fill in templates
 On the top of each description page in ```_posts``` is a few lines of metadata preceded and followed by three dashed lines, like this:
 ```
 ---
-
+title: splot
+excerpt: "Scaling Exact Multi-objective Combinatorial Optimization by Parallelization"
+layout: repo
+authors: "Marcilio Mendonca, Moises Branco, Donald Cowan"
+version: 4
 ---
 ```
 
+Many of the older datasets don't have as much metadata, but the newer ones should all follow the above standard.
 
+The metadata described in more detail:
+ * ```title``` The dataset name
+ * ```excerpt``` The blurb about the dataset, almost always a paper title associated with the dataset
+ * ```layout``` The layout of the page; the different types are outlined below.
+ * ```authors``` The authors of the dataset
+ * ```version``` The current version of tera-PROMISE. This number will probably stay at 4 for a good while.
 
-
+```layout``` defines the type (and layout) of page that the markdown content will be put into; the layouts come from the ```_layouts``` directory. The layouts related to the repository are ```repo```, ```repopage```, ```main```, and ```content```.
+ * The ```repo``` layout is for pages in the repository that aren't dataset pages.
+ * The ```repopage``` layout is for dataset pages ("description pages").
+ * The ```main``` layout is for...
+ * The ```content``` layout is for...
 
 
 
