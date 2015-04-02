@@ -5,15 +5,15 @@ category: repo
 limit: 5
 ---
 
+Datasets are stored in the sections on the left. Note that these categories are not fixed - the more data you contribute, the more our categories change. You can also use the search bar above to find datasets. If you would like to contribute to the OpenScience project,click the Contribute button above for more information.
+
 This repository is an update to the older PROMISE repository of SE data.
 
 Our goal is to be a long term storage facility for SE data. Many researchers take the time to carefully host their data on their own web sites. But as people move through their career, those web sites can fade away and take away their data. Hopefully, using this repo, we can make 
-conclusions in SE repeatable, and repeatable for a  longer time.
+conclusions in SE repeatable, and repeatable for a longer time.
 
 This site has size restrctions (1TB, total) and we are chasing funds to change that (coming soon: peta-Promise?). That said, we are making progress. For example, this site can hold 500 times the data of the last version. 
 
-For more details on what we have in the repo, please browse the left-hand side site map. Note that these categories are not
-fixed- the more data you contribute, the more our categories change.
 
 ### How to Contribute 
 
