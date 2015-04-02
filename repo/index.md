@@ -27,21 +27,21 @@ Also, the [contribute page](/repo/contribute) has a wealth of information on how
 
 The Open Science tera-PROMISE repository has been made possible and is maintained by the combined efforts of many people. Acknowledgements are due to the people listed below. See more on the [people page](/repo/people).
 
-Current Curators | Previous Curators        |   Data Finders  |  Data Donors
------------------|--------------------------|-----------------|-----------------------
-Tim Menzies      | Mike Chapman (v0)        | Behjat Slt      | 
-Carter Pape      | Justin DiStefano (v0)    | George Mathew   | 
-Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdir   | 
-                 | Tim Menzies (v2, v3, v4) | Ben Province    | 
-                 | Bora Caglayan (v3)       | Wei Fu          | 
-                 | Zhimin He (v3)           | Rahul Krishna   | 
-                 | Ekrem Kocaguneli (v3)    | Davide Fucci    | 
-                 | Joe Krall (v3)           | Shirin Akbari   | 
-                 | Fayola Peters (v3)       | Vivek Nair      | 
-                 | Burak Turhan (v3)        | Josh Rees-Jones | 
-                 | Corbin Steele (v4)       |                 | 
-                 | Carter Pape (v4)         |                 | 
-                 | Mitch Rees-Jones (v4)    |                 | 
+Current Curators | Previous Curators        |   Data Finders  
+-----------------|--------------------------|------------------
+Tim Menzies      | Mike Chapman (v0)        | Behjat Slt       
+Carter Pape      | Justin DiStefano (v0)    | George Mathew    
+Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdir    
+                 | Tim Menzies (v2, v3, v4) | Ben Province     
+                 | Bora Caglayan (v3)       | Wei Fu           
+                 | Zhimin He (v3)           | Rahul Krishna    
+                 | Ekrem Kocaguneli (v3)    | Davide Fucci     
+                 | Joe Krall (v3)           | Shirin Akbari    
+                 | Fayola Peters (v3)       | Vivek Nair       
+                 | Burak Turhan (v3)        | Josh Rees-Jones  
+                 | Corbin Steele (v4)       |                  
+                 | Carter Pape (v4)         |                  
+                 | Mitch Rees-Jones (v4)    |                  
 
 
 ## Recent Additions
