@@ -1,0 +1,52 @@
+---
+title: xuanbuilding
+excerpt: "Building It Together: Synchronous Development in OSS"
+layout: repo
+authors: "Qi Xuan; Vladimir Folkov"
+version: 4
+---
+
+#URL
+
+* [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/xuanbuilding)
+* [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2568238)
+
+#Change Log
+
+When | What
+---- | ----
+April 3rd, 2015 | Donated by [Qi Xuan](/repo/people/data-donors/promise4.html)
+
+#Reference
+
+Studies who have been using the data (in any form) are required to include the following reference:
+
+```
+@inproceedings{Xuan:2014:BTS:2568225.2568238,
+  author = {Xuan, Qi and Filkov, Vladimir},
+  title = {Building It Together: Synchronous Development in OSS},
+  booktitle = {Proceedings of the 36th International Conference on Software Engineering},
+  series = {ICSE 2014},
+  year = {2014},
+  isbn = {978-1-4503-2756-5},
+  location = {Hyderabad, India},
+  pages = {222--233},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/2568225.2568238},
+  doi = {10.1145/2568225.2568238},
+  acmid = {2568238},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  keywords = {OSS, collaboration, communication, synchronization},
+} 
+```
+
+#About the Data
+
+##Overview of Data
+
+The authors obtained data for 31 OSS projects from the Apache Software Foundation on March 24th, 2012. For each project, the commit activities of developers on dierent files are gathered from the corresponding Git repository while the email communication activities are gathered from the online developer mailing lists. For each commit activity, The authors recorded the developer ID, file ID, file type, the exact submitting time in seconds, and the numbers of added and deleted LOC in each file. For each communication activity, The authors recorded the sender ID, receiver ID, and the sending time in seconds. Note that, developers may have multiple aliases, which were resolved by using a semi-automatic approach.
+
+##Paper Abstract
+
+In distributed software development synchronized actions are important for completion of complex, interleaved tasks that require the abilities of multiple people. Synchronous development is manifested when le commits by two developers are close together in time and modify the same files. Here we propose quantitative methods for identifying synchronized activities in OSS projects, and use them to relate developer synchronization with effective productivity and communication. In particular, we dene co-commit bursts and communication bursts, as intervals of time rich in co-commit and correspondence activities, respectively, and construct from them smoothed time series which can be, subsequently, correlated to discover synchrony. We found that synchronized co-commits between developers are associated with their effective productivity and coordination: during co-commit bursts, vs. at other times, the project size grows faster even though the overall coding effort slows down. We also found strong correlation between synchronized co-commits and communication, that is, for pairs of developers,more co-commit bursts are accompanied with more communication bursts, and their relationship follows closely a linear model. In addition, synchronized co-commits and communication activities occur very close together in time, thus, they can also be thought of as synchronizing each other. This study can help with better understanding collaborative mechanisms in OSS and the role communication plays in distributed software engineering.
