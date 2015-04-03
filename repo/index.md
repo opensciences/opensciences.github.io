@@ -33,6 +33,8 @@ Membership "costs" one grad student who can devote one day per month on maintena
 
 The Open Science tera-PROMISE repository has been made possible and is maintained by the combined efforts of many people. Acknowledgements are due to the people listed below. See more on the [people page](/repo/people).
 
+<img src=../img/2015-02-13-hackathon2.jpg><img src=../img/2015-04-13-hackathon.jpg>
+
 Current Curators | Previous Curators        |   Data Finders  
 -----------------|--------------------------|------------------
 Tim Menzies      | Mike Chapman (v0)        | Behjat Slt       
