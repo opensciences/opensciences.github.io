@@ -3,13 +3,13 @@ title: TEMPLATE
 excerpt: "PAPER TITLE"
 layout: repo
 authors: "AUTHORS; SEPARATED; BY; SEMICOLONS"
-version: CURRENT PROMISE VERSION
+version: 4
 ---
 
 #URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/CATEGORY/TITLE)
-* [Paper in ACM, IEEE, OR WHATEVER IT IS Digital Library](LINK TO PAPER) IF APPLICABLE
+* [Paper in ACM, IEEE, OR WHATEVER IT IS Digital Library](LINK TO PAPER)
 
 #Change Log
 
@@ -31,10 +31,10 @@ BIBTEX REFERENCE HERE
 
 OVERVIEW OF DATA HERE
 
-##Attibute Information
+##Attribute Information
 
 ATTRIBUTE INFORMATION HERE - if relevent
 
-##Paper abstract
+##Paper Abstract
 
 PAPER ABSTRACT HERE - check for typos
