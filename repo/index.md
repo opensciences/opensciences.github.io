@@ -31,7 +31,7 @@ Whoi        |Where      |From     |Worker1       |Worker2       |Member since
 ------------|-----------|---------|--------------|--------------|---------------
 Olga Baysal |U. Montreal| Canada  | Yaxin Cao    |              |Dec'14
 Ayse Benar  |Ryerson U. | Canada  |Bora Çağlayan |              |Sept'14
-Tim Menzies |NcState    | USA     |Corbin Steele | Carter Pape  |Sept'14
+Tim Menzies |NcState    | USA     |Carter Pape   | Mitch Rees=Jones|Sept'14
 Burak Turhan|U. Oulu    | Finland |Burak Turhan  |              |Sept'14 
 
 Membership of the PROMISE repo is by _invitation_ from the current committee.
