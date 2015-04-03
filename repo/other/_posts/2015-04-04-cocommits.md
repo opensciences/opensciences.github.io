@@ -1,5 +1,5 @@
 ---
-title: Co-commit Data
+title: cocommit
 excerpt: "Synchronous Development in OSS"
 layout: repo
 authors: "Qi Xuan; Vladimir Filkov"
