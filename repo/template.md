@@ -2,7 +2,7 @@
 title: TEMPLATE
 excerpt: "PAPER TITLE"
 layout: repo
-authors: "DATA (OR PAPER) AUTHORS; SEPARATED; BY; SEMICOLONS"
+authors: "AUTHORS; SEPARATED; BY; SEMICOLONS"
 version: CURRENT PROMISE VERSION
 ---
 
@@ -15,7 +15,7 @@ version: CURRENT PROMISE VERSION
 
 When | What
 ---- | ----
-DATE ADDED | Donated by [FIRST AUTHOR](/repo/people)
+DATE ADDED | Donated by [FIRST AUTHOR](/repo/people/data-donors/promise4.html)
 
 #Reference
 
