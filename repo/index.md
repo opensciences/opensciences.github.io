@@ -41,7 +41,7 @@ Current Curators | Previous Curators        |   Data Finders
 -----------------|--------------------------|------------------
 Tim Menzies      | Mike Chapman (v0)        | Behjat Slt       
 Carter Pape      | Justin DiStefano (v0)    | George Mathew    
-Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdir    
+Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdhir    
                  | Tim Menzies (v2, v3, v4) | Ben Province     
                  | Bora Caglayan (v3)       | Wei Fu           
                  | Zhimin He (v3)           | Rahul Krishna    
