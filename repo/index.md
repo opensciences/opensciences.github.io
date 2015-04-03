@@ -23,7 +23,21 @@ describing what you have and how much disk space it takes (ideally, we  take all
 Also, the [contribute page](/repo/contribute) has a wealth of information on how to contribute.
 
 
-### Acknowledgements
+### About Us
+
+#### Steering Committee
+
+Whoi        |Where      |From     |Worker1       |Worker2       |Member since
+------------|-----------|---------|--------------|--------------|---------------
+Olga Baysal |U. Montreal| Canada  | Yaxin Cao    |              |Dec'14
+Ayse Benar  |Ryerson U. | Canada  |Bora Çağlayan |              |Sept'14
+Tim Menzies |NcState    | USA     |Corbin Steele | Carter Pape  |Sept'14
+Burak Turhan|U. Oulu    | Finland |Burak Turhan  |              |Sept'14 
+
+Membership of the PROMISE repo is by _invitation_ from the current committee.
+Membership "costs" one grad student who can devote one day per month on maintenance to the current site.
+
+#### Volunteers
 
 The Open Science tera-PROMISE repository has been made possible and is maintained by the combined efforts of many people. Acknowledgements are due to the people listed below. See more on the [people page](/repo/people).
 
