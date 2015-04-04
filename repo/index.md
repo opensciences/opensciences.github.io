@@ -33,11 +33,15 @@ Membership "costs" one grad student who can devote one day per month on maintena
 
 The Open Science tera-PROMISE repository has been made possible and is maintained by the combined efforts of many people. Acknowledgements are due to the people listed below. See more on the [people page](/repo/people).
 
+<center>
+<img src="http://openscience.us/img/2015-02-13-hackathon-small.jpg"> <img src="http://openscience.us/img/2015-04-03-hackathon-small.jpg">
+</center>
+
 Current Curators | Previous Curators        |   Data Finders  
 -----------------|--------------------------|------------------
 Tim Menzies      | Mike Chapman (v0)        | Behjat Slt       
 Carter Pape      | Justin DiStefano (v0)    | George Mathew    
-Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdir    
+Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdhir    
                  | Tim Menzies (v2, v3, v4) | Ben Province     
                  | Bora Caglayan (v3)       | Wei Fu           
                  | Zhimin He (v3)           | Rahul Krishna    
