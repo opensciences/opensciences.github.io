@@ -29,7 +29,7 @@
             <div class="grid_2" id="reflist">
                 {% include repo/navbar.html %}
             </div>
-            <div class="grid_10 home_box" id="content_box">
+            <div class="grid_8 home_box" id="content_box">
                 <div class=block>
                     <div class=box>
                         <p>
@@ -41,6 +41,9 @@
                              </p>
                         {{ content }}
                     </div>
+                </div>
+                <div class="grid_2 home_box" id="rss">
+                    {% include repo/rss.html %}
                 </div>
                 <div class="clear"></div>
         </div>
