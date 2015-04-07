@@ -22,9 +22,15 @@ April 3rd, 2015| Donated by [Huihua Lu](/repo/people/data-donors/promise4.html)
 Studies who have been using the data (in any form) are required to include the following reference:
 
 ```
-@article{ludefect,
-  title={Defect Prediction between Software Versions with Active Learning and Dimensionality Reduction},
-  author={Lu, Huihua and Kocaguneli, Ekrem and Cukic, Bojan}
+@INPROCEEDINGS{6982637, 
+  author={Huihua Lu and Kocaguneli, E. and Cukic, B.}, 
+  booktitle={Software Reliability Engineering (ISSRE), 2014 IEEE 25th International Symposium on}, 
+  title={Defect Prediction between Software Versions with Active Learning and Dimensionality Reduction}, 
+  year={2014}, 
+  month={Nov}, 
+  pages={312-322}, 
+  doi={10.1109/ISSRE.2014.35}, 
+  ISSN={1071-9458},
 }
 ```
 
@@ -33,9 +39,10 @@ Studies who have been using the data (in any form) are required to include the f
 ##Overview of Data
 
 Release packages/files % with defects metrics
-2.0 377 / 6729 50.4% / 14.5% 41 / 32
-2.1 434 / 7888 4 4.7% / 10.8% 41 / 32
-3.0 661 / 10593 47.4% /14.8% 41 / 32
+
++ 2.0 377 / 6729 50.4% / 14.5% 41 / 32
++ 2.1 434 / 7888 4 4.7% / 10.8% 41 / 32
++ 3.0 661 / 10593 47.4% /14.8% 41 / 32
 
 Table I describes the defect content in three successive
 releases of Eclipse, 2.0, 2.1, 3.0, at two levels of granularity:
@@ -51,6 +58,7 @@ complexity metrics used in [15].
 
 ##Attibute Information
 
+```
 <!DOCTYPE defects [
 <!ELEMENT defects (plug-in)+>
 <!ATTLIST defects project CDATA #REQUIRED>
@@ -78,7 +86,7 @@ complexity metrics used in [15].
 <!ATTLIST fix author CDATA #REQUIRED>
 <!ELEMENT message (#PCDATA)>
 ]>
-
+```
 
 
 ##Paper abstract
