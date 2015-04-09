@@ -19,12 +19,12 @@ See [contribute page](/repo/contribute) has a wealth of information on how to co
 
 **Steering Committee**
 
-Whoi        |Where      |From     |Worker1       |Worker2       |Member since
-------------|-----------|---------|--------------|--------------|---------------
-Olga Baysal |U. Montreal| Canada  | Yaxin Cao    |              |Dec'14
-Ayse Benar  |Ryerson U. | Canada  |Bora Çağlayan |              |Sept'14
-Tim Menzies |NcState    | USA     |Carter Pape   | Mitch Rees=Jones|Sept'05
-Burak Turhan|U. Oulu    | Finland |Burak Turhan  |              |Sept'14 
+Who         |Where      |From     |Contributors                 |Member since
+------------|-----------|---------|-----------------------------|---------------
+Olga Baysal |U. Montreal| Canada  |Yaxin Cao                    |Dec'14
+Ayse Benar  |Ryerson U. | Canada  |Bora Çağlayan                |Sept'14
+Tim Menzies |NcState    | USA     |Carter Pape, Mitch Rees-Jones|Sept'05
+Burak Turhan|U. Oulu    | Finland |Burak Turhan                 |Sept'14 
 
 Membership of the PROMISE repo is by _invitation_ from the current committee.
 Membership "costs" one grad student who can devote one day per month on maintenance to the current site.
