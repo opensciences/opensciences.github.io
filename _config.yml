@@ -50,5 +50,4 @@ hackathonInfo: "The next hackathon is on April 3rd starting at 11am on the N.C. 
 dataSizeCap: "100 MB"
 dataSizeAbsoluteCap: "500 MB"
 
-categories: [content]
-
+categories: [content] 
