@@ -8,7 +8,7 @@ limit: 5
 Datasets are stored in the sections on the left. These categories are not fixed (the more you contribute, the more our categories change). 
 
 This repository is an update to the older PROMISE repository of SE data.
-Our goal is to be a long term storage facility for SE data. [More...](about) 
+Our goal is to be a long term storage facility for SE data. [More info...](/repo/about) 
 
 ### How to Contribute 
 
