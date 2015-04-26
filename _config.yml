@@ -45,7 +45,7 @@ paginate: 3
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
 # Information about our next hackathon. This goes at the end of sentences mentioning such hackathons.
-hackathonInfo: "The next hackathon is on April 3rd starting at 11am on the N.C. State Centennial Campus."
+hackathonInfo: "The next hackathon will be May 1st on the N.C. State Centennial Campus."
 
 dataSizeCap: "100 MB"
 dataSizeAbsoluteCap: "500 MB"
