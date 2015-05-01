@@ -34,7 +34,7 @@ Membership "costs" one grad student who can devote a few days per month on maint
 The Open Science tera-PROMISE repository has been made possible and is maintained by the combined efforts of many people. Acknowledgements are due to the people listed below. See more on the [people page](/repo/people).
 
 <center>
-<img width=150 src="http://openscience.us/img/2015-02-13-hackathon-small.jpg"> <img width=150 src="http://openscience.us/img/2015-04-03-hackathon-small.jpg"> <img width=150 src="http://openscience.us/img/2015-05-01-hackathon.png">
+<img width=200 src="http://openscience.us/img/2015-02-13-hackathon-small.jpg"> <img width=200 src="http://openscience.us/img/2015-04-03-hackathon-small.jpg"> <img width=200 src="http://openscience.us/img/2015-05-01-hackathon.png">
 </center>
 
 Current Curators | Previous Curators        |   Data Finders  
