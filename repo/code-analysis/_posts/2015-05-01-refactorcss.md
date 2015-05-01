@@ -2,7 +2,7 @@
 title: refactorcss
 excerpt: "Discovering refactoring opportunities in cascading style sheets"
 layout: repo
-authors: "vood Mazinanian; Nikolaos Tsantalis; Ali Mesbah
+authors: "Davood Mazinanian; Nikolaos Tsantalis; Ali Mesbah"
 version: 4
 ---
 
