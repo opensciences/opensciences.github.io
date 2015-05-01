@@ -13,13 +13,26 @@
     </head>
     <body>
         <div class="container_12">
-            <div class="grid_12">
+            <div class="grid_11">
                 <a href="/repo"><img width=200 align=left src="/img/files200.png"></a>
                 <a href="/repo"><span id="branding">tera-PROMISE</span></a>
                 <img  align=right src="{{site.url}}/img/CSClogo.jpg">
                 <a href="/"><p><img id="backToPortalLogo" src="/img/opensciencelogo.png"> Back to portal</p></a>
                 <br>
-                <h3 class="emphasis"><a href="/repo/contribute/" id="contribButton" style="color: #ffffff">Contribute</a></h3>
+                
+                       
+                   
+<h3 class="emphasis"><a href="/repo/contribute/" 
+                       id="contribButton" style="color: #ffffff">Contribute</a></h3>
+             
+            </div>
+            <div class="grid_1">
+            	<div style="text-align: center">
+	<a href="https://github.com/opensciences/opensciences.github.io"><img 
+	src="/img/github.png" style="vertical-align: middle"></a><br>
+	<a href="" alt="Coming soon!"><img src="/img/facebook.png" style="vertical-align: middle"></a><br>
+	<a href="mailto:openscience.content@gmail.com"><img src="/img/gmail.png" style="vertical-align: middle"></a>
+</div>
             </div>
             <div class="grid_12">
                 {% include repo/head.html %}
@@ -29,8 +42,11 @@
             <div class="grid_2" id="reflist">
                 {% include repo/navbar.html %}
             </div>
-            <div class="grid_10 home_box" id="content_box">
+            <div class="grid_8 home_box" id="content_box">
                 {% include repo/content.html %}
+            </div>
+            <div class="grid_2 home_box" id="rss">
+                {% include repo/rss.html %}
             </div>
         </div>
     </body>

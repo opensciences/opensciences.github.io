@@ -8,7 +8,7 @@ description: "Open Science for SE"
 author: "Tim Menzies, Emerson Murphy-Hill"
 
 # Your email if you want it to be linked on the contact page
-author_email: "promisedata@googlegroups.com"
+author_email: "openscience.content@gmail.com"
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
@@ -45,10 +45,9 @@ paginate: 3
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
 # Information about our next hackathon. This goes at the end of sentences mentioning such hackathons.
-hackathonInfo: "The next hackathon is on April 3rd starting at 11am on the N.C. State Centennial Campus."
+hackathonInfo: "The next hackathon will be May 1st on the N.C. State Centennial Campus."
 
 dataSizeCap: "100 MB"
 dataSizeAbsoluteCap: "500 MB"
 
-categories: [content]
-
+categories: [content] 

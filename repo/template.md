@@ -2,20 +2,20 @@
 title: TEMPLATE
 excerpt: "PAPER TITLE"
 layout: repo
-authors: "DATA (OR PAPER) AUTHORS; SEPARATED; BY; SEMICOLONS"
-version: CURRENT PROMISE VERSION
+authors: "AUTHORS; SEPARATED; BY; SEMICOLONS"
+version: 4
 ---
 
 #URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/CATEGORY/TITLE)
-* [Paper in ACM, IEEE, OR WHATEVER IT IS Digital Library](LINK TO PAPER) IF APPLICABLE
+* [Paper in ACM, IEEE, OR WHATEVER IT IS Digital Library](LINK TO PAPER)
 
 #Change Log
 
 When | What
 ---- | ----
-DATE ADDED | Donated by [FIRST AUTHOR](/repo/people)
+DATE ADDED | Donated by [FIRST AUTHOR](/repo/people/data-donors/promise4.html)
 
 #Reference
 
@@ -31,10 +31,10 @@ BIBTEX REFERENCE HERE
 
 OVERVIEW OF DATA HERE
 
-##Attibute Information
+##Attribute Information
 
 ATTRIBUTE INFORMATION HERE - if relevent
 
-##Paper abstract
+##Paper Abstract
 
 PAPER ABSTRACT HERE - check for typos

@@ -8,11 +8,7 @@ version: 4
 
 # URL
 
-* [Data on GitHub](https://github.com/greentrace/green-dataset)
-
-### Author(s)
-
-* Chenlei Zhang
+* [Data on Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/green-mining/greentrace)
 
 # Change Log
 
