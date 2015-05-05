@@ -1,6 +1,6 @@
 ---
 title: OpenScience Documentation
-layout: repopage
+layout: repo-content
 ---
 
 Welcome to the documentation for the OpenScience job roles. This page is indended for people interested in 

@@ -1,6 +1,6 @@
 ---
 title: OpenScience Documentation
-layout: repopage
+layout: repo-content
 ---
 
 # Curator

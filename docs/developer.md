@@ -1,6 +1,6 @@
 ---
 title: OpenScience Documentation
-layout: repopage
+layout: repo-content
 ---
 
 # Web Developer/Systems programmer
