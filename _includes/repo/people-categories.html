@@ -1,0 +1,28 @@
+<h3>Current Curators</h3>
+
+{% for current in site.categories.current-curators do %}
+<a href="{{current.url}}" class="list-group-item">
+    <p class="pull-right"><strong>Added:</strong> {{ current.date | date: '%B %d, %Y' }}</p>
+    <h4 class="list-group-item-heading">{{current.title}}</h4>
+    <p class="list-group-item-text">{{current.excerpt}}</p>
+</a>
+{% endfor %}
+
+
+<h3>Previous Curators</h3>
+{% for previous in site.categories.previous-curators do %}
+<a href="{{previous.url}}" class="list-group-item">
+    <p class="pull-right"><strong>Added:</strong> {{ previous.date | date: '%B %d, %Y' }}</p>
+    <h4 class="list-group-item-heading">{{previous.title}}</h4>
+    <p class="list-group-item-text">{{previous.excerpt}}</p>
+</a>
+{% endfor %}
+
+<h3>Data Donors</h3>
+{% for donors in site.categories.data-donors do %}
+<a href="{{donors.url}}" class="list-group-item">
+    <p class="pull-right"><strong>Added:</strong> {{ donors.date | date: '%B %d, %Y' }}</p>
+    <h4 class="list-group-item-heading">{{donors.title}}</h4>
+    <p class="list-group-item-text">{{donors.excerpt}}</p>
+</a>
+{% endfor %}
