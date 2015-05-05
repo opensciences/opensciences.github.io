@@ -1,7 +1,7 @@
 ---
 title: nrpRealistic
 excerpt: nrp-realistic next release problem data
-layout: repo
+layout: repo-dataset
 author: Jifeng Xuan
 ---
 

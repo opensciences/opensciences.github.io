@@ -1,7 +1,7 @@
 ---
 title: cocomosdr
 excerpt: Notes on cocomo-sdr
-layout: repo
+layout: repo-dataset
 author: Ekrem Kocaguneli
 ---
 

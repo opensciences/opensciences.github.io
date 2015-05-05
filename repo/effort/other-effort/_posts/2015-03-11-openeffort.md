@@ -1,7 +1,7 @@
 ---
 title: openeffort
 excerpt: "Estimating Development Effort in Free/Open Source Software Projects by Mining Software Repositories: A Case Study of OpenStack"
-layout: repo
+layout: repo-dataset
 authors: "Gregorio Robles; Jesús M. González-Barahona; Carlos Cervigón; Andrea Capiluppi; Daniel Izquierdo-Cortázar"
 version: 4
 ---

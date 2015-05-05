@@ -1,5 +1,5 @@
 ---
 title: Spreadsheet
-layout: repopage
+layout: repo-category
 category: spreadsheet
 ---

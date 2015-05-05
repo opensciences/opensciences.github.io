@@ -1,5 +1,5 @@
 ---
 title: Green Mining
-layout: repopage
+layout: repo-category
 category: green-mining
 ---

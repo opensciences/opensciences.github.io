@@ -1,6 +1,6 @@
 ---
 title: McCabe and Halsted
-layout: repopage
+layout: repo-category
 category: mccabehalsted
 ---
 
@@ -10,4 +10,3 @@ category: mccabehalsted
   prediction, see [this tutorial](/repo/defect/tut.html).
 + For data sets that use the Halstead and McCabe metrics, see below.
 
-## Data Sets

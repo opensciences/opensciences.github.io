@@ -1,5 +1,5 @@
 ---
 title: Issues
-layout: repopage
+layout: repo-category
 category: issues
 ---

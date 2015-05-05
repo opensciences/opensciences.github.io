@@ -1,7 +1,7 @@
 ---
 title: TEMPLATE
 excerpt: "PAPER TITLE"
-layout: repo
+layout: repo-dataset
 authors: "AUTHORS; SEPARATED; BY; SEMICOLONS"
 version: 4
 ---

@@ -1,7 +1,7 @@
 ---
 title: pdftranslator
 excerpt: pdftranslator defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

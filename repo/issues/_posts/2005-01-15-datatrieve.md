@@ -1,7 +1,7 @@
 ---
 title: datatrieve
 excerpt: datatrieve
-layout: repo
+layout: repo-dataset
 author: Guenther Ruhe
 ---
 

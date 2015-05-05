@@ -1,8 +1,7 @@
 ---
 title: Defect
-layout: repopage
+layout: repo-category
 category: defect
-limit: 0
 ---
 
 In this repo:

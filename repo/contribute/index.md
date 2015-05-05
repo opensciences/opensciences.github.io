@@ -1,6 +1,6 @@
 ---
 title: How to Contribute
-layout: repopage
+layout: repo-content
 category: contribute
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: synthesis
 excerpt: Search-Based Synthesis of Equivalent Method Sequences
-layout: repo
+layout: repo-dataset
 author: Alberto Goffi
 ---
 

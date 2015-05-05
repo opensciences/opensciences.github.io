@@ -1,7 +1,7 @@
 ---
 title: maintenancebenchmarks
 excerpt: "A dataset from change history to support evaluation of software maintenance tasks"
-layout: repo
+layout: repo-dataset
 authors: "Bogdan Dit; Andrew Holtzhauer; Denys Poshyvanyk; Huzefa Kagdi"
 version: 4
 ---

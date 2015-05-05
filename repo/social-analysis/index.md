@@ -1,5 +1,5 @@
 ---
 title: Social Analysis
-layout: repopage
+layout: repo-category
 category: social-analysis
 ---

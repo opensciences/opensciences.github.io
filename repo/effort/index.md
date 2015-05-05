@@ -1,5 +1,5 @@
 ---
 title: Effort
-layout: repopage
+layout: repo-category
 category: effort
 ---

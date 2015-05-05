@@ -1,7 +1,7 @@
 ---
 title: apienergymining
 excerpt: "Mining energy-greedy API usage patterns in Android apps: an empirical study"
-layout: repo
+layout: repo-dataset
 authors: "Mario Linares-Vásquez; Gabriele Bavota; Carlos Bernal-Cárdenas; Rocco Oliveto; Massimiliano Di Penta; Denys Poshyvanyk"
 version: 4
 ---

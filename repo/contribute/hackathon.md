@@ -1,6 +1,6 @@
 ---
 title: How to fish for datasets
-layout: repopage
+layout: repo-content
 ---
 
 **_Interested in participating in a hackathon?_**

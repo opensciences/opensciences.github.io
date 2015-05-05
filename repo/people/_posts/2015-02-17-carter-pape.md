@@ -1,5 +1,5 @@
 ---
-layout: repo
+layout: repo-content
 title: Carter Pape
 category: current-curators
 excerpt: Student at North Carolina State University

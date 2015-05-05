@@ -1,7 +1,7 @@
 ---
 title: nrpClassic
 excerpt: nrp-classic next release problem data
-layout: repo
+layout: repo-dataset
 author: Jifeng Xuan
 ---
 

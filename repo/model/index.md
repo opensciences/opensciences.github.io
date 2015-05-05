@@ -1,5 +1,5 @@
 ---
 title: Model
-layout: repopage
+layout: repo-category
 category: model
 ---

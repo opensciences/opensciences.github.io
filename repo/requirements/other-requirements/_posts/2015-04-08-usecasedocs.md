@@ -1,7 +1,7 @@
 ---
 title: usecasedocs
 excerpt: "Automatic early defects detection in use case documents"
-layout: repo
+layout: repo-dataset
 authors: "Shuang Liu; Jun Sun; Yang Liu; Yue Zhang; Bimlesh Wadhwa; Jin Song Dong; Xinyu Wang"
 version: 4
 ---

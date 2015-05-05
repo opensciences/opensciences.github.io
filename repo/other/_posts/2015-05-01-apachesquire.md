@@ -1,7 +1,7 @@
 ---
 title: apachesquire
 excerpt: "Project roles in the Apache Software Foundation: A dataset"
-layout: repo
+layout: repo-dataset
 authors: "Megan Squire"
 version: 4
 ---

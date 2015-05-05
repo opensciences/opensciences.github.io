@@ -1,7 +1,7 @@
 ---
 title: wspomaganiepi
 excerpt: wspomaganiepi OO defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: Dump
-layout: repopage
+layout: repo-category
 category: dump
 ---

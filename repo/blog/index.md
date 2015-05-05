@@ -1,9 +1,7 @@
 ---
 title: Blog
-layout: repopage
+layout: repo-content
 category: blog
 ---
 
-Welcome to our blog on latest updates to the tera-Promise repository.
-
-
+Blog posts for tera-PROMISE will go here.

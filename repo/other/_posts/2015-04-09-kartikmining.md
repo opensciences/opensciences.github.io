@@ -1,7 +1,7 @@
 ---
 title: kartikmining
 excerpt: "Mining questions asked by web developers"
-layout: repo
+layout: repo-dataset
 authors: "Kartik Bajaj; Karthik Pattabiraman; Ali Mesbah"
 version: 4
 ---

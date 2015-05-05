@@ -1,7 +1,7 @@
 ---
 title: systemdata
 excerpt: systemdata defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

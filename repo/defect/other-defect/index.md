@@ -1,8 +1,5 @@
 ---
-title: Defect - other
-layout: repopage
+title: Defect - Other
+layout: repo-category
 category: other-defect
 ---
-
-## Data Sets
-

@@ -1,7 +1,7 @@
 ---
 title: huihuaprediction
 excerpt: "Defect Prediction between Software Versions with Active Learning and Dimensionality Reduction"
-layout: repo
+layout: repo-dataset
 authors: "Huihua Lu; Ekrem Kocaguneli; Bojan Cukic"
 version: 4
 ---

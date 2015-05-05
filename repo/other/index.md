@@ -1,8 +1,5 @@
 ---
 title: Other
-layout: repopage
+layout: repo-category
 category: other
 ---
-
-
-

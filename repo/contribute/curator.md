@@ -1,6 +1,6 @@
 ---
 title: Curator Instructions
-layout: repopage
+layout: repo-content
 ---
 
 The job of the curator is to take papers/data/context notes from the 

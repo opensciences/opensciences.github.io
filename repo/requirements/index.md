@@ -1,5 +1,5 @@
 ---
 title: Requirements
-layout: repopage
+layout: repo-category
 category: requirements
 ---

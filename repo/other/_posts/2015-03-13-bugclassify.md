@@ -1,7 +1,7 @@
 ---
 title: bugclassify
 excerpt: "It’s Not a Bug, It’s a Feature: Does Misclassification Affect Bug Localization?"
-layout: repo
+layout: repo-dataset
 authors: "Pavneet Singh Kochhar; Tien-Duy B. Le; David Lo"
 version: 4
 ---

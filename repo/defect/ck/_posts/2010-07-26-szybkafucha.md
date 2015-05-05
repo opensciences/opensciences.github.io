@@ -1,7 +1,7 @@
 ---
 title: szybkafucha
 excerpt: szybkafucha defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

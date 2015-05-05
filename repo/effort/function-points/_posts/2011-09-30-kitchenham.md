@@ -1,7 +1,7 @@
 ---
 title: kitchenham
 excerpt: kitchenham effort estimation
-layout: repo
+layout: repo-dataset
 author: Masateru Tsunoda
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: boetticher
 excerpt: boetticher effort estimation
-layout: repo
+layout: repo-dataset
 author: GaryBoetticher
 ---
 

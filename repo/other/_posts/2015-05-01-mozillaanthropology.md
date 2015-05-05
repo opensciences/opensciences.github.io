@@ -1,7 +1,7 @@
 ---
 title: mozillaanthropology
 excerpt: "No issue left behind: reducing information overload in issue tracking"
-layout: repo
+layout: repo-dataset
 authors: "Olga Baysal; Reid Holmes; Michael W. Godfrey"
 version: 4
 ---
