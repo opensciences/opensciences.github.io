@@ -7,8 +7,6 @@ category: repo
 
 The tera-PROMISE Repository is a _research dataset repository_ specializing in software engineering research datasets. Sponsored by the National Science Foundation, we provide **free** and **long-term storage for your research data**. 
 
-The tera-PROMISE Repository is a long-term storage solution for research data, with a focus on software engineering datasets.
-
 Datasets are stored in the categories listed on the left. These categories are not fixed (the more you contribute, the more our categories change). 
 
 This repository is an update to the older PROMISE repository hosted on a Google Code site.
