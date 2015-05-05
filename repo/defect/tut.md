@@ -1,7 +1,6 @@
 ---
 title: Tutorial on Defect Prediction
 layout: repo-content
-category: defect
 excerpt: Generating defect predictors
 ---
 

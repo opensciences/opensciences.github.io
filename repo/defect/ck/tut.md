@@ -1,7 +1,6 @@
 ---
 title: Tutorial on the CK Metrics
 layout: repo-content
-category: defect
 excerpt: Using OO Metrics
 ---
 
