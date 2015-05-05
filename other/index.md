@@ -1,6 +1,6 @@
 ---
 title: Other Open Science Portals
-layout: repopage
+layout: repo-content
 ---
 
 If you'd like to suggest a site to add, email us at [opensciences.content@gmail.com](mailto:opensciences.content@gmail.com)
