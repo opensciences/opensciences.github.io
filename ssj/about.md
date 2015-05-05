@@ -1,6 +1,5 @@
 ---
 title: About
-layout: repo
 ---
 
 ## Welcome to the tera-PROMISE Repository

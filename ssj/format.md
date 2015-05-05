@@ -1,6 +1,5 @@
 ---
 title: Formatting instructions
-layout: journal1
 ---
 
 ## Single Page Lengths
