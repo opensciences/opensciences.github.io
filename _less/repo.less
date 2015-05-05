@@ -1,0 +1,55 @@
+@import "variables.less";
+
+/* The tera-PROMISE logo div */
+#repo-logo-div {
+	height: 100px;
+	display: table;
+}
+
+/* The tera-PROMISE logo text */
+#repo-logo-text {
+	font-family: 'Courier New', Courier, monospace;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+/* The Repo Home button in navbar */
+#repo-home-button {
+	background-color: #FDAF17;
+}
+
+/* Used by the social media buttons in socialbar.html */
+.no-border {
+	border: 0px solid transparent;
+}
+
+/* Back to portal button */
+#back-to-portal {
+	background-color: @brand-info;
+	color: @gray-lighter;
+	
+	border: 1px solid @brand-info;
+	border-radius: 0px 0px @border-radius-large @border-radius-large;
+}
+#back-to-portal:hover {
+	background-color: @gray-dark;
+	color: @brand-success;
+}
+
+/* Applies correct hover color to buttons */
+.btn:hover {
+	color: @brand-success;
+}
+
+/* Reduces the excessive margin of the page header titles */
+.page-header {
+	margin-top: @line-height-computed/2;
+}
+
+.jumbotron {
+	text-align: center;
+	h1 {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+}

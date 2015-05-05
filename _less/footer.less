@@ -1,0 +1,35 @@
+/* Site footer less */
+
+// Site variables
+@import "variables.less";
+
+/****************/
+/* Footer stuff */
+/****************/
+
+footer {
+    background-color: @gray-light;
+    text-align: center;
+    color: @gray-base;
+	a {
+		color: white;
+		:hover {
+			color: @brand-success;
+		}
+	}
+    .container {
+        width: 100%;
+        padding: 10px 0px 10px 0px;
+    }
+}
+
+.centered-pills {
+    display: flex;
+    justify-content: center;
+    li {
+        :hover {
+            background-color: @gray-dark;
+        }
+    }
+}
+
