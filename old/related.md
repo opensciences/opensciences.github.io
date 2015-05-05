@@ -1,6 +1,6 @@
 ---
 title: Related Work
-layout: journal1
+layout: repo-content
 ---
 
 
