@@ -34,3 +34,8 @@ dataSizeCap: "100 MB"
 dataSizeAbsoluteCap: "500 MB"
 
 categories: [content] 
+
+# Custom "repo category" collection
+collections:
+  datacategories:
+    output: true
