@@ -1,5 +1,5 @@
 ---
 title: Cobol
-description: Cobol metrics or something
+description: Cobol
 repourl: "/repo/effort/cobol"
 ---
