@@ -37,8 +37,8 @@ You can view all of our datasets in the categories listed on the left and on the
 <div class="row">
 	<div class="col-lg-6 col-md-6">
 		<div class="well">
-			<h2>Featured dataset</h2>
-			
+			<h2>Featured dataset: <a href="/repo/spreadsheet/euses.html">EUSES</a></h2>
+			<p>This is a large sample of spreadsheets (5607 total files, 4499 of which are unique and suitable for automated processing in Excel) that researchers can use to evaluate their methodologies and tools for creating and maintaining spreadsheets.</p>
 		</div>
 	</div>
 	<div class="col-lg-6 col-md-6">
