@@ -1594,6 +1594,7 @@ input[type="radio"],input[type="checkbox"]{margin-top:1px}
 .btn:hover{color:#fdaf17}
 .page-header{margin-top:10px}
 .jumbotron{text-align:center}.jumbotron h1{margin-top:0;margin-bottom:0}
+.glyphicon-h1-size{font-size:36px}
 .breadcrumb a,.breadcrumb li{font-size:18px;text-transform:lowercase}
 .navbar-default{background-color:#777;border-color:#333}.navbar-default .navbar-brand{color:#fff}.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus{color:#fdaf17;background-color:#333;border-radius:4px 0 0 4px}
 .navbar-default .navbar-text{color:#fff}
@@ -1618,7 +1619,7 @@ footer{background-color:#777;text-align:center;color:#000}footer a{color:#fff}fo
 footer .container{width:100%;padding:10px 0 10px 0}
 .centered-pills{display:flex;justify-content:center}.centered-pills li :hover{background-color:#333}
 .thumbnail img{min-height:100px;height:100px}
-.centered{float:none;margin:0 auto}
+.centered{float:none;margin:0 auto;text-align:center}
 hr{border:1px solid #b3b3b3}
 .blue-text:hover{color:#333}
 td.gsc-search-button{border:none;padding-right:0}
