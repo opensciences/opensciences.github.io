@@ -33,9 +33,9 @@ If you own or have access to data that you (and the author(s), if you are not an
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="source">Link to the dataset</label>  
+  <label class="col-md-4 control-label" for="link-to-dataset">Link to the dataset</label>  
   <div class="col-md-8">
-  <input id="source" name="source" type="text" placeholder="Include all links if there are multiple" class="form-control input-md" required="">
+  <input id="link-to-dataset" name="link-to-dataset" type="text" placeholder="Include all links if there are multiple" class="form-control input-md" required="">
     
   </div>
 </div>
