@@ -3,7 +3,7 @@ title: How to Contribute
 layout: repo-content
 ---
 
-### _Looking for the hackathon walkthrough?_ [Click Here](/repo/contribute/hackathon.html)
+### _Looking for the hackathon walkthrough?_ [Click Here](/repo/contribute/find-data.html)
 
 We are always looking for new data to add to the PROMISE repository. The OpenScience project depends on the [many people](/repo/people) like **you** to put time and effort into maintaining and expanding this repository. People like you can make that happen by contributing! If you are a researcher who would like to donate data or if you would like to help expand the repository by attending a hackathon (approximately monthly events where we go through SE conferences to find datasets), read on.
 
@@ -21,7 +21,7 @@ You fall under this category if you are interested in helping us add datasets to
 
 ## <a name="hackathons"></a> Help us find data
 
-We will be periodically hosting what we call _hackathons_, where we systematically look through software engineering conferences and look for papers with associated datasets. If you are interested in joining one, either remotely with Google Hangouts or in person in Engineering Building II at North Carolina State University, fill out [this Google interest form](https://docs.google.com/forms/d/18s9ZLb7TTLcXVRovqRcn5YEN6Js9aJZgPfn_2qz3WFE/viewform?usp=send_form) and check out the instructions on [how to help during the hackathon](/repo/contribute/hackathon.html). {% if page.title %} {{site.hackathonInfo}}{% endif %}
+We will be periodically hosting what we call _hackathons_, where we systematically look through software engineering conferences and look for papers with associated datasets. If you are interested in joining one, either remotely with Google Hangouts or in person in Engineering Building II at North Carolina State University, fill out [this Google interest form](https://docs.google.com/forms/d/18s9ZLb7TTLcXVRovqRcn5YEN6Js9aJZgPfn_2qz3WFE/viewform?usp=send_form) and check out the instructions on [how to help during the hackathon](/repo/contribute/find-data.html). {% if page.title %} {{site.hackathonInfo}}{% endif %}
 
 <hr>
 
