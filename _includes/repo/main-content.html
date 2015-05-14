@@ -32,11 +32,13 @@
 				<div class="col-sm-12 col-md-12 col-lg-12">
 					<div class="list-group">
 						{% for dataset in site.categories.[page.category] limit: page.limit do %}
-							<a href="{{dataset.url}}" class="list-group-item">
-								<p class="pull-right"><strong>Added on:</strong> {{ dataset.date | date: '%B %d, %Y' }}</p>
-								<h4 class="list-group-item-heading">{{dataset.title}}</h4>
-								<p class="list-group-item-text">{{dataset.excerpt}}</p>
-							</a>
+							{% unless dataset.type == "news" %}
+								<a href="{{dataset.url}}" class="list-group-item">
+									<p class="pull-right"><strong>Added on:</strong> {{ dataset.date | date: '%B %d, %Y' }}</p>
+									<h4 class="list-group-item-heading">{{dataset.title}}</h4>
+									<p class="list-group-item-text">{{dataset.excerpt}}</p>
+								</a>
+							{% endunless %}
 						{% endfor %}
 					</div>
 				</div>

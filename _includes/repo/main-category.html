@@ -31,7 +31,8 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-12 col-lg-12">
 					<div class="list-group">
-						{% for dataset in site.categories.[page.category] limit: page.limit do %}
+						{% assign datasets = site.categories.[page.category] | except:"news" %}
+						{% for dataset in datasets limit: page.limit do %}
 							<a href="{{dataset.url}}" class="list-group-item">
 								<p class="pull-right"><strong>Added on:</strong> {{ dataset.date | date: '%B %d, %Y' }}</p>
 								<h4 class="list-group-item-heading">{{dataset.title}}</h4>
