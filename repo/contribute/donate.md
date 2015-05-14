@@ -5,7 +5,9 @@ category: contribute
 ---
 
 
-If you own or have access to data that you (and the author(s), if you are not an author) would like to be easily accessible through the Open Science repository, please fill out [this Google Form](http://goo.gl/7mWybm) with the appropriate information. You can also email the curators at [openscience.content@gmail.com](mailto:openscience.content@gmail.com). When we host data sets, we will include context notes about the data and the associated research. If possible, you should include in your email [context notes](/repo/contribute/#contextnotes) that we will use on the actual webpage for your data.
+If you own or have access to data that you (and the author(s), if you are not an author) would like to be easily accessible through the Open Science repository, please fill out the following form with the appropriate information. You can also email the curators at [openscience.content@gmail.com](mailto:openscience.content@gmail.com). 
+
+When we host data sets, we will include context notes about the data and the associated research. If at all possible, you should include in your email [context notes](/repo/contribute/#contextnotes) that we will use on the actual webpage for your data.
 
 
 <form class="form-horizontal" action="http://formspree.io/openscience.content@gmail.com" method="POST">
@@ -130,3 +132,41 @@ If you own or have access to data that you (and the author(s), if you are not an
 
 </fieldset>
 </form>
+
+
+## Help on the context notes
+
+### 1. Data source
+* Example: paper title, if this data is closely related to some original paper.
+
+### 2. Link to the material associated with the dataset (if available)
+* Examples:
+    * A link to the ACM digital library (for example, [http://dl.acm.org/citation.cfm?id=2635868.2635905](http://dl.acm.org/citation.cfm?id=2635868.2635905))
+    * A link to the IEEE digital library (for example, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982619](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982619))
+    * Any other documentation
+
+### 3. Attribution list for the material
+* Include at least one contact email
+* Example: author list for a paper
+
+### 4. BibTeX reference
+ * NOTE: This will be how others will cite the data.
+ * Example: BibTeX for the paper
+
+### 5. Link to the datasets
+* If multiple files come with it, include links to all files, not just the parent file
+
+### 6. PROMISE repo category (effort, requirements, model, defect, etc.)
+* Categorize the data into one of the categories in the navbar on the [OpenScience website](/repo).
+    * If it doesn't fit nicely into one of these categories, put "other" and propose a category name.
+
+### 7. General overview of the data
+* Note that, if the data is closely related to a paper, this will not be the abstract of the paper; it will be a general description of the data that provides context.
+
+### 8. Attribute info
+* If there are clearly defined columns or attributes to the data, describe each
+
+### 9. Paper abstract (if appropriate)
+
+### 10. Is this dataset part of a larger series or collection?
+* If so, link to the master index of the series or collection (if possible)
