@@ -9,7 +9,7 @@ We are always looking for new data to add to the PROMISE repository. The OpenSci
 
 There are two ways of contributing to the OpenScience project:
 
-# 1. If you have software engineering-related data sets: [Click here](/repo/contribute/donate-data)
+# 1. If you have software engineering-related data sets: [Click here](/repo/contribute/donate)
 
 You fall under this category if, for example, you are a researcher with a set of CK/spreadsheet/Cocomo data (just to name a few).
 

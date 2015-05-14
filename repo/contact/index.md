@@ -62,7 +62,7 @@ The tera-PROMISE Repository curators can be reached at [openscience.content@gmai
 </div>
 
 <!-- Formspree hidden fields -->
-<input type="hidden" name="_next" value="//openscience.us/repo" />
+<input type="hidden" name="_next" value="//openscience.us/repo/contact/thanks.html" />
 <input type="hidden" name="_subject" value="New message from tera-PROMISE contact form" />
 <input type="text" name="_gotcha" style="display:none" />
 
