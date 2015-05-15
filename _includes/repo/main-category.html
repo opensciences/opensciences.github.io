@@ -35,7 +35,7 @@
 						{% for dataset in datasets limit: page.limit do %}
 							<a href="{{dataset.url}}" class="list-group-item">
 								<p class="pull-right"><strong>Added on:</strong> {{ dataset.date | date: '%B %d, %Y' }}</p>
-								<h4 class="list-group-item-heading">{{dataset.title}}</h4>
+								<h3 class="list-group-item-heading">{{dataset.title}}</h3>
 								<p class="list-group-item-text">{{dataset.excerpt}}</p>
 							</a>
 						{% endfor %}
