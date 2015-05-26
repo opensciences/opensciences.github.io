@@ -15,7 +15,7 @@ version: 4
 
 When | What
 ---- | ----
-May 25th, 2015 | Donated by [Davy Landman](maito:davy.landman@gmail.com), Alexander Serebrenik, and Jurgen Vinju.
+May 25th, 2015 | Donated by [Davy Landman](mailto:davy.landman@gmail.com), Alexander Serebrenik, and Jurgen Vinju.
 
 # Reference
 
