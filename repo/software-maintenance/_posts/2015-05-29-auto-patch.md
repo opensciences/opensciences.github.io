@@ -10,6 +10,7 @@ author: Dongsun Kim; Jaechang Nam; Jaewoo Song; Sunghun Kim
   * [Paper Link](http://dl.acm.org/citation.cfm?id=2486893)
 
 ### Author(s)
+
 	 + [Dongsun Kim](darkrsw@cse.ust.hk)
 	 + [Jaechang Nam](jcnam@cse.ust.hk)
 	 + [Jaewoo Song](jsongab@cse.ust.hk)
