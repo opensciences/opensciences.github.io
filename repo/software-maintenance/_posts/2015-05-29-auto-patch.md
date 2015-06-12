@@ -11,7 +11,7 @@ author: Dongsun Kim; Jaechang Nam; Jaewoo Song; Sunghun Kim
 
 ### Author(s)
 
-+ [Dongsun Kim, Jaechang Nam, Jaewoo Song, Sunghun Kim](mailto:darkrsw@cse.ust.hk,jcnam@cse.ust.hk,jsongab@cse.ust.hk,jsongab@cse.ust.hk)
++ [Dongsun Kim, Jaechang Nam, Jaewoo Song, Sunghun Kim](mailto:darkrsw@cse.ust.hk,jcnam@cse.ust.hk, jsongab@cse.ust.hk, jsongab@cse.ust.hk)
 
 # Change Log
 
