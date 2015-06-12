@@ -1,0 +1,11 @@
+@misc{promiserepo,
+  authors =	 "Menzies, T., Rees-Jones, M.,
+                  Krishna, R., Pape, C.",
+  year =	 2015,
+  title =	 "The Promise Repository of
+                  Empirical Software Engineering
+                  Data",
+  notes =	 "http://openscience.us/repo.  North
+                  Carolina State University,
+                  Department of Computer Science"
+}

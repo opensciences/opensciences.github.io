@@ -5,7 +5,19 @@ limit: 5
 category: repo
 ---
 
-The tera-PROMISE Repository is a **research dataset repository** specializing in software engineering research datasets. Sponsored by the [National Science Foundation](http://www.nsf.gov/), we provide **free** and **long-term** storage for **your research data**. Our goal is to 1. be a long-term storage facility for SE research data, and 2. to be a free and open platform for finding and hosting your datasets for the benefit of the research community as a whole. **Learn more** on our [about page](/repo/about).
+The tera-PROMISE Repository is a **research dataset
+repository** specializing in software engineering
+research datasets. We offer
+**free** and **long-term** storage for **your
+research artifacts**.  **Learn more** on our [about
+page](/repo/about).
+
+**How to Reference Us**:
+
++ <em>Menzies, T., Rees-Jones, M., Krishna, R., Pape, C.
+ (2015). **The Promise Repository of Empirical Software Engineering Data**;
+ http://openscience.us/repo.
+ North Carolina State University, Department of Computer Science [bibtex](/repo/promisebib.txt).</em>
 
 You can view all of our datasets in the categories listed on the left and on the [categories page](/repo/categories).
 
