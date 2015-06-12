@@ -14,10 +14,10 @@ page](/repo/about).
 
 **How to Reference Us**:
 
-+ Menzies, T., Rees-Jones, M., Krishna, R., Pape, C.
++ <em>Menzies, T., Rees-Jones, M., Krishna, R., Pape, C.
  (2015). **The Promise Repository of Empirical Software Engineering Data**;
  http://openscience.us/repo.
- North Carolina State University, Department of Computer Science [bibtex](/repo/promisebib.txt).
+ North Carolina State University, Department of Computer Science [bibtex](/repo/promisebib.txt).</em>
 
 You can view all of our datasets in the categories listed on the left and on the [categories page](/repo/categories).
 
