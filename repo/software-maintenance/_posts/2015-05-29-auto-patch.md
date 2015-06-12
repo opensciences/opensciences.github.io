@@ -19,6 +19,25 @@ When | What
 ---- | ----
 March 26th, 2015 | Donated by [Dongsun Kim]()
 
+# Reference
+Studies who have been using the data (in any form) are required to include the following reference:
+```
+@inproceedings{Kim:2013:APG:2486788.2486893,
+ author = {Kim, Dongsun and Nam, Jaechang and Song, Jaewoo and Kim, Sunghun},
+ title = {Automatic Patch Generation Learned from Human-written Patches},
+ booktitle = {Proceedings of the 2013 International Conference on Software Engineering},
+ series = {ICSE '13},
+ year = {2013},
+ isbn = {978-1-4673-3076-3},
+ location = {San Francisco, CA, USA},
+ pages = {802--811},
+ numpages = {10},
+ url = {http://dl.acm.org/citation.cfm?id=2486788.2486893},
+ acmid = {2486893},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+}
+```
 # About the Data
 
 ## Overview of Data
