@@ -9,7 +9,7 @@ version: 4
 #URL
 
 * [Data Source (External)](https://www.dropbox.com/s/34n2t89exgsap8c/jira_backup_20141215.sql.zip?dl=0)
-* [Paper in ACM Digital Library]()
+* [Paper]()
 
 #Change Log
 
