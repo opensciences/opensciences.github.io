@@ -25,14 +25,11 @@ Studies who have been using the data (in any form) are required to include the f
 
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+### Overview of Data
 
-Issue tracking systems store valuable data for testing hypotheses concerning maintenance, building statistical prediction models and recently investigating developers ``affectiveness". 
-In particular, the Jira Issue Tracking System is a proprietary tracking system that has gained a tremendous popularity in the last years and offers unique features like the project management system and the Jira agile kanban board. 
-This paper presents a dataset extracted from the Jira ITS of four popular open source ecosystems (as well as the tools and infrastructure used for extraction) the Apache Software Foundation, Spring, JBoss and CodeHaus communities. Our dataset hosts more than 1K projects, containing more than 700K issue reports and more than 2 million issue comments. Using this data, we have been able to deeply study the communication process among developers, and how this aspect affects the development process. Furthermore, comments posted by developers contain not only technical information, but also valuable information about sentiments and emotions. 
-Since sentiment analysis and human aspects in software engineering are gaining more and more importance in the last years, with this repository we would like to encourage further studies in this direction.
+This paper presents a dataset extracted from the Jira ITS of four popular open source ecosystems (as well as the tools and infrastructure used for extraction) the Apache Software Foundation, Spring, JBoss and CodeHaus communities. The dataset hosts more than 1K projects, containing more than 700K issue reports and more than 2 million issue comments. Using this data, the authors have been able to deeply study the communication process among developers, and how this aspect affects the development process. Furthermore, comments posted by developers contain not only technical information, but also valuable information about sentiments and emotions. The full dataset (comprising the Apache projects) hosts 3516 tasks, 16173 les and 25306 comments by 1375 authors.
 
-# Abstract
+### Abstract
 Issue tracking systems store valuable data for testing hypotheses concerning maintenance, building statistical prediction models and the social interactions of developers when interacting with peers. In particular, the Jira Issue Tracking System (ITS) is a proprietary tracking system that has gained a tremendous popularity in the last years and offers unique features like a project management system and the Jira agile kanban board. This paper presents a dataset extracted from the Jira ITS of four popular open source ecosystems (as well as the tools and infrastructure used for extraction), i.e., the Apache Software Foundation, Spring, JBoss and CodeHaus communities. Our dataset hosts more than 1K projects, containing more than 700K issue reports and more than 2 million issue comments. Using this data, we have been able to deeply study the communication process among developers, and how this aspect aspects the development process. For example, we found that comments posted by developers contain not only technical information, but also valuable information about sentiments and emotions. With this repository we would like to encourage further studies in these directions.
