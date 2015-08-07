@@ -6,8 +6,8 @@ authors: "Marco Ortu; Giuseppe Destefanis; Alessandro Murgia; Michele Marchesi1;
 version: 4
 ---
 
-# Paper
-* [The JIRA Repository Dataset: Understanding Social Aspects of Software Development]()
+# Paper 
+#### [The JIRA Repository Dataset: Understanding Social Aspects of Software Development]()
 
 # URL
 
