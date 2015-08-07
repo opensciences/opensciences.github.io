@@ -17,7 +17,7 @@ version: 4
 
 When | What
 ---- | ----
-June 15th, 2015 | Donated by [Marco Ortu, Giuseppe Destefanis, Alessandro Murgia, Michele Marchesi1, Roberto Tonelli, Bram Adams](mailto:marco.ortu@diee.unica.it,michele@diee.unica.it,roberto.tonelli@diee.unica.it,giuseppe.destefanis@crim.ca,alessandro.murgia@uantwerpen.be,bram.adams@polymtl.ca)
+June 15th, 2015 | Donated by [Marco Ortu, Giuseppe Destefanis, Alessandro Murgia, Michele Marchesi, Roberto Tonelli, Bram Adams](mailto:marco.ortu@diee.unica.it,michele@diee.unica.it,roberto.tonelli@diee.unica.it,giuseppe.destefanis@crim.ca,alessandro.murgia@uantwerpen.be,bram.adams@polymtl.ca)
 
 #Reference
 
