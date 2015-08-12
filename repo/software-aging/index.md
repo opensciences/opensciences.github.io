@@ -42,5 +42,16 @@ The data sets in this category are a collection of research artifacts in "Softwa
 - Datasets on software aging bugs (similarly to datasets for defect prediction studies), by including software complexity metrics
 - Models for rejuvenation scheduling (i.e., textual files for software reliability modeling tools, such as [SHARPE](http://sharpe.pratt.duke.edu/))
 
+### Reference
+Studies who have been using the data (in any form) are required to include the following reference:
+``` 
+@inproceedings{sarry,
+title={{The Software Aging and Rejuvenation Repository}},
+author={Cotroneo, Domenico and Iannillo, Antonio Ken and Natella, Roberto and Russo, Stefano},
+booktitle={Software Aging and Rejuvenation (WoSAR), 2015 IEEE Seventh International Workshop on (under submission)},
+year={2015},
+organization={IEEE}
+}
+```
 ## Data 
 
