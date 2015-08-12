@@ -1,5 +1,5 @@
 ---
-title: SAR
+title: Aging related bugs metrics
 excerpt: Software Aging and Rejuvenation
 layout: repo-dataset
 author: Roberto Natella
@@ -9,7 +9,6 @@ author: Roberto Natella
  Data from authors website
  
   - [Aging related bugs metrics](http://wpage.unina.it/roberto.natella/datasets/aging_related_bugs_metrics/)
-  - [mandelbugs_oss](http://wpage.unina.it/roberto.natella/datasets/mandelbugs_oss/)
   
 ### Author(s)
 
