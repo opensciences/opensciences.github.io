@@ -1,5 +1,5 @@
 ---
-title: Software Aging
+title: Software Aging and Rejuvenation
 layout: repo-category
 category: software-aging
 ---
