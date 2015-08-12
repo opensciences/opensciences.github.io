@@ -42,7 +42,7 @@ The data sets in this category are a collection of research artifacts in "Softwa
 - Datasets on software aging bugs (similarly to datasets for defect prediction studies), by including software complexity metrics
 - Models for rejuvenation scheduling (i.e., textual files for software reliability modeling tools, such as [SHARPE](http://sharpe.pratt.duke.edu/))
 
-### Reference
+## Reference
 Studies who have been using the data (in any form) are required to include the following reference:
 ``` 
 @inproceedings{sarry,
