@@ -48,7 +48,7 @@ Studies who have been using the data (in any form) are required to include the f
 @inproceedings{sarry,
 title={{The Software Aging and Rejuvenation Repository}},
 author={Cotroneo, Domenico and Iannillo, Antonio Ken and Natella, Roberto and Russo, Stefano},
-booktitle={Software Aging and Rejuvenation (WoSAR), 2015 IEEE Seventh International Workshop on (under submission)},
+booktitle={Software Aging and Rejuvenation (WoSAR), 2015 IEEE 7th International. Workshop on (under submission)},
 year={2015},
 organization={IEEE}
 }
