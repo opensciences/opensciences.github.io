@@ -18,7 +18,7 @@ the optimal rejuvenation time (the rejuvenation period should be high enough to 
 but should be low enough to anticipate aging failures). A comprehensive survey of this research
 can be found in the following paper: 
 
-[A survey of software aging and rejuvenation studies](http://dl.acm.org/citation.cfm?id=2539117)
+[Domenico Cotroneo, Roberto Natella, Roberto Pietrantuono, and Stefano Russo. 2014. A survey of software aging and rejuvenation studies. J. Emerg. Technol. Comput. Syst. 10, 1, Article 8 (January 2014), 34 pages.](http://dl.acm.org/citation.cfm?id=2539117)
 
 In the last decade, a community of active researchers has formed around these topics.
 Several publications on SAR have been presented at the ISSRE and at the DSN conferences;
