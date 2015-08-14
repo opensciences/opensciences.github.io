@@ -23,7 +23,7 @@ August 08th, 2015 | Donated by [Roberto Natella](mailto:roberto.natella@unina.it
 Studies who have been using the data (in any form) are required to include the following reference:
 ``` 
 @inproceedings{cotroneo2013fault,
-  title={{Fault Triggers in Open-Source Software: An Experience Report}},
+  title={Fault Triggers in Open-Source Software: An Experience Report},
   author={Cotroneo, Domenico and Grottke, Michael and Natella, Roberto and Pietrantuono, Roberto and Trivedi, Kishor S},
   booktitle={Software Reliability Engineering (ISSRE), 2013 IEEE 24th International Symposium on},
   pages={178--187},
