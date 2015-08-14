@@ -24,7 +24,7 @@ August 08th, 2015 | Donated by [Roberto Natella](mailto:roberto.natella@unina.it
 Studies who have been using the data (in any form) are required to include the following reference:
 ``` 
 @article{cotroneo2013predicting,
-  title={{Predicting Aging-Related Bugs using Software Complexity Metrics}},
+  title={Predicting Aging-Related Bugs using Software Complexity Metrics},
   author={Cotroneo, Domenico and Natella, Roberto and Pietrantuono, Roberto},
   journal={Performance Evaluation},
   volume={70},
