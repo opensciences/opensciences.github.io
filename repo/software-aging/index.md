@@ -35,7 +35,7 @@ More information can be found on the website of the WoSAR workshops:
 
 ## Overview of Data
 
-The data sets in this category are a collection of research artifacts in "Software Aging and Rejuvenation" (SAR). Contributed by a group of researchers from the Federico II University of Naples, Italy. This is a growing repository with data being collected from SAR researchers and some of their well known studies. The artifacts that would be included in the repository are:
+The data sets in this category are a collection of research artifacts in "Software Aging and Rejuvenation" (SAR). This is a growing repository with data being collected from SAR researchers and some of their well known studies. The artifacts that would be included in the repository are:
 
 - Metrics on performance, resource consumption and failures collected at run-time from deployed software systems
 - Metrics on performance, resource consumption and failures collected during stress tests of software systems
