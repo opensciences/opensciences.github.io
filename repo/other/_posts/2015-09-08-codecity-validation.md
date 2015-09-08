@@ -1,5 +1,5 @@
 ---
-title: codecity-validation
+title: Empirical validation of CodeCity: A controlled experiment
 excerpt: "Empirical validation of CodeCity: A controlled experiment"
 layout: repo-dataset
 authors: "Richard Wettel; Michele Lanza; Romain Robbes"
