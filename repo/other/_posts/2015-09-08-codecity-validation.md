@@ -8,7 +8,7 @@ version: 4
 
 #URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/codecity-validation)
+* [Data in Research Paper](http://www.inf.usi.ch/faculty/lanza/Downloads/Wett2010a.pdf)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1985868)
 
 #Change Log
