@@ -3,3 +3,4 @@ This is the source code for [openscience.us](http://openscience.us), a data repo
 
 # Theme
 The theme used in this site is based on the [Yeti theme](http://bootswatch.com/yeti/) from [bootswatch.com](bootswatch.com).
+
