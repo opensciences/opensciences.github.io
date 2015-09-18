@@ -13,8 +13,14 @@
 Note that your mission is to take the papers maked in **yellow** in the 
 issues list and enter their details into the **forms entry sceen**.
 
+<img src="http://snag.gy/8S3fl.jpg" align=right width=400>
+
+A little background is needed to explain the colors in the issue list. These color are assigned by the PROMISE custodians as they work on who gets to read what appers. First, they find a conference. Then, they bust up the table of contents into chunks (of, say, 20 papers each) after which someone has a quick peel to see if any have data. If they do, then they get marked in yellow in the issue list.
+
 ## Step3: Repeat till Bordered
 
-Find a yellow issue (the "may have data
+Find any yellow issue (the "the may have datalabel)
+
+
 
  
