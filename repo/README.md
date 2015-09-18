@@ -13,7 +13,7 @@
 Note that your mission is to take the papers maked in **yellow** in the 
 issues list and enter their details into the **forms entry sceen**.
 
-<img src="http://snag.gy/uUQar.jpg" align=right width=400>
+<img src="http://snag.gy/uUQar.jpg" align=right width=250>
 
 A little background is needed to explain the colors in the issue list. These color are assigned by the PROMISE custodians as they work on who gets to read what appers. First, they find a conference. Then, they bust up the table of contents into chunks (of, say, 20 papers each) after which someone has a quick peel to see if any have data. If they do, then they get marked in yellow in the issue list.
 
@@ -31,6 +31,7 @@ A little background is needed to explain the colors in the issue list. These col
 6. Also, if the paper mentions some web-accessible tool, add a label "Tool"
 7. Goto 1
 
+<br clear=all>
 ## Step 3.3a: Filling in a Form
 
 YOu will need a concise (short) one word name for the data (use "-" to seperate words if you need to).
