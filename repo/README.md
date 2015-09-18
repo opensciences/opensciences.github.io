@@ -34,9 +34,10 @@ A little background is needed to explain the colors in the issue list. These col
 <br clear=all>
 ## Step 3.3a: Filling in a Form
 
-YOu will need a concise (short) one word name for the data (use "-" to seperate words if you need to).
-
 <img src="http://snag.gy/W1bRe.jpg" align=right>
+You will need a concise (short) one word name for the data (use "-" to seperate words if you need to).
+
+
 For _Catagories_, see the list LHS of openscience.us/repo. FYI, the current categories are shown on right.
 
 + If you can't see a suitable category, [email us](mailto:openscience.content@gmail.com) with the paper link and we will add one.
