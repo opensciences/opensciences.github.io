@@ -34,7 +34,7 @@ A little background is needed to explain the colors in the issue list. These col
 <br clear=all>
 ## Step 3.3a: Filling in a Form
 
-<img src="http://snag.gy/W1bRe.jpg" align=right>
+<img src="http://snag.gy/W1bRe.jpg" width=250 align=right>
 You will need a concise (short) one word name for the data (use "-" to seperate words if you need to).
 
 
