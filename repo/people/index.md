@@ -13,7 +13,7 @@ The tera-PROMISE Repository is made possible thanks to the efforts of many peopl
  * Mitch Rees-Jones
  * Rahul Krishna
  * Carter Pape
-
+ * David Pryor
 
 ## Dataset finders
 
