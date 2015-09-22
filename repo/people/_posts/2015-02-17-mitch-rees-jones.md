@@ -14,4 +14,4 @@ then, I've added a bunch of datasets to the repo and overhauled the site with Bo
 My interests include entrepreneurship, artificial intelligence, cognitive computing, and data analytics
 (none of which I have considerable experience in, but I'm getting there).
 
-See more at [reesjones.github.io](reesjones.github.io).
+See more at [reesjones.github.io](http://reesjones.github.io).
