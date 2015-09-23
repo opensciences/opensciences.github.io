@@ -9,11 +9,11 @@ We are always looking for new data to add to the PROMISE repository. The OpenSci
 
 There are two ways of contributing to the OpenScience project:
 
-# 1. If you have software engineering-related data sets: [Click here](/repo/contribute/donate)
+# 1. If you have software engineering-related data sets: [Click here](/repo/contribute/donate.html)
 
 You fall under this category if, for example, you are a researcher with a set of CK/spreadsheet/Cocomo data (just to name a few).
 
-# 2. If you want to help us find datasets: [Click here](/repo/contribute/find-data)
+# 2. If you want to help us find datasets: [Click here](/repo/contribute/find-data.html)
 
 You fall under this category if you are interested in helping us add datasets to tera-PROMISE by going through software engineering conferences to look for research papers that have SE datasets associated with them.
 
