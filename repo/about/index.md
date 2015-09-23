@@ -26,7 +26,7 @@ Current Curators | Previous Curators        |   Data Finders
 Tim Menzies      | Mike Chapman (v0)        | Behjat Slt
 Carter Pape      | Justin DiStefano (v0)    | George Mathew
 Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdhir
-                 | Tim Menzies (v2, v3, v4) | Ben Province
+David Pryor      | Tim Menzies (v2, v3, v4) | Ben Province
                  | Bora Caglayan (v3)       | Wei Fu
                  | Zhimin He (v3)           | Rahul Krishna
                  | Ekrem Kocaguneli (v3)    | Davide Fucci
@@ -59,7 +59,7 @@ This is version four of the Promise repository:
 
 _Founders_: Tim Menzies, Jelber Sayyad
 
-#### _Curators_: 
+#### _Curators_:
 
 (If we missed your name, please [email us](mailto:openscience.content@gmail.com) to add you in.)
 
