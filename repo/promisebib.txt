@@ -1,6 +1,6 @@
 @misc{promiserepo,
   authors =	 "Menzies, T., Rees-Jones, M.,
-                  Krishna, R., Pape, C.",
+                  Krishna, R., Pape, C., Pryor, D.",
   year =	 2015,
   title =	 "The Promise Repository of
                   Empirical Software Engineering
