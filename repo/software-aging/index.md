@@ -44,7 +44,7 @@ The data sets in this category are a collection of research artifacts in "Softwa
 
 ## Reference
 Studies who have been using the data (in any form) are required to include the following reference:
-``` 
+```
 @inproceedings{sarry,
   title={The Software Aging and Rejuvenation Repository},
   author={Cotroneo, Domenico and Iannillo, Antonio Ken and Natella, Roberto and Pietrantuono, Roberto and Russo, Stefano},
