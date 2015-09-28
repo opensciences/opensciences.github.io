@@ -52,7 +52,6 @@ Studies who have been using the data (in any form) are required to include the f
   year={2015},
   organization={IEEE}
 }
-
 ```
 ## Data 
 
