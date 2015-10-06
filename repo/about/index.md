@@ -67,5 +67,5 @@ _Founders_: Tim Menzies, Jelber Sayyad
 + _Version 1_ : Jelber Sayyad
 + _Version 2_ : Tim Menzies
 + _Version 3_ : Bora Caglayan, Zhimin He, Ekrem Kocaguneli, Joe Krall, Tim Menzies, Fayola Peters, Burak Turhan
-+ _Version 4_: Tim Menzies, Carter Pape, Corbin Steele, Mitch Rees-Jones
++ _Version 4_: Tim Menzies, Carter Pape, Corbin Steele, Mitch Rees-Jones, David Pryor
 
