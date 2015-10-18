@@ -1,6 +1,6 @@
 ---
-title: A Dataset for Evaluating Identifier Splitters
-excerpt: ""
+title: Identifier Splitters
+excerpt: "A Dataset for Evaluating Identifier Splitters"
 layout: repo-dataset
 authors: "David Binkley; Dawn Lawrie; Lori Pollock; Emily Hill; K. Vijay-Shanker"
 version: 4
