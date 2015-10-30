@@ -39,7 +39,7 @@ When we host data sets, we will include context notes about the data and the ass
   <label class="col-md-4 control-label" for="category">Suggested category</label>
   <div class="col-md-8">
     <select id="category" name="category" class="form-control input-md" required>
-      <option value="" disabled selected></option>
+      <option value="" disabled selected>Category</option>
       {% for category in site.datacategories %}
       <option>{{category.title}}</option>
       {% endfor %}
