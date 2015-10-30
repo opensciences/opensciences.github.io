@@ -13,11 +13,6 @@
 	<h2>Data Categories</h2>
 
 	<ul class="nav nav-pills nav-stacked" id="category-list">
-		<li><a href="/repo/bad-smells">
-			Bad Smells
-			<span class="badge">{{site.categories.bad-smells | size }}</span>
-		</a></li>
-
         <li><a href="/repo/code-analysis">
 			Code Analysis
 			<span class="badge">{{site.categories.code-analysis | size }}</span>
@@ -26,6 +21,11 @@
 		<li><a href="/repo/defect">
 			Defect
 			<span class="badge">{{site.categories.defect | size }}</span>
+		</a></li>
+
+        <li><a class="subcategory" href="/repo/defect/bad-smells">
+			Bad Smells
+			<span class="badge">{{site.categories.bad-smells | size }}</span>
 		</a></li>
 
 		<li><a class="subcategory" href="/repo/defect/ck">

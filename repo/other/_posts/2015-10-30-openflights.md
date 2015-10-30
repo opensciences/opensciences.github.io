@@ -8,14 +8,14 @@ version: 4
 
 #URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/CATEGORY/TITLE)
-* [Paper in Digital Library](LINK TO PAPER)
+* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/openflights)
+* [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2818860#abstract)
 
 #Change Log
 
 When | What
 ---- | ----
-October 30th, 2015 | Donated by [](/repo/people/data-donors/promise4.html)
+October 30th, 2015 | Donated by [Andrian Marcus](mailto: amarcusatutdallas.edu)
 
 #Reference
 
