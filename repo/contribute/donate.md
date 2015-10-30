@@ -46,7 +46,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="link-to-dataset">Link to the dataset</label>
   <div class="col-md-8">
-  <input id="link-to-dataset" name="link-to-dataset" type="text" placeholder="Include all links if there are multiple" class="form-control input-md" required>
+  <input id="link-to-dataset" name="link-to-dataset" type="url" placeholder="Include all links if there are multiple" class="form-control input-md" required>
 
   </div>
 </div>
@@ -64,7 +64,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="paper-link">Link to the material associated with the dataset (if available)</label>
   <div class="col-md-8">
-  <input id="paper-link" name="paper-link" type="text" placeholder="Example: Paper in ACM Digital Library" class="form-control input-md">
+  <input id="paper-link" name="paper-link" type="url" placeholder="Example: Paper in ACM Digital Library" class="form-control input-md" required>
 
   </div>
 </div>
@@ -73,7 +73,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="authors">Attribution list for material</label>
   <div class="col-md-4">
-    <textarea class="form-control" id="authors" name="authors">Example: an author list (include at least one email)</textarea>
+    <textarea class="form-control" placeholder="Example: an author list (include at least one email)" id="authors" name="authors"></textarea>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="bibtex">BibTeX Reference</label>
   <div class="col-md-4">
-    <textarea class="form-control" id="bibtex" name="bibtex">This will be how others cite the data.</textarea>
+    <textarea class="form-control" placeholder="This will be how others cite the data." id="bibtex" name="bibtex"></textarea>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="overview">General overview of data</label>
   <div class="col-md-4">
-    <textarea class="form-control" id="overview" name="overview">Provide us with some background info here.</textarea>
+    <textarea class="form-control" placeholder="Provide us with some background info here." id="overview" name="overview"></textarea>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="attributes">Attribute information</label>
   <div class="col-md-4">
-    <textarea class="form-control" id="attributes" name="attributes">Give us some context about the attributes, if applicable.</textarea>
+    <textarea class="form-control" palceholder="Give us some context about the attributes, if applicable." id="attributes" name="attributes"></textarea>
   </div>
 </div>
 
