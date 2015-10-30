@@ -34,11 +34,16 @@ When we host data sets, we will include context notes about the data and the ass
   </div>
 </div>
 
-<!-- Text input-->
+<!-- Select input-->
 <div class="form-group">
   <label class="col-md-4 control-label" for="category">Suggested category</label>
   <div class="col-md-8">
-  <input id="category" name="category" type="text" placeholder="Examples: Cocomo, Green Mining, NRP" class="form-control input-md" required>
+    <select id="category" name="category" class="form-control input-md" required>
+      <option value="" disabled selected></option>
+      {% for category in site.datacategories %}
+      <option>{{category.title}}</option>
+      {% endfor %}
+    </select>
   </div>
 </div>
 
