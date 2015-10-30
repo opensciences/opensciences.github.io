@@ -97,7 +97,7 @@ When we host data sets, we will include context notes about the data and the ass
 <div class="form-group">
   <label class="col-md-4 control-label" for="attributes">Attribute information</label>
   <div class="col-md-4">
-    <textarea class="form-control" palceholder="Give us some context about the attributes, if applicable." id="attributes" name="attributes"></textarea>
+    <textarea class="form-control" placeholder="Give us some context about the attributes, if applicable." id="attributes" name="attributes"></textarea>
   </div>
 </div>
 
