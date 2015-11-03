@@ -24,9 +24,9 @@ The Open Science tera-PROMISE repository has been made possible and is maintaine
 Current Curators | Previous Curators        |   Data Finders
 -----------------|--------------------------|------------------
 Tim Menzies      | Mike Chapman (v0)        | Behjat Slt
-Carter Pape      | Justin DiStefano (v0)    | George Mathew
-Mitch Rees-Jones | Jelber Sayyad (v1)       | Amal Boukhdhir
-David Pryor      | Tim Menzies (v2, v3, v4) | Ben Province
+David Pryor      | Justin DiStefano (v0)    | George Mathew
+                 | Jelber Sayyad (v1)       | Amal Boukhdhir
+                 | Tim Menzies (v2, v3, v4) | Ben Province
                  | Bora Caglayan (v3)       | Wei Fu
                  | Zhimin He (v3)           | Rahul Krishna
                  | Ekrem Kocaguneli (v3)    | Davide Fucci
