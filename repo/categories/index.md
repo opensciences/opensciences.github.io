@@ -8,11 +8,11 @@ This is a listing of all dataset categories currently being maintained on tera-P
 **Note:** Category descriptions are under construction as of May 11th.
 
 {% for category in site.datacategories %}
-<div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
-<a href="{{category.repourl}}">
+<div>
+<a class="btn col-lg-3 col-md-4 col-sm-6 col-xs-6" style="margin-bottom:4px;white-space: normal;" href="{{category.repourl}}">
   <div class="well">
   <h3 class="page-header">{{category.title}}</h3>
-  {{category.description}}
+  <span style="font-weight:normal;">{{category.description}}</span>
   </div>
 </a>
 </div>
