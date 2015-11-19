@@ -19,8 +19,6 @@ page](/repo/about).
  http://openscience.us/repo.
  North Carolina State University, Department of Computer Science [bibtex](/repo/promisebib.txt).</em>
 
-You can view all of our datasets in the categories listed on the left and on the [categories page](/repo/categories).
-
 <br>
 
 <div class="row">
