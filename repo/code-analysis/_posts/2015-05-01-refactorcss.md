@@ -1,7 +1,7 @@
 ---
 title: refactorcss
 excerpt: "Discovering refactoring opportunities in cascading style sheets"
-layout: repo
+layout: repo-dataset
 authors: "Davood Mazinanian; Nikolaos Tsantalis; Ali Mesbah"
 version: 4
 ---
@@ -9,7 +9,7 @@ version: 4
 #URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/code-analysis/refactorcss)
-* [Paper in ACM, IEEE, OR WHATEVER IT IS Digital Library](http://dl.acm.org/citation.cfm?id=2635879)
+* [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635879)
 
 #Change Log
 

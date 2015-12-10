@@ -1,7 +1,7 @@
 ---
 title: bugreport
 excerpt: bugreport recommender system data
-layout: repo
+layout: repo-dataset
 author: MartinPinzger and EmanuelGiger
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Board
-layout: journal1
 ---
 
 <img src="/img/gd.png" width=250 align=right>

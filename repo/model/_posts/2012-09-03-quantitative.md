@@ -1,7 +1,7 @@
 ---
 title: quantitative
 excerpt: This data set is a quantitative goal model of an ambulance service system.
-layout: repo
+layout: repo-dataset
 author: Emmanuel Leiter
 ---
 

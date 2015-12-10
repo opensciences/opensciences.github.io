@@ -1,7 +1,7 @@
 ---
 title: intercafe
 excerpt: intercafe OO defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

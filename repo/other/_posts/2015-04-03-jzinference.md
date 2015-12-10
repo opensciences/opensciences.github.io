@@ -1,7 +1,7 @@
 ---
 title: jzinference
 excerpt: "Search-based inference of polynomial metamorphic relations"
-layout: repo
+layout: repo-dataset
 authors: "Jie Zhang; Junjie Chen; Dan Hao; Yingfei Xiong; Bing Xie; Lu Zhang; Hong Mei"
 version: 4
 ---

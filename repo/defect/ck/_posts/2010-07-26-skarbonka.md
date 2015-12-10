@@ -1,7 +1,7 @@
 ---
 title: skarbonka
 excerpt: skarbonka defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Context Notes
-layout: repopage
+layout: repo-content
 ---
 
 Datasets added to the PROMISE repository must have context notes so that people accessing the datasets in the repository know what it's about. As we centralize research data, it is important to also centralize the knowledge associated with that data in the form of context notes outlined here.

@@ -1,7 +1,7 @@
 ---
 title: termoproject
 excerpt: termoproject defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

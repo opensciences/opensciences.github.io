@@ -1,5 +1,5 @@
 ---
-layout: repo
+layout: repo-content
 title: February 13th 2015 hackathon
 category: data-finders
 excerpt: Data finders from the Feb. 13th, 2015 hackathon

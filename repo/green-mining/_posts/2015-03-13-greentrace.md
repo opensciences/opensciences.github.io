@@ -1,7 +1,7 @@
 ---
 title: greentrace
 excerpt: "Green Dataset: A Dataset for Mining the Impact of Software Change on Energy Consumption"
-layout: repo
+layout: repo-dataset
 authors: "Chenlei Zhang"
 version: 4
 ---

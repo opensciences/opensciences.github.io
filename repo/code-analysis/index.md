@@ -1,5 +1,5 @@
 ---
 title: Code Analysis
-layout: repopage
+layout: repo-category
 category: code-analysis
 ---

@@ -1,6 +1,6 @@
 ---
 title: CK Metrics
-layout: repopage
+layout: repo-category
 category: ck
 ---
 
@@ -9,7 +9,3 @@ category: ck
 + For notes on the use of these metris in defect
   prediction, see [this tutorial](/repo/defect/tut.html).
 + For data sets that use the CK metrics, see below.
-
-## Data Sets
-
-

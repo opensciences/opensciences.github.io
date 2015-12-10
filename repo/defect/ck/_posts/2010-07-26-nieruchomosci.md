@@ -1,7 +1,7 @@
 ---
 title: nieruchomosci
 excerpt: nieruchomosci OO defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 

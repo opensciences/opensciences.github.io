@@ -1,0 +1,133 @@
+/* Site nav less */
+
+// Site variables
+@import "variables.less";
+
+@navbar-margin-bottom:             @line-height-computed/2;
+
+
+/*********************/
+/* Site path styling */
+/*********************/
+
+.breadcrumb a, .breadcrumb li {
+	font-size: @font-size-h4;
+	text-transform: lowercase;
+}
+
+
+/******************/
+/* Navbar styling */
+/******************/
+@bgDefault      : #777777;
+@bgHighlight    : #333333;
+@colDefault     : #ffffff;
+@colHighlight   : #fdaf17;
+@dropDown       : true;
+.ddm() when (@dropDown) {
+  > .dropdown-menu {
+    background-color: @bgDefault;
+    > li > a {
+      color: @colDefault;
+      &:hover,  &:focus {
+        color: @colHighlight;
+        background-color: @bgHighlight; }}
+    .divider {
+      background-color: @bgHighlight;}}}
+.navbar-default {
+  background-color: @bgDefault;
+  border-color: @bgHighlight;
+  .navbar-brand {
+    color: @colDefault;
+    &:hover, &:focus { 
+      color: @colHighlight; background-color: @gray-dark; 
+		border-radius: @border-radius-base 0px 0px @border-radius-base; }}
+  .navbar-text {
+    color: @colDefault; }
+  .navbar-nav {
+    > li {
+      > a {
+        color: @colDefault;
+        &:hover,  &:focus {
+          color: @colHighlight; }}
+      .ddm }
+    > .active {
+      > a, > a:hover, > a:focus {
+        color: @colHighlight;
+        background-color: @bgHighlight; }}
+    > .open {
+      > a, > a:hover, > a:focus {
+        color: @colHighlight;
+        background-color: @bgHighlight; }}}
+  .navbar-toggle {
+    border-color: @bgHighlight;
+    &:hover, &:focus {
+      background-color: @bgHighlight; }
+    .icon-bar {
+      background-color: @colDefault; }}
+  .navbar-collapse,
+  .navbar-form {
+    border-color: @colDefault; }
+  .navbar-link {
+    color: @colDefault;
+    &:hover {
+      color: @colHighlight; }}}
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu {
+    > li > a {
+      color: @colDefault;
+      &:hover, &:focus {
+        color: @colHighlight; }}
+    > .active {
+      > a, > a:hover, > a:focus {
+        color: @colHighlight;
+        background-color: @bgHighlight; }}}
+}
+
+
+/* Hover color of navbar list elements */
+.navbar li:hover {
+	background-color: @gray-dark;
+}
+
+/* Hover color of navbar header element */
+.navbar-brand:hover {
+	background-color: @gray-dark;
+}
+
+
+/************************/
+/* Left category navbar */
+/************************/
+
+/* Leftbar */
+#leftbar {
+    background-color: @gray-lighter;
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+	border-radius: 0px 0px @border-radius-base 0px;
+	height: auto;
+}
+
+/* li elements in the category ul in leftbar */
+#category-list {
+	li {
+		:hover {
+			background-color: @gray-dark;
+		}
+		
+		a {
+			padding-top: 5px;
+			padding-bottom: 5px;
+		}
+	}
+	span:hover {
+		background-color: @gray-light;
+	}
+}
+
+/* A subcategory in leftbar */
+.subcategory {
+    margin-left: 25px;
+}
+

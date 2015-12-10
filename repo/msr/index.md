@@ -1,5 +1,5 @@
 ---
 title: MSR
-layout: repopage
+layout: repo-category
 category: msr
 ---

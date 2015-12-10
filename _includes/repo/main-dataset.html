@@ -1,0 +1,32 @@
+<div class="col-sm-9 col-md-9 col-lg-10">
+
+	<!-- Content and right column -->
+	<div class="row"> 
+		<div class="col-sm-12 col-md-12 col-lg-10">
+			{% include repo/menubar.html %}
+			<div class="reset-box-sizing">
+				<script>
+				  (function() {
+				    var cx = '001307444973515769875:u9zj-czbzek';
+				    var gcse = document.createElement('script');
+				    gcse.type = 'text/javascript';
+				    gcse.async = true;
+				    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				        '//www.google.com/cse/cse.js?cx=' + cx;
+				    var s = document.getElementsByTagName('script')[0];
+				    s.parentNode.insertBefore(gcse, s);
+				  })();
+				</script>
+				<gcse:search></gcse:search>
+			</div>
+			{% include repo/sitepath.html %}
+			
+			<h1 class="page-header">{{page.title}}</h1>
+			{{ content }}
+			
+			
+		</div>
+		
+			{% include repo/socialbar.html %}
+	</div>
+</div>

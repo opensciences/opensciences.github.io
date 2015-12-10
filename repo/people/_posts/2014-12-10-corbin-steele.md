@@ -1,5 +1,5 @@
 ---
-layout: repo
+layout: repo-content
 title: Corbin Steele
 category: previous-curators
 ---

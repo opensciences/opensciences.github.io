@@ -1,7 +1,7 @@
 ---
 title: flowpermissions
 excerpt: "Information Flows as a Permission Mechanism"
-layout: repo
+layout: repo-dataset
 authors: "Feng Shen; Namita Vishnubhotla; Chirag Todarka; Mohit Arora; Babu Dhandapani; Eric John Lehner; Steven Y. Ko; Lukasz Ziarek"
 version: 4
 ---

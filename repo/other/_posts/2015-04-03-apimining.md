@@ -1,7 +1,7 @@
 ---
 title: apimining
 excerpt: "Statistical learning approach for mining API usage mappings for code migration"
-layout: repo
+layout: repo-dataset
 authors: "Anh Tuan Nguyen; Hoan Anh Nguyen; Tung Thanh Nguyen; Tien N. Nguyen;"
 version: 4
 ---

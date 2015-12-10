@@ -1,0 +1,55 @@
+---
+title: Introduction to Smells
+excerpt: "When and why your code starts to smell bad"
+layout: repo-dataset
+authors: "Michele Tufano, Fabio Palomba, Gabriele Bavota, Rocco Oliveto, Massimiliano Di Penta, Andrea De Lucia, Denys Poshyvanyk"
+version: 4
+---
+
+#URL
+
+* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/defect/bad_smells/smell-introduction)
+* [Paper in Digital Library](http://www.cs.wm.edu/~denys/pubs/ICSE'15-BadSmells-CRC.pdf)
+
+#Change Log
+
+When | What
+---- | ----
+October 30th, 2015 | Donated by [Massimiliano Di Penta](mailto: dipenta@unisannio.it)
+
+#Reference
+
+Studies who have been using the data (in any form) are required to include the following reference:
+
+```
+@inproceedings{DBLP:conf/icse/TufanoPBOPLP15,
+  author    = {Michele Tufano and
+               Fabio Palomba and
+               Gabriele Bavota and
+               Rocco Oliveto and
+               Massimiliano Di Penta and
+               Andrea De Lucia and
+               Denys Poshyvanyk},
+  title     = {When and Why Your Code Starts to Smell Bad},
+  booktitle = {37th {IEEE/ACM} International Conference on Software Engineering,
+               {ICSE} 2015, Florence, Italy, May 16-24, 2015, Volume 1},
+  pages     = {403--414},
+  year      = {2015},
+  crossref  = {DBLP:conf/icse/2015-1},
+  url       = {http://dx.doi.org/10.1109/ICSE.2015.59},
+  doi       = {10.1109/ICSE.2015.59},
+  timestamp = {Thu, 10 Sep 2015 14:02:15 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/icse/TufanoPBOPLP15},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+```
+
+#About the Data
+
+##Overview of Data
+
+While the repercussions of smells on code quality have been empirically assessed, there is still only anecdotal evidence on when and why bad smells are introduced. To fill this gap, we conducted a large empirical study over the change history of 200 open source projects from different software ecosystems and investigated when bad smells are introduced by developers, and the circumstances and reasons behind their introduction. Our study required the development of a strategy to identify smell-introducing commits, the mining of over 0.5M commits, and the manual analysis of 9,164 of them (i.e., those identified as smell-introducing). Our findings mostly contradict common wisdom stating that smells are being introduced during evolutionary tasks. In the light of our results, we also call for the need to develop a new generation of recommendation systems aimed at properly planning smell refactoring activities.
+
+##Paper Abstract
+
+In past and recent years, the issues related to managing technical debt received significant attention by researchers from both industry and academia. There are several factors that contribute to technical debt. One of these is represented by code bad  smells, i.e., symptoms  of  poor  design  and  implementation choices.  While  the  repercussions  of  smells  on  code  quality  have been  empirically  assessed,  there is still  only  anecdotal  evidence on when and why bad  smells  are  introduced.  To  fill  this  gap, we conducted a large empirical study over the change history of 200 open source projects from different software ecosystems and investigated when bad smells are introduced by developers, and the  circumstances  and  reasons  behind  their  introduction.  Our study  required  the  development  of  a  strategy  to  identify smell-introducing commits, the mining of over 0.5M commits, and the manual  analysis  of  9,164  of  them  (i.e., those  identified  as smell-introducing).  Our  findings  mostly  contradict  common  wisdom stating  that  smells  are  being  introduced  during  evolutionary tasks.  In  the  light  of  our  results,  we  also  call  for  the  need  to develop  a  new  generation  of  recommendation  systems  aimed  at properly planning smell refactoring activities.

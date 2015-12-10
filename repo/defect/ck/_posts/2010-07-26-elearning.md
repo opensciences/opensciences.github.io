@@ -1,7 +1,7 @@
 ---
 title: elearning
 excerpt: e-learning OO defect data
-layout: repo
+layout: repo-dataset
 author: Marian Jureckzo
 ---
 
