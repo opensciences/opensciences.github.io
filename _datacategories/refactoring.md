@@ -1,5 +1,5 @@
 ---
-title: Refeactoring
+title: Refactoring
 description:
 repourl: "/repo/refactoring"
 ---
