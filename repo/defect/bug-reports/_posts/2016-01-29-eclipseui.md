@@ -1,0 +1,50 @@
+---
+title: Eclipse Platform UI
+excerpt: "Combining Deep Learning with Information Retrieval to Localize Buggy Files for Bug Reports"
+layout: repo-dataset
+authors: "An Ngoc Lam, Anh Tuan Nguyen, Hoan Anh Nguyen, Tien N. Nguyen"
+version: 4
+---
+
+#URL
+* [Data in tera-PROMISE](http://openscience.us/)
+* [Paper in Digital Library](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7372035&punumber%3D7371449%26filter%3DAND%28p_IS_Number%3A7371976%29%26pageNumber%3D3)
+
+#Change Log
+
+When | What
+---- | ----
+January 29th, 2016 | Donated by [An Ngoc Lam](/repo/people/data-donors/promise4.html)
+
+#Reference
+
+Studies who have been using the data (in any form) are required to include the following reference:
+
+```
+@INPROCEEDINGS{7372035, 
+author={Lam, An Ngoc and Nguyen, Anh Tuan and Nguyen, Hoan Anh and Nguyen, Tien N.}, 
+booktitle={Automated Software Engineering (ASE), 2015 30th IEEE/ACM International Conference on}, 
+title={Combining Deep Learning with Information Retrieval to Localize Buggy Files for Bug Reports (N)}, 
+year={2015}, 
+pages={476-481}, 
+keywords={Bridges;Computer bugs;Feature extraction;History;Information retrieval;Metadata;Software;Bug Localization;Bug Reports;Deep Learning;Deep Neural Network;Information Retrieval}, 
+doi={10.1109/ASE.2015.73}, 
+month={Nov},}
+```
+
+#About the Data
+
+This dataset is one of the Datasets donated by [An Ngoc Lam](/repo/people/data-donors/promise3.html).
+
+##Overview of Data
+
+The data is present in 2 files:
+Eclipse_Platform_UI.xlsx : A spreadsheet with  the bug-ids, commits, its summary, files etc.
+Eclipse_Platform_UI.xml : An xml file with more detailed information than the above spreadsheet(detailed files changed).
+
+##Attribute Information
+The spreadsheet contains a table with the bug_id, summary, its description, time_reported, commit associated, status of commit, files committed.
+The xml contains the above information and additionally the lines associated with the commit.
+
+##Paper Abstract
+Bug localization refers to the automated process of locating the potential buggy files for a given bug report. To help developers focus their attention to those files is crucial. Several existing automated approaches for bug localization from a bug report face a key challenge, called lexical mismatch, in which the terms used in bug reports to describe a bug are different from the terms and code tokens used in source files. This paper presents a novel approach that uses deep neural network (DNN) in combination with rVSM, an information retrieval (IR) technique. rVSM collects the feature on the textual similarity between bug reports and source files. DNN is used to learn to relate the terms in bug reports to potentially different code tokens and terms in source files and documentation if they appear frequently enough in the pairs of reports and buggy files. Our empirical evaluation on real-world projects shows that DNN and IR complement well to each other to achieve higher bug localization accuracy than individual models. Importantly, our new model, HyLoc, with a combination of the features built from DNN, rVSM, and project's bug-fixing history, achieves higher accuracy than the state-of-the-art IR and machine learning techniques. In half of the cases, it is correct with just a single suggested file. Two out of three cases, a correct buggy file is in the list of three suggested files.
