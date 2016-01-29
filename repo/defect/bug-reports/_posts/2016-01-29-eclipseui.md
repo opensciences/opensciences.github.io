@@ -42,12 +42,12 @@ This dataset is one of the Datasets donated by [An Ngoc Lam](/repo/people/data-d
 
 The data is present in 2 files:
 
-"Eclipse_Platform_UI.xlsx" : A spreadsheet with  the bug-ids, commits, its summary, files etc.
+"Eclipse\_Platform\_UI.xlsx" : A spreadsheet with  the bug-ids, commits, its summary, files etc.
 
-"Eclipse_Platform_UI.xml" : An xml file with more detailed information than the above spreadsheet(detailed files changed).
+"Eclipse\_Platform\_UI.xml" : An xml file with more detailed information than the above spreadsheet(detailed files changed).
 
 ##Attribute Information
-The spreadsheet contains a table with the "bug_id", "summary", "description", "time_reported", "commit associated", "status of commit" and "files committed".
+The spreadsheet contains a table with the "bug\_id", "summary", "description", "time\_reported", "commit associated", "status of commit" and "files committed".
 
 The xml contains the above information and additionally the lines associated with the commit.
 
