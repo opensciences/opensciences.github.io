@@ -16,7 +16,6 @@ url: "http://openscience.us"
 
 #### Under the Hood Stuff #####
 
-markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 # pygments: true
@@ -33,7 +32,7 @@ hackathonInfo: "The next hackathon has not yet been scheduled. Check back later 
 dataSizeCap: "100 MB"
 dataSizeAbsoluteCap: "500 MB"
 
-categories: [content] 
+categories: [content]
 
 # Custom "repo category" collection
 collections:
