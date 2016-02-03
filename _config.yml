@@ -16,6 +16,7 @@ url: "http://openscience.us"
 
 #### Under the Hood Stuff #####
 
+markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 # pygments: true
