@@ -6,53 +6,53 @@ authors: "Richard Wettel; Michele Lanza; Romain Robbes"
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in Research Paper](http://www.inf.usi.ch/faculty/lanza/Downloads/Wett2010a.pdf)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1985868)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 September 8, 2015 | Donated by [Richard Wettel](/repo/people/data-donors/promise4.html)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
 ```
-@inproceedings{Wettel:2011:SSC:1985793.1985868, 
-	author = {Wettel, Richard and Lanza, Michele and Robbes, Romain}, 
-	title = {Software Systems As Cities: A Controlled Experiment}, 
-	booktitle = {Proceedings of the 33rd International Conference on Software Engineering}, 
-	series = {ICSE '11}, 
-	year = {2011}, 
-	isbn = {978-1-4503-0445-0}, 
-	location = {Waikiki, Honolulu, HI, USA}, 
-	pages = {551--560}, 
-	numpages = {10}, 
-	url = {http://doi.acm.org/10.1145/1985793.1985868}, 
-	doi = {10.1145/1985793.1985868}, 
-	acmid = {1985868}, 
-	publisher = {ACM}, 
-	address = {New York, NY, USA}, 
-	keywords = {empirical validation, software visualization}, 
+@inproceedings{Wettel:2011:SSC:1985793.1985868,
+	author = {Wettel, Richard and Lanza, Michele and Robbes, Romain},
+	title = {Software Systems As Cities: A Controlled Experiment},
+	booktitle = {Proceedings of the 33rd International Conference on Software Engineering},
+	series = {ICSE '11},
+	year = {2011},
+	isbn = {978-1-4503-0445-0},
+	location = {Waikiki, Honolulu, HI, USA},
+	pages = {551--560},
+	numpages = {10},
+	url = {http://doi.acm.org/10.1145/1985793.1985868},
+	doi = {10.1145/1985793.1985868},
+	acmid = {1985868},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {empirical validation, software visualization},
 }
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 This paper provided the complete raw and processed data for the controlled experiment for the empirical evaluation of a 3D software visualization approach based on a city metaphor and implemented in a tool called CodeCity. This includes and is not limited to the pre-experiment, in-experiment and debriefing questionnaires, solution oracles and grading systems, correction scores and measured completion time.
 
 
-##Attribute Information
+## Attribute Information
 
 Debriefing questionnaires, solution oracles and grading systems, correction scores and measured completion time
 
-##Paper Abstract
+## Paper Abstract
 
 Software visualization is a popular program comprehension technique
 used in the context of software maintenance, reverse engineering,

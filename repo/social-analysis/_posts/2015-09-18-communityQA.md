@@ -6,18 +6,18 @@ authors: "Eugene Agichtein; Carlos Castillo; Debora Donato; Aristides Gionis; Gi
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data Source (External)](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=1341531.1341557)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 September 10th, 2015 | Donated by [Eugene Agichtein](mailto:eugene@mathcs.emory.edu)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -41,12 +41,12 @@ keywords = {community question answering, media, user interactions},
 }
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 User-generated data varies significantly in terms of quality. Due to the massive volume of data at disposal, filtering it based on quality and relevance becomes a matter of importance. This paper analyses methods for eliciting feedback from the community to extract high quality content. The focus is mainly on Yahoo! Answers, since there is a vast amount of content and social interactions available in it. The procedure employed successfully manages to filter high quality content with near human accuracy.
 
-##Paper Abstract
+## Paper Abstract
 
 The quality of user-generated content varies drastically from excellent to abuse and spam. As the availability of such content increases, the task of identifying high-quality content sites based on user contributions --social media sites -- becomes increasingly important. Social media in general exhibit a rich variety of information sources: in addition to the content itself, there is a wide array of non-content information available, such as links between items and explicit quality ratings from members of the community. In this paper we investigate methods for exploiting such community feedback to automatically identify high quality content. As a test case, we focus on Yahoo! Answers, a large community question/answering portal that is particularly rich in the amount and types of content and social interactions available in it. We introduce a general classification framework for combining the evidence from different sources of information, that can be tuned automatically for a given social media type and quality definition. In particular, for the community question/answering domain, we show that our system is able to separate high-quality items from the rest with an accuracy close to that of humans.

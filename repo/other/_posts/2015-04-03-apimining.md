@@ -6,18 +6,18 @@ authors: "Anh Tuan Nguyen; Hoan Anh Nguyen; Tung Thanh Nguyen; Tien N. Nguyen;"
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/apimining)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2643010)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 April 3rd, 2015| Donated by [Anh Tuan Nguyen](/repo/people/data-donors/promise4.html)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -41,9 +41,9 @@ Studies who have been using the data (in any form) are required to include the f
 }
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 Manual migration of a large software project is a tedious, timeconsuming, and error-prone task. Toward reducing human effort in this task, there exist semi-automatic approaches and tools that help in language migration. Those tools/methods require users to define the migration rules/mappings between the corresponding Application Programming Interfaces (APIs) that are used in two languages. The existing tools/methods expect programmers to manually specify such API mappings. There is usually a large number of API mappings and many of them are newly introduced from time to time. Thus, existing tools can support only a subset of needed API mappings. As a result, the quality of the migrated code is reduced due to missing API mappings in such tools.
 
@@ -58,6 +58,6 @@ The contributions of our work include:
  2. A tool to mine API usage mappings in Java and C#;
  3. An empirical evaluation to show StaMiner’s accuracy in mining API usages and supporting language migration.
 
-##Paper abstract
+## Paper abstract
 
 The same software product nowadays could appear in multiple platforms and devices. To address business needs, software companies develop a software product in a programming language and then migrate it to another one. To support that process, semi-automatic migration tools have been proposed. However, they require users to manually define the mappings between the respective APIs of the libraries used in two languages. To reduce such manual effort, we introduce StaMiner, a novel data-driven approach that statistically learns the mappings between APIs from the corpus of the corresponding client code of the APIs in two languages Java and C#. Instead of using heuristics on the textual or structural similarity between APIs in two languages to map API methods and classes as in existing mining approaches, StaMiner is based on a statistical model that learns the mappings in such a corpus and provides mappings for APIs with all possible arities. Our empirical evaluation on several projects shows that StaMiner can detect API usage mappings with higher accuracy than a state-of-the-art approach. With the resulting API mappings mined by StaMiner, Java2CSharp, an existing migration tool, could achieve a higher level of accuracy.

@@ -6,18 +6,18 @@ authors: "Laura Moreno, Gabriele Bavota, Massimiliano Di Penta, Rocco Oliveto, A
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/openflights)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2818860#abstract)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 October 30th, 2015 | Donated by [Andrian Marcus](mailto: amarcusatutdallas.edu)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -39,16 +39,16 @@ Studies who have been using the data (in any form) are required to include the f
 }
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 OpenFlights is a tool that lets you map your flights around the world, search and filter them in many ways. It's also the name of the open-source project to build the tool. As of January 2012, the OpenFlights/Airline Route Mapper Route Database contains 59036 routes between 3209 airports on 531 airlines spanning the globe.
 
-##Attribute Information
+## Attribute Information
 
 Airline, Airline ID, Source airport, Source airport ID, Destination airport, Destination airport ID, Codeshare, Stops, Equipment
 
-##Paper Abstract
+## Paper Abstract
 
 Code examples are small source code fragments whose purpose is to illustrate how a programming language construct, an API, or a specific function/method works. Since code examples are not always available in the software documentation, researchers have proposed techniques to automatically extract them from existing software or to mine them from developer discussions. In this paper we propose muse (Method USage Examples), an approach for mining and ranking actual code examples that show how to use a specific method. muse combines static slicing (to simplify examples) with clone detection (to group similar examples), and uses heuristics to select and rank the best examples in terms of reusability, understandability, and popularity. muse has been empirically evaluated using examples mined from six libraries, by performing three studies involving a total of 140 developers to: (i) evaluate the selection and ranking heuristics, (ii) provide their perception on the usefulness of the selected examples, and (iii) perform specific programming tasks using the muse examples. The results indicate that muse selects and ranks examples close to how humans do, most of the code examples (82%) are perceived as useful, and they actually help when performing programming tasks.

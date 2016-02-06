@@ -6,18 +6,18 @@ authors: "Feng Shen; Namita Vishnubhotla; Chirag Todarka; Mohit Arora; Babu Dhan
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/flowpermissions)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2643018)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 April 8th, 2015 | Donated by [Feng Shen](/repo/people/data-donors/promise4.html)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -41,9 +41,9 @@ Studies who have been using the data (in any form) are required to include the f
 }
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 * Distinct Flow Graphs and Data (Using Categories)
   * *Distinct Flows by Malicious Category Using Full Flow Names* This graph depicts the frequency of flows appearing within each Malicious cateogry defined by the MalGenome project, and includes the popular applications we processed under the "Normal" category for comparison purposes. The frequency is defined by the number of applications within a category that use a particular flow, divided by the total number of applications in that category, and is represented by the size of the marks in the scatter plot.

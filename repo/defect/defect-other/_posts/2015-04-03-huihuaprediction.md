@@ -6,18 +6,18 @@ authors: "Huihua Lu; Ekrem Kocaguneli; Bojan Cukic"
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/defect/other-defect/huihuaprediction)
 * [Paper in IEEE Digital Library](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982637)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 April 3rd, 2015| Donated by [Huihua Lu](/repo/people/data-donors/promise4.html)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -34,9 +34,9 @@ Studies who have been using the data (in any form) are required to include the f
 }
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 Release packages/files % with defects metrics
 
@@ -56,7 +56,7 @@ The complexity metrics for each package/file can be computed
 from the archived builds of Eclipse. We utilized the same
 complexity metrics used in [15].
 
-##Attibute Information
+## Attibute Information
 
 ```
 <!DOCTYPE defects [

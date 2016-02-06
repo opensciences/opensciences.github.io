@@ -6,18 +6,18 @@ authors: "Jie Zhang; Junjie Chen; Dan Hao; Yingfei Xiong; Bing Xie; Lu Zhang; Ho
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/jzinference)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2642994)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
  April 3rd, 2015 | Donated by [Jie Zhang](/repo/people/data-donors/promise4.html)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -41,7 +41,7 @@ Studies who have been using the data (in any form) are required to include the f
 }
 ```
 
-#About the Data
+# About the Data
 
 ## Overview of Data
 
@@ -53,7 +53,7 @@ directory
 * MRs_gsl
  1. MRs_gsl
  2. MRs_gsl
-* MRs_jdk	
+* MRs_jdk
  1. MRs_jdk
  2.MRs_jdk
 * MRs_matlab
@@ -63,7 +63,7 @@ directory
 
 *statistics on MR number and run time of all the MRs inferred from four libraries.*
 
-##Paper abstract
+## Paper abstract
 
 Metamorphic testing (MT) is an effective methodology for testing those so-called “non-testable” programs (e.g., scientific programs), where it is sometimes very difficult for testers to know whether the outputs are correct. In metamorphic testing, metamorphic relations (MRs) (which specify how particular changes to the input of the program under test would change the output) play an essential role. However, testers may typically have to obtain MRs manually.
 

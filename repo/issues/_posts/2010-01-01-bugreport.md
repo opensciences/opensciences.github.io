@@ -6,7 +6,7 @@ author: MartinPinzger and EmanuelGiger
 ---
 
 
-#URL
+# URL
 
   * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.jdt](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.jdt)
   * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.platform](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.platform)
@@ -16,14 +16,14 @@ author: MartinPinzger and EmanuelGiger
   * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.firefox](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.firefox)
 
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 January 1, 2010 | Donated by [Martin Pinzger](/repo/people/data-donors/promise3.html) and [Emanuel Giger](/repo/people/data-donors/promise3.html)
 
 
-#Reference
+# Reference
 
 All data is licensed under the Creative Commons License 3.0. For more information on the license see [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -39,18 +39,18 @@ Studies who have been using the data (in any form) are required to add the follo
      pages = \{52--56\},
      publisher = \{ACM\},
      address = \{New York, NY, USA\},
-    \} 
+    \}
 \}\}\}
 
-#About the Data
+# About the Data
 
-##Short description of the data sources
+## Short description of the data sources
 
 The data files have been extracted from the eclipse, gnome, and mozilla bug repositories (many thanks goes to all the contributors of these projects). The data is until the year 2009.
 
 Each row denotes the values extracted from one bug report. For each of the bug report attributes (listed below), we obtained the values at different points in time: current entry, the first entry (when the bug was reported), and the entries/measures after 1,3,7,14, and 30 days after the bug has been reported.
 
-##List of bug report attributes
+## List of bug report attributes
 
 \{\{\{
 

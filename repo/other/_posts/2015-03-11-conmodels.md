@@ -7,19 +7,19 @@ version: 4
 ---
 
 
-#URL
+# URL
 
   * [External (Github) link](https://github.com/abb-iss/Study-Artifacts-for-Code-Context-Models)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635868.2635905)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 March 11, 2015 | Donated by [Thomas Fritz](/repo/people/data-donors/promise4.html)
 
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to add the following reference to their report/paper:
 
@@ -41,14 +41,14 @@ Studies who have been using the data (in any form) are required to add the follo
     keywords = {Context models, change task, navigation, search, user study},
     }
 
-#About the Data
+# About the Data
 
-Thomas Fritz, Christoph Bräunlich, and David Shepherd conducted a study of twelve developers performing one of three change tasks using the Eclipse IDE for Java Developers. Here we publish the data collected during this study.  Our data consists of twelve transcripts of developer actions transcribed by hand from the approximately two hours of video collected from each participant. It also includes the patches they submitted as solutions and a drawing/description of the program elements and relationships necessary to complete their task. Further details on the study setup can be found in our paper. 
+Thomas Fritz, Christoph Bräunlich, and David Shepherd conducted a study of twelve developers performing one of three change tasks using the Eclipse IDE for Java Developers. Here we publish the data collected during this study.  Our data consists of twelve transcripts of developer actions transcribed by hand from the approximately two hours of video collected from each participant. It also includes the patches they submitted as solutions and a drawing/description of the program elements and relationships necessary to complete their task. Further details on the study setup can be found in our paper.
 
 [Tech Report: Supporting Search and Navigation through Code Context Models](http://www.merlin.uzh.ch/publication/show/7426)
 
 --
-### Download: 
+### Download:
 To download our data, including transcripts, developer models, developer patches, and source code snapshots use Git to download this repository or [click on this link](https://github.com/abb-iss/Study-Artifacts-for-Code-Context-Models/archive/master.zip) for a .zip version.
 
 --
@@ -103,7 +103,7 @@ Transcript of developer's actions when working (partial transcript shown here, e
     +import org.cesilko.rachota.core.filters.PriorityFilter;
     +import org.cesilko.rachota.core.filters.PrivateFilter;
     +import org.cesilko.rachota.core.filters.StateFilter;
-     
+
      /** Panel providing history view on tasks from the past.
       * @author Jiri Kovalsky
     @@ -242,6 +251,7 @@
@@ -112,7 +112,7 @@ Transcript of developer's actions when working (partial transcript shown here, e
              });
     +        
          }
-         
+
          /** Returns font that should be used for all widgets in this component
     @@ -1605,6 +1615,7 @@
              txtFilteredTime.setText(Tools.getTime(filteredTasksTableModel.getTotalTime()));
@@ -120,7 +120,7 @@ Transcript of developer's actions when working (partial transcript shown here, e
              updateTotalTime();
     +        filterTasks();
          }
-         
+
          public class MouseActionAdapter extends MouseAdapter implements ActionListener {
 
 A patch containing developer's changes

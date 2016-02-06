@@ -9,50 +9,50 @@ author: Guenther Ruhe
 This is data from the transition of the DATATRIEVE product from version 6.0 to
 	         version 6.1 (carrried out at Digital Engineering Italy).
 
-#URL
+# URL
 
   * Latest version :
-    * [ datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve/datatrieve.arff) 
+    * [ datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve/datatrieve.arff)
   * With change log:
     * [datatrieve](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/datatrieve)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 January 15, 2005 | Donated by [Guenther Ruhe](/repo/people/data-donors/promise3.html)
 
 
-#Past usage
+# Past usage
 
-A hybrid approach to analyze empirical software engineering data 
+A hybrid approach to analyze empirical software engineering data
        and its application to predict module fault-proneness in maintenance;
        Source 	Journal of Systems and Software archive;
        Volume 53,  Issue 3.  (September 2000);
-       Pages: 225 - 237; 
+       Pages: 225 - 237;
        Year of Publication: 2000;
        ISSN:0164-1212;
-       Authors:	
+       Authors:
        Sandro Morasca 	
        Gunther Ruhe
 
-#Relevant information
+# Relevant information
 
 The DATATRIEVE product was undergoing both adaptive (DATATRIEVE was being transferred  from platform OpenVMS/VAX to platform OpenVMS/Alpha) and corrective maintenance (failures reported from customers were being fixed) at the Gallarate (Italy) site of Digital Engineering.
-	    
+
 The DATATRIEVE product was originally developed in the BLISS language. BLISS is an  expression language. It is block-structured, with exception handling facilities, coroutines, and a macro system. It was one of the first non-assembly languages for operating system implementation.. Some parts were later added or rewritten in the C language. Therefore, the  overall structure of DATATRIEVE is composed of C functions and BLISS subroutines.
-	    
+
 The empirical study of this data set reports only the BLISS part, by far the bigger one.  In what follows, we will use the term "module" to refer to a BLISS module, i.e., a set of   declarations and subroutines usually belonging to one file. More than 100 BLISS modules   have been studied. It was important to the DATATRIEVE team to better understand how the  characteristics of the modules and transition process were correlated with the code quality.
-	    
+
 The objective of the data analysis was to study whether it was possible to classify modules as non-faulty or faulty, based on a set of measures collected on the project.
 
 
-#Data
+# Data
 
 Number of records: 130
 
-Number of attributes: 9 
-   * 8 condition attributes 
+Number of attributes: 9
+   * 8 condition attributes
    * 1 decision attribute
 
 Attribute Information:
@@ -70,5 +70,5 @@ Attribute Information:
 Missing attributes: none
 
 Class Distribution:
-   * 0:   119 = 91.54% 
+   * 0:   119 = 91.54%
    * 1:   11  =  8.46%

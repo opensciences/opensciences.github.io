@@ -6,17 +6,17 @@ authors: "Andrea Arcuri; Lionel Briand"
 version: 4
 ---
 
-#URL
+# URL
 
 * [Paper in IEEE Digital Library](Lhttp://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6032439)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 September 7th, 2015 | Donated by [Andrea Arcuri](mailto:arcuri@simula.no)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -33,9 +33,9 @@ ISSN={0270-5257},
 month={May},}
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 The review of the current practices involving the use of statistical
 testing to analyze randomized algorithms in software engineering showed that randomness was not properly taken into account in the research literature. This paper provides a set of practical guidelines on the use of statistical testing that are tailored to randomized algorithms in software engineering applications, with a particular focus on verification and validation (including testing), and the specific properties and constraints they entail. The proposed guidelines for the use of statistical tests in experiments
@@ -55,7 +55,7 @@ f) To help the meta-analyses of published results across studies, report means a
 </br>
 g) Always report standardized effect size measures.
 
-##Attribute Information
+## Attribute Information
 
 KEYWORDS
 </br>
@@ -77,6 +77,6 @@ on Search Based Software Engineering.
 </br>
 (iii3) Baseline Results: Analysis of the results obtained with randomized algorithms in software engineering research (IEEE TSE, IEEE ICSE, International Symposium on SSBSE) showed that the statistical analyses were either missing, inadequate, or incomplete. Furthermore, the number of runs or the number of times the particular randomized algorithm was executed was not enough to come to a definite conclusion. Thus, there was a need to devise practical guidelines for the use of statistical testing in assessing randomized algorithms in software engineering applications.
 
-##Paper Abstract
+## Paper Abstract
 
 Randomized algorithms have been used to successfully address many different types of software engineering problems. This type of algorithms employ a degree of randomness as part of their logic. Randomized algorithms are useful for difficult problems where a precise solution cannot be derived in a deterministic way within reasonable time. However, randomized algorithms produce different results on every run when applied to the same problem instance. It is hence important to assess the effectiveness of randomized algorithms by collecting data from a large enough number of runs. The use of rigorous statistical tests is then essential to provide support to the conclusions derived by analyzing such data. In this paper, we provide a systematic review of the use of randomized algorithms in selected software engineering venues in 2009. Its goal is not to perform a complete survey but to get a representative snapshot of current practice in software engineering research. We show that randomized algorithms are used in a significant percentage of papers but that, in most cases, randomness is not properly accounted for. This casts doubts on the validity of most empirical results assessing randomized algorithms. There are numerous statistical tests, based on different assumptions, and it is not always clear when and how to use these tests. We hence provide practical guidelines to support empirical research on randomized algorithms in software engineering.

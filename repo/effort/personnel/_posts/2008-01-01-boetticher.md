@@ -6,18 +6,17 @@ author: GaryBoetticher
 ---
 
 
-#URL
+# URL
 
   * With change log: [https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/boetticher)
   * With raw data: [https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 January 1, 2008 | Donated by [Gary Boetticher](/repo/people/data-donors/promise3.html)
 
-#Reference
+# Reference
 
 For more information, see Using Correlation and Accuracy for Identifying Good Estimators - Gary Boetticher and Nazim Lokhandwala in promise 2008.
-

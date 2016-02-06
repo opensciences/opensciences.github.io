@@ -6,7 +6,7 @@ authors: "Marco Ortu; Giuseppe Destefanis; Alessandro Murgia; Michele Marchesi; 
 version: 4
 ---
 
-# Paper 
+# Paper
 #### [The JIRA Repository Dataset: Understanding Social Aspects of Software Development]()
 
 # URL
@@ -19,7 +19,7 @@ When | What
 ---- | ----
 June 15th, 2015 | Donated by [Marco Ortu, Giuseppe Destefanis, Alessandro Murgia, Michele Marchesi, Roberto Tonelli, Bram Adams](mailto:marco.ortu@diee.unica.it,michele@diee.unica.it,roberto.tonelli@diee.unica.it,giuseppe.destefanis@crim.ca,alessandro.murgia@uantwerpen.be,bram.adams@polymtl.ca)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 

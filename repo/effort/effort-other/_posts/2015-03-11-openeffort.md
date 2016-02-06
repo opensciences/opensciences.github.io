@@ -7,20 +7,20 @@ version: 4
 ---
 
 
-#URL
+# URL
 
   * [Terapromise link](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597107)
 
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 March 11, 2015 | Donated by [Gregorio Robles](/repo/people/data-donors/promise4.html)
 
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to add the following reference to their report/paper:
 
@@ -42,7 +42,7 @@ Studies who have been using the data (in any form) are required to add the follo
     keywords = {Effort estimation, free software, mining software repositories, open source},
     }
 
-#About the Data
+# About the Data
 
 ## Data
 There are two types of data associated with this paper: author activity from OpenStack contributors and survey data from the contributors. In addition, the raw data from which the author activity data was extracted can be found [here](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/other-effort/openeffort/openstack\_versioning\_system\_metadata.mysql)
@@ -58,21 +58,21 @@ There are two types of data associated with this paper: author activity from Ope
 This represents voluntary responses to a survey in which 131 individuals responded.
 Survey questions are as follows:
 ```
-1) Selection: On average, how many hours in a week have you spent in the project in the 
+1) Selection: On average, how many hours in a week have you spent in the project in the
 last six months?
 (>40h, 40h, 30h, 20h, 10h, <5h)
 
-2) Selection: How much of the time you spent in the project is devoted to coding? 
+2) Selection: How much of the time you spent in the project is devoted to coding?
 (>95%, approx. 75%, approx. 50%, approx. 25%, <10%)
 
-3) Selection: Do you make at least one commit to the repository the days you code? 
+3) Selection: Do you make at least one commit to the repository the days you code?
 (yes, no)
 
-4) Selection: What do you consider yourself in the project? 
+4) Selection: What do you consider yourself in the project?
 (full-time, part-time, occasional contributor)
 
-5) Free-text box: Did you always work on the project the same amount of hours, or did you have 
-different phases of commitment? If you had different phases, could you tell us about the various 
+5) Free-text box: Did you always work on the project the same amount of hours, or did you have
+different phases of commitment? If you had different phases, could you tell us about the various
 phases? (the graph below may help you, as it is based in your recorded activity in the repository)
 ```
 

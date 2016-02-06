@@ -41,4 +41,3 @@ classes show that the proposed approach correctly identifies
 equivalent method sequences in the majority of the cases
 where redundancy was known to exist, with very few false
 positives.
-

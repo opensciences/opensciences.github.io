@@ -6,18 +6,18 @@ authors: "Davood Mazinanian; Nikolaos Tsantalis; Ali Mesbah"
 version: 4
 ---
 
-#URL
+# URL
 
 * [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/code-analysis/refactorcss)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635879)
 
-#Change Log
+# Change Log
 
 When | What
 ---- | ----
 May 1st, 2015 | Donated by [Davood Mazinanian](/repo/people/data-donors/promise4.html)
 
-#Reference
+# Reference
 
 Studies who have been using the data (in any form) are required to include the following reference:
 
@@ -38,16 +38,16 @@ Studies who have been using the data (in any form) are required to include the f
    publisher = {ACM},
    address = {New York, NY, USA},
    keywords = {Cascading style sheets, duplication, refactoring},
-} 
+}
 ```
 
-#About the Data
+# About the Data
 
-##Overview of Data
+## Overview of Data
 
 Contains CSS code and **FSE'14.csv** which indicates different measures for CSS datasets.
 
-##Attribute Information
+## Attribute Information
 
  * size
  * sloc
@@ -75,6 +75,6 @@ Contains CSS code and **FSE'14.csv** which indicates different measures for CSS 
  * Refactoring-Opportunities-excluding-subsumed
  * Positive-Refactoring-Opportunities-excluding-ubsumed
 
-##Paper Abstract
+## Paper Abstract
 
 Cascading Style Sheets (CSS) is a language used for describing the look and formatting of HTML documents. CSS has been widely adopted in web and mobile development practice, since it enables a clean separation of content from presentation. The language exhibits complex features, such as inheritance, cascading and specificity, which make CSS code hard to maintain. Therefore, it is important to find ways to improve the maintainability of CSS code. In this paper, we propose an automated approach to remove duplication in CSS code. More specifically, we have developed a technique that detects three types of CSS declaration duplication and recommends refactoring opportunities to eliminate those duplications. Our approach uses preconditions that ensure the application of a refactoring will preserve the original document styling. We evaluate our technique on 38 real-world web systems and 91 CSS files, in total. Our findings show that duplication in CSS code is widely prevalent. Additionally, there is a significant number of presentation-preserving refactoring opportunities that can reduce the size of the CSS files and increase the maintainability of the code.
