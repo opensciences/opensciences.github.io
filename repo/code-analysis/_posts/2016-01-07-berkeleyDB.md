@@ -7,7 +7,7 @@ version: 4
 ---
 
 #URL
-<br>
+
 * [External Data Link](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/downloads/index.html)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=1555038)
 
