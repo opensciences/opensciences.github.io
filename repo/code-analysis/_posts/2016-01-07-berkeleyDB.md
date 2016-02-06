@@ -7,7 +7,7 @@ version: 4
 ---
 
 #URL
-
+<br>
 * [External Data Link](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/downloads/index.html)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=1555038)
 
@@ -36,7 +36,7 @@ Studies who have been using the data (in any form) are required to include the f
  acmid = {1555038},
  publisher = {IEEE Computer Society},
  address = {Washington, DC, USA},
-} 
+}
 ```
 
 #About the Data
