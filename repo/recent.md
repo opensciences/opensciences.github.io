@@ -1,7 +1,7 @@
 ---
-title: 150 Most Recently Added Datasets
+title: 75 Most Recently Added Datasets
 layout: repo-content
 category: repo
-limit: 150
+limit: 75
 ---
 
