@@ -36,6 +36,7 @@ The tera-PROMISE Repository is made possible thanks to the efforts of many peopl
  * Justin DiStefano (v0)
  * Jelber Sayyad (v1)
  * Tim Menzies (v2, v3, v4)
+ * Gregory Gay (v2)
  * Bora Caglayan (v3)
  * Zhimin He (v3)
  * Ekrem Kocaguneli (v3)
