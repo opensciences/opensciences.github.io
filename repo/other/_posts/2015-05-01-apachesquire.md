@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/apachesquire)
+* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/apachesquire)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2487085.2487142)
 
 # Change Log

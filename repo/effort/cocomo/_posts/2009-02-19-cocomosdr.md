@@ -12,9 +12,9 @@ The data in this file confirms to the [model.
 # URL
 
   * Latest version:
-    * [https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/cocomo2/cocomo-sdr/cocomo-sdr.arff](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/cocomo2/cocomo-sdr/cocomo-sdr.arff)
+    * [https://terapromise.csc.ncsu.edu/svn/repo/effort/cocomo/cocomo2/cocomo-sdr/cocomo-sdr.arff](https://terapromise.csc.ncsu.edu/svn/repo/effort/cocomo/cocomo2/cocomo-sdr/cocomo-sdr.arff)
   * With change log:
-    * [cocomo-sdr](https://terapromise.csc.ncsu.edu:8443/svn/repo/effort/cocomo/cocomo2/cocomo-sdr/)
+    * [cocomo-sdr](https://terapromise.csc.ncsu.edu/svn/repo/effort/cocomo/cocomo2/cocomo-sdr/)
 
 # Change Log
 

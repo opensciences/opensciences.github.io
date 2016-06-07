@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data on Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/green-mining/greentrace)
+* [Data on Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/green-mining/greentrace)
 
 # Change Log
 

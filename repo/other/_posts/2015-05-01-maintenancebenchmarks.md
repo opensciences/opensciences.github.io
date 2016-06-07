@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/maintenancebenchmarks)
+* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/maintenancebenchmarks)
 * [Paper in IEEE Explore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6624019)
 
 # Change Log

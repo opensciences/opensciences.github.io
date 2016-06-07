@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/other/mozillaanthropology)
+* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/mozillaanthropology)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?doid=2635868.2635887)
 
 # Authors

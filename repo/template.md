@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/CATEGORY/TITLE)
+* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/CATEGORY/TITLE)
 * [Paper in Digital Library](LINK TO PAPER)
 
 # Change Log

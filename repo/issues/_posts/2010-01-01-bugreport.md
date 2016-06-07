@@ -8,12 +8,12 @@ author: MartinPinzger and EmanuelGiger
 
 # URL
 
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.jdt](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.jdt)
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.platform](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.eclipse.platform)
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.evolution](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.evolution)
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.gstreamer](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.gnome.gstreamer)
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.core](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.core)
-  * With change log:[https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.firefox](https://terapromise.csc.ncsu.edu:8443/svn/repo/issues/bugreport/bugreport.mozilla.firefox)
+  * With change log:[https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.eclipse.jdt](https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.eclipse.jdt)
+  * With change log:[https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.eclipse.platform](https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.eclipse.platform)
+  * With change log:[https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.gnome.evolution](https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.gnome.evolution)
+  * With change log:[https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.gnome.gstreamer](https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.gnome.gstreamer)
+  * With change log:[https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.mozilla.core](https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.mozilla.core)
+  * With change log:[https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.mozilla.firefox](https://terapromise.csc.ncsu.edu/svn/repo/issues/bugreport/bugreport.mozilla.firefox)
 
 
 # Change Log

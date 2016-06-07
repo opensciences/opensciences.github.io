@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu:8443/!/#repo/view/head/search-based-se/combinatorial)
+* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/search-based-se/combinatorial)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2818821&CFID=550839757&CFTOKEN=78411605)
 
 # Change Log

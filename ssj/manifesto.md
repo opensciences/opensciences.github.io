@@ -226,7 +226,7 @@ _SOLUTION #4:_
 Create a large free-to-use repository for SE
 [research products](researchproducts.html).  To this
 end, we have created a
-[large repository for storing the data](https://terapromise.csc.ncsu.edu:8443/svn/repo),
+[large repository for storing the data](https://terapromise.csc.ncsu.edu/svn/repo),
 plus creating
 [a discussion site](http://openscience.us/repo/) for
 those contents calculate, that this repository
