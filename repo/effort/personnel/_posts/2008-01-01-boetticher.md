@@ -8,8 +8,8 @@ author: GaryBoetticher
 
 # URL
 
-  * With change log: [https://terapromise.csc.ncsu.edu/svn/repo/effort/personnel/boetticher](https://terapromise.csc.ncsu.edu/svn/repo/effort/personnel/boetticher/boetticher)
-  * With raw data: [https://terapromise.csc.ncsu.edu/svn/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls](https://terapromise.csc.ncsu.edu/svn/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls)
+  * With change log: [https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher](https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher/boetticher)
+  * With raw data: [https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls](https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls)
 
 # Change Log
 

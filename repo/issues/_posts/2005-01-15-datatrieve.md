@@ -12,9 +12,9 @@ This is data from the transition of the DATATRIEVE product from version 6.0 to
 # URL
 
   * Latest version :
-    * [ datatrieve](https://terapromise.csc.ncsu.edu/svn/repo/issues/datatrieve/datatrieve.arff)
+    * [ datatrieve](https://terapromise.csc.ncsu.edu/repo/issues/datatrieve/datatrieve.arff)
   * With change log:
-    * [datatrieve](https://terapromise.csc.ncsu.edu/svn/repo/issues/datatrieve)
+    * [datatrieve](https://terapromise.csc.ncsu.edu/repo/issues/datatrieve)
 
 # Change Log
 

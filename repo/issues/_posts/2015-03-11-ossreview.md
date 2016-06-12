@@ -9,7 +9,7 @@ version: 4
 
 # URL
 
-  * [Data in Terapromise](https://terapromise.csc.ncsu.edu/svn/repo/issues/ossreview)
+  * [Data in Terapromise](https://terapromise.csc.ncsu.edu/repo/issues/ossreview)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597082)
 
 # Change Log
