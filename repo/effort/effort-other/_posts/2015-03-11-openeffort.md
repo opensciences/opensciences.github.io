@@ -9,7 +9,7 @@ version: 4
 
 # URL
 
-  * [Terapromise link](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort)
+  * [Terapromise link](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597107)
 
 
@@ -45,14 +45,14 @@ Studies who have been using the data (in any form) are required to add the follo
 # About the Data
 
 ## Data
-There are two types of data associated with this paper: author activity from OpenStack contributors and survey data from the contributors. In addition, the raw data from which the author activity data was extracted can be found [here](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/openstack\_versioning\_system\_metadata.mysql)
+There are two types of data associated with this paper: author activity from OpenStack contributors and survey data from the contributors. In addition, the raw data from which the author activity data was extracted can be found [here](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/openstack\_versioning\_system\_metadata.mysql)
 
 ### Author Activity Data
 -Rows represent individual authors (1626 total)
 -Columns represent months starting in Jan 2010 (these are 0-padded before and after project)
--The actual author IDs can be found by cross-referencing [output\_authors\_ids\_nobots.csv](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/output\_authors\_ids\_nobots.csv):
--Number of commits per month: [output\_commits\_nobots.csv](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/output\_commits\_nobots.csv)
--Number of active days per month: [output\_activity\_nobots.csv](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/output\_activity\_nobots.csv)
+-The actual author IDs can be found by cross-referencing [output\_authors\_ids\_nobots.csv](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/output\_authors\_ids\_nobots.csv):
+-Number of commits per month: [output\_commits\_nobots.csv](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/output\_commits\_nobots.csv)
+-Number of active days per month: [output\_activity\_nobots.csv](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/output\_activity\_nobots.csv)
 
 ### Survey Response Data
 This represents voluntary responses to a survey in which 131 individuals responded.
@@ -76,6 +76,6 @@ different phases of commitment? If you had different phases, could you tell us a
 phases? (the graph below may help you, as it is based in your recorded activity in the repository)
 ```
 
-The anonymized survey response data is [here](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/answers\_openstack.all.public.csv)
+The anonymized survey response data is [here](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/answers\_openstack.all.public.csv)
 
-This survey data was cleaned with a few respondents being removed and some responses being edited. A description of the [cleaning process](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/survey\_cleaning.txt) as well as the [cleaned response data](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort/answers\_openstack.public.csv) is [here](https://terapromise.csc.ncsu.edu/svn/repo/effort/other-effort/openeffort).
+This survey data was cleaned with a few respondents being removed and some responses being edited. A description of the [cleaning process](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/survey\_cleaning.txt) as well as the [cleaned response data](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort/answers\_openstack.public.csv) is [here](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort).

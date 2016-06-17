@@ -9,7 +9,7 @@ author: Marian Jureckzo
 # URL
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=1868328.1868342&coll=DL&dl=GUIDE&CFID=96280125&CFTOKEN=47274353)
 * Latest version :
-    * [intercafe](https://terapromise.csc.ncsu.edu/svn/repo/defect/ck/intercafe/)
+    * [intercafe](https://terapromise.csc.ncsu.edu/repo/defect/ck/intercafe/)
 
 # Change Log
 
