@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data Source (External)](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/questions)
+* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/questions)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1806828)
 
 # Change Log
