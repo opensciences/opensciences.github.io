@@ -7,7 +7,7 @@ version: 4
 ---
 
 # URL
-
+* [External Link to Data](http://openflights.org/data.html)
 * [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/openflights)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2818860#abstract)
 

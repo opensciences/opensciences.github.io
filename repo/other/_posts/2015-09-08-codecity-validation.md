@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Research Paper](http://www.inf.usi.ch/faculty/lanza/Downloads/Wett2010a.pdf)
+* [Data in Research Paper](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/codecity-validation)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1985868)
 
 # Change Log
