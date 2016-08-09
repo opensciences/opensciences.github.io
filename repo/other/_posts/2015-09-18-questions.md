@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data Source (External)](http://www.cs.ubc.ca/labs/spl/allQuestions.pdf)
+* [Data Source (External)](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/questions)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1806828)
 
 # Change Log
