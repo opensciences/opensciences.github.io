@@ -9,7 +9,7 @@ version: 4
 
 # URL
 
-  * [Terapromise link](https://terapromise.csc.ncsu.edu/repo/effort/other-effort/openeffort)
+  * [Data Link (DOI)](https://doi.org/10.5281/zenodo.268455)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2597107)
 
 

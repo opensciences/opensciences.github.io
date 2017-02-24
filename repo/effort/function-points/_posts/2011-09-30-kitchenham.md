@@ -7,9 +7,7 @@ author: Masateru Tsunoda
 
 
 # URL
-
-  * Latest version: [kitchenham](https://terapromise.csc.ncsu.edu/repo/effort/function-points/kitchenham/kitchenham.arff),
-  * With change log:[https://terapromise.csc.ncsu.edu/repo/effort/function-points/kitchenham](https://terapromise.csc.ncsu.edu/repo/effort/function-points/kitchenham)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268457),
 
 # Change Log
 

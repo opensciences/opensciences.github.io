@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/defect/defect-other/defect-tracking)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268443)
 * [Paper in IEEE Digital Library](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6624028)
 
 # Change Log

@@ -7,9 +7,9 @@ author: Marian Jureckzo
 
 
 # URL
+
+* [Data Link (DOI)]https://doi.org/10.5281/zenodo.322435)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=1868328.1868342&coll=DL&dl=GUIDE&CFID=96280125&CFTOKEN=47274353)
-* Latest version :
-    * [intercafe](https://terapromise.csc.ncsu.edu/repo/defect/ck/intercafe/)
 
 # Change Log
 

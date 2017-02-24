@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/defect/other-defect/huihuaprediction)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268430)
 * [Paper in IEEE Digital Library](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6982637)
 
 # Change Log

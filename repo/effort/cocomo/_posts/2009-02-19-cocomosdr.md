@@ -12,9 +12,7 @@ The data in this file confirms to the [model.
 # URL
 
   * Latest version:
-    * [https://terapromise.csc.ncsu.edu/repo/effort/cocomo/cocomo2/cocomo-sdr/cocomo-sdr.arff](https://terapromise.csc.ncsu.edu/repo/effort/cocomo/cocomo2/cocomo-sdr/cocomo-sdr.arff)
-  * With change log:
-    * [cocomo-sdr](https://terapromise.csc.ncsu.edu/repo/effort/cocomo/cocomo2/cocomo-sdr/)
+    * [Data Link (DOI)](https://doi.org/10.5281/zenodo.268433)
 
 # Change Log
 
