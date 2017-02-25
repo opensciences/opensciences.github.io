@@ -8,7 +8,7 @@ version: 4
 
 # URL
 * [External Link to Data](http://openflights.org/data.html)
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/openflights)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268512)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2818860#abstract)
 
 # Change Log

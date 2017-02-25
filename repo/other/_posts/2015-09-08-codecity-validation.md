@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Research Paper](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/codecity-validation)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268463)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1985868)
 
 # Change Log

@@ -8,10 +8,8 @@ author: Jifeng Xuan
 
 # URL
 
-  * Latest version: [nrp1](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/nrp1/nrp1.txt), [nrp2](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/nrp2/nrp2.txt), [nrp3](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/nrp3/nrp3.txt), [nrp4](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/nrp4/nrp4.txt), [nrp5](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/nrp5/nrp5.txt).
-  * [Example](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/example.txt)
-  * With change log:[https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/](https://terapromise.csc.ncsu.edu/repo/requirements/nrp/nrp-classic/)
-
+  * [Data Link (DOI)](https://doi.org/10.5281/zenodo.268460)
+  
 # Change Log
 
 When | What

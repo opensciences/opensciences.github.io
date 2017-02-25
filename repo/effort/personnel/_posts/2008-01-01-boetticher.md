@@ -8,8 +8,7 @@ author: GaryBoetticher
 
 # URL
 
-  * With change log: [https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher](https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher/boetticher)
-  * With raw data: [https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls](https://terapromise.csc.ncsu.edu/repo/effort/personnel/boetticher/BoetticherUsingCorrelationAndAccuracyForIdentifyingGoodEstimators.xls)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268470)
 
 # Change Log
 

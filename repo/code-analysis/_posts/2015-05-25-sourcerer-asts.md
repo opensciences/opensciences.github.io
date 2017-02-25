@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data Link (external)](https://repository.cwi.nl/datasets/22454D.tar.xz)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.268531)
 * [Paper in IEEE Xplore Digital Library](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6976088)
 
 # Change Log

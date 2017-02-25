@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data on Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/green-mining/greentrace)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.322474)
 
 # Change Log
 
