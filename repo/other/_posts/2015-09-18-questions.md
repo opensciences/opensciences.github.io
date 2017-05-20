@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/questions)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.579766)
 * [Paper in Digital Library](http://dl.acm.org/citation.cfm?id=1806828)
 
 # Change Log

@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/textRetrieval)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.581647)
 * [Paper in IEEE Digital Library](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7371990&filter%3DAND%28p_IS_Number%3A7371976%29)
 
 # Change Log

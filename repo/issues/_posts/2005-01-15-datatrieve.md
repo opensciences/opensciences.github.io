@@ -7,14 +7,11 @@ author: Guenther Ruhe
 
 
 This is data from the transition of the DATATRIEVE product from version 6.0 to
-	         version 6.1 (carrried out at Digital Engineering Italy).
+	         version 6.1 (carried out at Digital Engineering Italy).
 
 # URL
 
-  * Latest version :
-    * [ datatrieve](https://terapromise.csc.ncsu.edu/repo/issues/datatrieve/datatrieve.arff)
-  * With change log:
-    * [datatrieve](https://terapromise.csc.ncsu.edu/repo/issues/datatrieve)
+  * [Data Link (DOI)](https://doi.org/10.5281/zenodo.439578)
 
 # Change Log
 

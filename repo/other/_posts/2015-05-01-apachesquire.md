@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/apachesquire)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.579735)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2487085.2487142)
 
 # Change Log

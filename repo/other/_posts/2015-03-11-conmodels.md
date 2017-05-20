@@ -9,7 +9,7 @@ version: 4
 
 # URL
 
-  * [External (Github) link](https://github.com/abb-iss/Study-Artifacts-for-Code-Context-Models)
+  * [Data Link (DOI)](https://doi.org/10.5281/zenodo.439588)
   * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2635868.2635905)
 
 # Change Log

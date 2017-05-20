@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in tera-PROMISE](https://terapromise.csc.ncsu.edu/!/#repo/view/head/msr/splitters)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.439585)
 * [Paper in IEEE Digital Library](ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6624055)
 
 # Change Log

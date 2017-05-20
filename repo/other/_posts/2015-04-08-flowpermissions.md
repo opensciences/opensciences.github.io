@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/flowpermissions)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.439596)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2643018)
 
 # Change Log

@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data in Terapromise](https://terapromise.csc.ncsu.edu/!/#repo/view/head/other/mozillaanthropology)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.579750)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?doid=2635868.2635887)
 
 # Change Log
