@@ -6,9 +6,9 @@ author: Roberto Natella
 ---
 
 # URL
- Data from authors website
-  - [mandelbugs_oss](http://wpage.unina.it/roberto.natella/datasets/mandelbugs_oss/)
-  
+
+  - [Data Link (DOI)](http://wpage.unina.it/roberto.natella/datasets/mandelbugs_oss/)
+
 ### Author(s)
 
 + [Roberto Natella](mailto:roberto.natella@unina.it)
@@ -21,7 +21,7 @@ August 08th, 2015 | Donated by [Roberto Natella](mailto:roberto.natella@unina.it
 
 # Reference
 Studies who have been using the data (in any form) are required to include the following reference:
-``` 
+```
 @inproceedings{cotroneo2013fault,
   title={Fault Triggers in Open-Source Software: An Experience Report},
   author={Cotroneo, Domenico and Grottke, Michael and Natella, Roberto and Pietrantuono, Roberto and Trivedi, Kishor S},

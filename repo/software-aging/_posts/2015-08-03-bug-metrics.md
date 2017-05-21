@@ -6,10 +6,9 @@ author: Roberto Natella
 ---
 
 # URL
- Data from authors website
- 
-  - [Aging related bugs metrics](http://wpage.unina.it/roberto.natella/datasets/aging_related_bugs_metrics/)
-  
+
+  - [Data Link (DOI)](https://doi.org/10.5281/zenodo.581659)
+
 ### Author(s)
 
 + [Roberto Natella](mailto:roberto.natella@unina.it)
@@ -22,7 +21,7 @@ August 08th, 2015 | Donated by [Roberto Natella](mailto:roberto.natella@unina.it
 
 # Reference
 Studies who have been using the data (in any form) are required to include the following reference:
-``` 
+```
 @article{cotroneo2013predicting,
   title={Predicting Aging-Related Bugs using Software Complexity Metrics},
   author={Cotroneo, Domenico and Natella, Roberto and Pietrantuono, Roberto},

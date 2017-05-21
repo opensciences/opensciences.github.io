@@ -8,7 +8,7 @@ version: 4
 
 # URL
 
-* [Data (External Link)](http://repairbenchmarks.cs.umass.edu.)
+* [Data Link (DOI)](https://doi.org/10.5281/zenodo.581789)
 * [Paper in ACM Digital Library](http://dl.acm.org/citation.cfm?id=2786825&dl=ACM)
 
 # Change Log

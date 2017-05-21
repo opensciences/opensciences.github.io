@@ -6,7 +6,7 @@ author: Dongsun Kim; Jaechang Nam; Jaewoo Song; Sunghun Kim
 ---
 
 # URL
-  * [Data from authors website](https://sites.google.com/site/autofixhkust/)
+  * [Data Link (DOI)](https://doi.org/10.5281/zenodo.581661)
   * [Paper Link](http://dl.acm.org/citation.cfm?id=2486893)
 
 ### Author(s)
